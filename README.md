@@ -55,10 +55,9 @@ Access to care and other factors can influence the number of emergency departmen
 ### Differences between City and State values 
 
 Generally, the NYC Health Department and the New York State Department of Health may not have matching numbers for the same metrics, though they report the same general trends. Some reasons for this can include:
-
-1.	Different data sources for a given metric 
-2.	Different analytical and informatics processes
-3.	Different uses of event date or report date (see above)
+- Different data sources for a given metric 
+- Different analytical and informatics processes
+- Different uses of event date or report date (see above)
 
 ## Emergency department visits and hospitalizations from the emergency department 
 
@@ -71,9 +70,9 @@ Hospitalizations from the emergency department do not include direct admissions 
 Respiratory illness diagnoses are identified using disease-specific diagnosis codes for general respiratory complaints, such as cough, or illnesses, such as pneumonia. Details on diagnosis codes included for the broad respiratory illness measure can be found here: [CDC_Broad_Acute_Respiratory_.pdf](https://cdn.ymaws.com/www.cste.org/resource/resmgr/pdfs/CDC_Broad_Acute_Respiratory_.pdf). 
 
 Diagnosis codes included for COVID-19, influenza, and RSV are outlined below. 
-- COVID-19: J12.82 (pneumonia due to coronavirus disease 2019) and U07.1 (COVID-19)
-- Influenza: J09 (influenza due to certain identified influenza viruses), J10 (influenza due to other identified influenza viruses), and J11 (influenza due to unidentified influenza virus)
-- RSV: B97.4 (respiratory syncytial virus as the cause of diseases classified elsewhere), J12.1 (respiratory syncytial virus pneumonia), J20.5 (acute bronchitis due to respiratory syncytial virus), and J21.0 (acute bronchiolitis due to respiratory syncytial virus) 
+- **COVID-19**: J12.82 (pneumonia due to coronavirus disease 2019) and U07.1 (COVID-19)
+- **Influenza**: J09 (influenza due to certain identified influenza viruses), J10 (influenza due to other identified influenza viruses), and J11 (influenza due to unidentified influenza virus)
+- **RSV**: B97.4 (respiratory syncytial virus as the cause of diseases classified elsewhere), J12.1 (respiratory syncytial virus pneumonia), J20.5 (acute bronchitis due to respiratory syncytial virus), and J21.0 (acute bronchiolitis due to respiratory syncytial virus) 
 
 ## Respiratory panel results 
 
@@ -91,8 +90,8 @@ Differences across respiratory seasons in the volume of positive laboratory repo
 
 Surveillance case definitions for all notifiable conditions are developed at the national level by the Council of State and Territorial Epidemiologists (CSTE). These standard definitions support public health officials in classifying and counting infections consistently across different states and local jurisdictions. The criteria for reporting a person with COVID-19 infection (“case”) are based on laboratory test results, and include two classifications:
 
-- Confirmed COVID-19 case: A person is classified as a confirmed COVID-19 case if they test positive with a molecular (e.g., PCR) test performed at a laboratory
-- Probable COVID-19 case: A person is classified as a probable COVID-19 case if they meet any of the following criteria with no positive molecular test on record: (a) test positive with an antigen test performed at a laboratory or (b) died and a cause of death is listed as COVID-19 or similar
+- **Confirmed COVID-19 case**: A person is classified as a confirmed COVID-19 case if they test positive with a molecular (e.g., PCR) test performed at a laboratory
+- **Probable COVID-19 case**: A person is classified as a probable COVID-19 case if they meet any of the following criteria with no positive molecular test on record: (a) test positive with an antigen test performed at a laboratory or (b) died and a cause of death is listed as COVID-19 or similar
 
 People who meet the definition of a confirmed or probable COVID-19 case >90 days after a previous positive test (date of first positive test) will be counted as a new case.
 
