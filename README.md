@@ -62,11 +62,11 @@ Generally, the NYC Health Department and the New York State Department of Health
 
 ## Emergency department visits and hospitalizations from the emergency department 
 
-The Health Department receives near real-time data from all 52 emergency departments in NYC. The emergency departments share diagnosis codes which can be used to identify general respiratory complaints such as cough or illnesses such as pneumonia. This information helps us see trends in illness and care-seeking among NYC residents.
+The NYC Health Department receives near real-time data from all 52 emergency departments in NYC. The emergency departments share diagnosis codes which can be used to identify general respiratory complaints such as cough or illnesses such as pneumonia. This information helps us see trends in illness and care-seeking among NYC residents.
 
 Visits and hospitalizations are mutually exclusive and presented as the percentage of all visits or hospitalizations, respectively, for each week identified with a respiratory illness or a COVID-19, influenza, or RSV diagnosis. For demographic break downs, data are presented as a percent of all emergency department visits or hospitalizations among each group.     
 
-Hospitalizations from the emergency department do not include direct admissions from a doctor's office or outpatient clinic. These hospitalizations differ from hospitalizations previously presented on the COVID-19 data webpage, which identified information on hospitalization status from a number of sources, including Regional Health Information Organizations, NYC public hospitals, non-public hospital systems, remote access to electronic health record systems, the Health Department’s electronic death registry system, and the Health Department's syndromic surveillance. 
+Hospitalizations from the emergency department do not include direct admissions from a doctor's office or outpatient clinic. These hospitalizations differ from hospitalizations previously presented on the COVID-19 data webpage, which identified information on hospitalization status from a number of sources, including Regional Health Information Organizations, NYC public hospitals, non-public hospital systems, remote access to electronic health record systems, the NYC Health Department’s electronic death registry system, and the NYC Health Department's syndromic surveillance. 
 
 Respiratory illness diagnoses are identified using disease-specific diagnosis codes for general respiratory complaints, such as cough, or illnesses, such as pneumonia. Details on diagnosis codes included for the broad respiratory illness measure can be found here: [CDC_Broad_Acute_Respiratory_.pdf](https://cdn.ymaws.com/www.cste.org/resource/resmgr/pdfs/CDC_Broad_Acute_Respiratory_.pdf). 
 
@@ -83,7 +83,7 @@ Other human coronaviruses include NL63, HKU1, OC43, and 229E, and uncategorized 
 
 ## Laboratory-reported cases
 
-The NYC Health Department receives electronic laboratory reports for a number of infectious diseases as required by law in the NYC Health Code. When a specimen is collected from a patient for SARS-CoV-2, influenza, or RSV laboratory testing, the laboratory must report all positive diagnostic test results to the Health Department. Limited demographic information on the person being tested is reported to the Health Department, including name, address, and date of birth.
+The NYC Health Department receives electronic laboratory reports for a number of infectious diseases as required by law in the NYC Health Code. When a specimen is collected from a patient for SARS-CoV-2, influenza, or RSV laboratory testing, the laboratory must report all positive diagnostic test results to the NYC Health Department. Limited demographic information on the person being tested is reported to the NYC Health Department, including name, address, and date of birth.
 
 Differences across respiratory seasons in the volume of positive laboratory reports reflect changes not only in the burden of illness, but also in patient care seeking, testing availability, and laboratory reporting practices. Point-of-care and at-home tests may be conducted in a setting outside of a clinical laboratory; these settings often do not meet the requirements for electronically reporting directly to the NYC Health Department.   
 
@@ -114,7 +114,7 @@ Pediatric (younger than 18 years of age at time of death) COVID-19 deaths are in
 
 As of September 1, 2025, pediatric COVID-19 deaths also include children without COVID-19 on the death certificate but who have a positive COVID-19 laboratory test within 30 days of death and for whom investigation has confirmed the death is related to COVID-19.   
 
-The Health Department's Bureau of Vital Statistics is responsible for the registration, analysis, and reporting of all deaths in NYC. More recent data on deaths presented here are provisional, which means that the numbers may change as the NYC Health Department continues to receive and process data. Publishing provisional data allows the NYC Health Department to share data faster, before it is finalized.   
+The NYC Health Department's Bureau of Vital Statistics is responsible for the registration, analysis, and reporting of all deaths in NYC. More recent data on deaths presented here are provisional, which means that the numbers may change as the NYC Health Department continues to receive and process data. Publishing provisional data allows the NYC Health Department to share data faster, before it is finalized.   
 
 ### Influenza-associated pediatric deaths
 
