@@ -132,7 +132,7 @@ The data in this repository include patients who reside in congregate facilities
 
 ## Age groups
 
-The NYC Health Department reports out data for the following age groups: 0-4, 5-17, 18-44, 45-64, and 65+ years. For data on deaths, age groups 0-4, 5-17 are collapsed into 0-17 years due to low death counts in this population and to protect confidentiality.
+The NYC Health Department reports out data for the following age groups: 0-4, 5-17, 18-44, 45-64, and 65+ years. For data on deaths, age groups 0-4 and 5-17 are collapsed into 0-17 years due to low death counts in this population and to protect confidentiality.
 
 ## Race and ethnicity
 
