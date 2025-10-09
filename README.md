@@ -68,7 +68,7 @@ Visits and hospitalizations are mutually exclusive and presented as the percenta
 
 Hospitalizations from the emergency department do not include direct admissions from a doctor's office or outpatient clinic. These hospitalizations differ from hospitalizations previously presented on the COVID-19 data webpage, which identified information on hospitalization status from a number of sources, including Regional Health Information Organizations, NYC public hospitals, non-public hospital systems, remote access to electronic health record systems, the Health Department’s electronic death registry system, and the Health Department's syndromic surveillance. 
 
-Respiratory illness diagnoses are identified using disease-specific diagnosis codes for general respiratory complaints, such as cough, or illnesses, such as pneumonia. Details on diagnosis codes included for the broad respiratory illness measure can be found here: CDC_Broad_Acute_Respiratory_.pdf. 
+Respiratory illness diagnoses are identified using disease-specific diagnosis codes for general respiratory complaints, such as cough, or illnesses, such as pneumonia. Details on diagnosis codes included for the broad respiratory illness measure can be found here: [CDC_Broad_Acute_Respiratory_.pdf](https://cdn.ymaws.com/www.cste.org/resource/resmgr/pdfs/CDC_Broad_Acute_Respiratory_.pdf). 
 
 Diagnosis codes included for COVID-19, influenza, and RSV are outlined below. 
 - COVID-19: J12.82 (pneumonia due to coronavirus disease 2019) and U07.1 (COVID-19)
