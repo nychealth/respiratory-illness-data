@@ -2,8 +2,8 @@
 
 This repository contains data on COVID-19 (Coronavirus Disease 2019), influenza, and RSV (respiratory syncytial virus) among New York City residents. 
 
-You can view visualizations of these data on the NYC Health Department’s Respiratory Illness Data page. These data will also be made available via NYC Open Data.
-
+You can view visualizations of these data on the [NYC Health Department’s Respiratory Illness Data page](https://www.nyc.gov/assets/doh/respiratory-illness-data/index.html#/). These data will also be made available via NYC Open Data.
+ 
 Data are preliminary and subject to change. Information on this page will change as data and documentation are updated. Tables are updated weekly on Thursdays with data through the previous Saturday.
 
 ***
