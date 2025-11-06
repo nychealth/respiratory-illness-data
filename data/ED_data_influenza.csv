@@ -1,5 +1,4 @@
 "date","Influenza visits overall","Influenza visits 0-4","Influenza visits 5-17","Influenza visits 18-64","Influenza visits 65+","Influenza visits Bronx","Influenza visits Brooklyn","Influenza visits Queens","Influenza visits Manhattan","Influenza visits Staten Island","Influenza hospitalizations overall","Influenza hospitalizations 0-4","Influenza hospitalizations 5-17","Influenza hospitalizations 18-64","Influenza hospitalizations 65+","Influenza hospitalizations Bronx","Influenza hospitalizations Brooklyn","Influenza hospitalizations Queens","Influenza hospitalizations Manhattan","Influenza hospitalizations Staten Island"
-2025-08-09,0.04,0.15,0,0.04,0.05,0.05,0.01,0.04,0.09,0.08,0.04,0,0,0.02,0.08,0,0.03,0,0.13,0.17
 2025-08-16,0.03,0.05,0.06,0.03,0.03,0.05,0.02,0.05,0.02,0,0.02,0,0,0.02,0.02,0.05,0,0,0.06,0
 2025-08-23,0.05,0.05,0.09,0.04,0.05,0.07,0.04,0.06,0.02,0,0.03,0.53,0,0,0.05,0.05,0,0.1,0,0
 2025-08-30,0.04,0.14,0.08,0.03,0.03,0.04,0.01,0.09,0.04,0.08,0.02,0,0,0.02,0.02,0.05,0,0.05,0,0
@@ -10,4 +9,5 @@
 2025-10-04,0.06,0.21,0.12,0.03,0.07,0.07,0.08,0.04,0.06,0,0.03,0,0,0.02,0.05,0,0.09,0,0,0
 2025-10-11,0.05,0.08,0.15,0.04,0.04,0.05,0.06,0.04,0.04,0.08,0.02,0,0,0.02,0.02,0,0.03,0,0,0.15
 2025-10-18,0.1,0.22,0.31,0.07,0.08,0.03,0.15,0.18,0.03,0.11,0.01,0,0,0.02,0,0,0.03,0,0,0
-2025-10-25,0.12,0.41,0.3,0.07,0.1,0.09,0.16,0.14,0.1,0.05,0.03,0,0,0,0.07,0,0.03,0.04,0,0.12
+2025-10-25,0.12,0.43,0.3,0.07,0.1,0.09,0.17,0.14,0.1,0.08,0.03,0,0,0,0.07,0,0.03,0.04,0,0.15
+2025-11-01,0.22,0.72,0.66,0.14,0.08,0.15,0.3,0.3,0.13,0.03,0.05,0,0,0.04,0.07,0.05,0.06,0.09,0,0
