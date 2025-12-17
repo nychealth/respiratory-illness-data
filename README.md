@@ -1,4 +1,4 @@
-# NYC Respiratory Illness Data 
+<img width="14484" height="216" alt="image" src="https://github.com/user-attachments/assets/87a58e3e-13ba-422e-895f-6d1956946382" /># NYC Respiratory Illness Data 
 
 This repository contains data on COVID-19 (Coronavirus Disease 2019), influenza, and RSV (respiratory syncytial virus) among New York City residents. 
 
@@ -48,9 +48,11 @@ The NYC Health Department updates data for earlier dates after resolving reporti
 
 ### Trends
 
-Trends displayed on the webpage represent the percent change and are calculated by comparing data from the latest week with data from the previous week. Changes greater than or equal to 1% compared with the previous week indicate an increasing or decreasing trend for a given metric. Changes less than 1% are not considered to be increasing or decreasing.
+Trends in the proportion of emergency department visits and hospitalizations from the emergency department displayed on the webpage represent the percent point change and are calculated as the difference between data from the latest week and data from the previous week. For respiratory illness and COVID-19, changes greater than or equal to 0.01 percentage points compared with the previous week indicate an increasing or decreasing trend. For flu, changes greater than or equal to 0.05 percentage points compared with the previous week indicate an increasing or decreasing trend. For RSV, changes greater than or equal to 0.02 percentage points compared with the previous week indicate an increasing or decreasing trend. 
 
-Access to care and other factors can influence the number of emergency department visits as well as laboratory-reported cases received by the NYC Health Department, so these data may not accurately reflect the true amount of illness among NYC residents.  
+Trends in laboratory-reported case and death counts displayed on the webpage represent the relative percent change and are calculated by comparing data from the latest week with data from the previous week. Changes greater than or equal to 1% compared with the previous week indicate an increasing or decreasing trend for a given metric. Changes less than 1% are not considered to be increasing or decreasing.
+
+Access to care and other factors can influence the number of emergency department visits as well as laboratory-reported cases received by the NYC Health Department, so these data may not accurately reflect the true amount of illness among NYC residents.
 
 ### Differences between City and State values 
 
