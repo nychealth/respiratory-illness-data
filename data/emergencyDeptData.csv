@@ -1,753 +1,753 @@
-"date","metric","submetric","value","display"
-2025-10-11,"Respiratory illness visits","Overall",7.7,"Percent"
-2025-10-18,"Respiratory illness visits","Overall",7.93,"Percent"
-2025-10-25,"Respiratory illness visits","Overall",8.23,"Percent"
-2025-11-01,"Respiratory illness visits","Overall",8.48,"Percent"
-2025-11-08,"Respiratory illness visits","Overall",9.4,"Percent"
-2025-11-15,"Respiratory illness visits","Overall",9.61,"Percent"
-2025-11-22,"Respiratory illness visits","Overall",11.43,"Percent"
-2025-11-29,"Respiratory illness visits","Overall",14.91,"Percent"
-2025-12-06,"Respiratory illness visits","Overall",16.46,"Percent"
-2025-12-13,"Respiratory illness visits","Overall",20.62,"Percent"
-2025-12-20,"Respiratory illness visits","Overall",23.75,"Percent"
-2025-12-27,"Respiratory illness visits","Overall",22.22,"Percent"
-2025-10-11,"Respiratory illness hospitalizations","Overall",7.76,"Percent"
-2025-10-18,"Respiratory illness hospitalizations","Overall",7.78,"Percent"
-2025-10-25,"Respiratory illness hospitalizations","Overall",7.51,"Percent"
-2025-11-01,"Respiratory illness hospitalizations","Overall",7.72,"Percent"
-2025-11-08,"Respiratory illness hospitalizations","Overall",8.13,"Percent"
-2025-11-15,"Respiratory illness hospitalizations","Overall",8.5,"Percent"
-2025-11-22,"Respiratory illness hospitalizations","Overall",8.67,"Percent"
-2025-11-29,"Respiratory illness hospitalizations","Overall",10.14,"Percent"
-2025-12-06,"Respiratory illness hospitalizations","Overall",10.98,"Percent"
-2025-12-13,"Respiratory illness hospitalizations","Overall",11.96,"Percent"
-2025-12-20,"Respiratory illness hospitalizations","Overall",14.64,"Percent"
-2025-12-27,"Respiratory illness hospitalizations","Overall",14.66,"Percent"
-2025-10-11,"COVID-19 visits","Overall",0.29,"Percent"
-2025-10-18,"COVID-19 visits","Overall",0.22,"Percent"
-2025-10-25,"COVID-19 visits","Overall",0.17,"Percent"
-2025-11-01,"COVID-19 visits","Overall",0.18,"Percent"
-2025-11-08,"COVID-19 visits","Overall",0.18,"Percent"
-2025-11-15,"COVID-19 visits","Overall",0.18,"Percent"
-2025-11-22,"COVID-19 visits","Overall",0.14,"Percent"
-2025-11-29,"COVID-19 visits","Overall",0.18,"Percent"
-2025-12-06,"COVID-19 visits","Overall",0.19,"Percent"
-2025-12-13,"COVID-19 visits","Overall",0.19,"Percent"
-2025-12-20,"COVID-19 visits","Overall",0.19,"Percent"
-2025-12-27,"COVID-19 visits","Overall",0.25,"Percent"
-2025-10-11,"COVID-19 visits by age group","0-4",0.83,"Percent"
-2025-10-18,"COVID-19 visits by age group","0-4",0.43,"Percent"
-2025-10-25,"COVID-19 visits by age group","0-4",0.47,"Percent"
-2025-11-01,"COVID-19 visits by age group","0-4",0.37,"Percent"
-2025-11-08,"COVID-19 visits by age group","0-4",0.48,"Percent"
-2025-11-15,"COVID-19 visits by age group","0-4",0.55,"Percent"
-2025-11-22,"COVID-19 visits by age group","0-4",0.31,"Percent"
-2025-11-29,"COVID-19 visits by age group","0-4",0.23,"Percent"
-2025-12-06,"COVID-19 visits by age group","0-4",0.28,"Percent"
-2025-12-13,"COVID-19 visits by age group","0-4",0.3,"Percent"
-2025-12-20,"COVID-19 visits by age group","0-4",0.17,"Percent"
-2025-12-27,"COVID-19 visits by age group","0-4",0.43,"Percent"
-2025-10-11,"COVID-19 visits by age group","5-17",0.16,"Percent"
-2025-10-18,"COVID-19 visits by age group","5-17",0.1,"Percent"
-2025-10-25,"COVID-19 visits by age group","5-17",0.07,"Percent"
-2025-11-01,"COVID-19 visits by age group","5-17",0.14,"Percent"
-2025-11-08,"COVID-19 visits by age group","5-17",0.09,"Percent"
-2025-11-15,"COVID-19 visits by age group","5-17",0.06,"Percent"
-2025-11-22,"COVID-19 visits by age group","5-17",0.03,"Percent"
-2025-11-29,"COVID-19 visits by age group","5-17",0.1,"Percent"
-2025-12-06,"COVID-19 visits by age group","5-17",0.08,"Percent"
-2025-12-13,"COVID-19 visits by age group","5-17",0.1,"Percent"
-2025-12-20,"COVID-19 visits by age group","5-17",0.15,"Percent"
-2025-12-27,"COVID-19 visits by age group","5-17",0.2,"Percent"
-2025-10-11,"COVID-19 visits by age group","18-64",0.19,"Percent"
-2025-10-18,"COVID-19 visits by age group","18-64",0.16,"Percent"
-2025-10-25,"COVID-19 visits by age group","18-64",0.13,"Percent"
-2025-11-01,"COVID-19 visits by age group","18-64",0.12,"Percent"
-2025-11-08,"COVID-19 visits by age group","18-64",0.12,"Percent"
-2025-11-15,"COVID-19 visits by age group","18-64",0.13,"Percent"
-2025-11-22,"COVID-19 visits by age group","18-64",0.11,"Percent"
-2025-11-29,"COVID-19 visits by age group","18-64",0.14,"Percent"
-2025-12-06,"COVID-19 visits by age group","18-64",0.15,"Percent"
-2025-12-13,"COVID-19 visits by age group","18-64",0.16,"Percent"
-2025-12-20,"COVID-19 visits by age group","18-64",0.17,"Percent"
-2025-12-27,"COVID-19 visits by age group","18-64",0.19,"Percent"
-2025-10-11,"COVID-19 visits by age group","65+",0.48,"Percent"
-2025-10-18,"COVID-19 visits by age group","65+",0.38,"Percent"
-2025-10-25,"COVID-19 visits by age group","65+",0.25,"Percent"
-2025-11-01,"COVID-19 visits by age group","65+",0.31,"Percent"
-2025-11-08,"COVID-19 visits by age group","65+",0.31,"Percent"
-2025-11-15,"COVID-19 visits by age group","65+",0.28,"Percent"
-2025-11-22,"COVID-19 visits by age group","65+",0.23,"Percent"
-2025-11-29,"COVID-19 visits by age group","65+",0.34,"Percent"
-2025-12-06,"COVID-19 visits by age group","65+",0.3,"Percent"
-2025-12-13,"COVID-19 visits by age group","65+",0.27,"Percent"
-2025-12-20,"COVID-19 visits by age group","65+",0.28,"Percent"
-2025-12-27,"COVID-19 visits by age group","65+",0.36,"Percent"
-2025-10-11,"COVID-19 visits by borough","Bronx",0.26,"Percent"
-2025-10-18,"COVID-19 visits by borough","Bronx",0.2,"Percent"
-2025-10-25,"COVID-19 visits by borough","Bronx",0.15,"Percent"
-2025-11-01,"COVID-19 visits by borough","Bronx",0.17,"Percent"
-2025-11-08,"COVID-19 visits by borough","Bronx",0.16,"Percent"
-2025-11-15,"COVID-19 visits by borough","Bronx",0.16,"Percent"
-2025-11-22,"COVID-19 visits by borough","Bronx",0.12,"Percent"
-2025-11-29,"COVID-19 visits by borough","Bronx",0.14,"Percent"
-2025-12-06,"COVID-19 visits by borough","Bronx",0.18,"Percent"
-2025-12-13,"COVID-19 visits by borough","Bronx",0.16,"Percent"
-2025-12-20,"COVID-19 visits by borough","Bronx",0.14,"Percent"
-2025-12-27,"COVID-19 visits by borough","Bronx",0.22,"Percent"
-2025-10-11,"COVID-19 visits by borough","Brooklyn",0.28,"Percent"
-2025-10-18,"COVID-19 visits by borough","Brooklyn",0.2,"Percent"
-2025-10-25,"COVID-19 visits by borough","Brooklyn",0.21,"Percent"
-2025-11-01,"COVID-19 visits by borough","Brooklyn",0.17,"Percent"
-2025-11-08,"COVID-19 visits by borough","Brooklyn",0.2,"Percent"
-2025-11-15,"COVID-19 visits by borough","Brooklyn",0.22,"Percent"
-2025-11-22,"COVID-19 visits by borough","Brooklyn",0.18,"Percent"
-2025-11-29,"COVID-19 visits by borough","Brooklyn",0.19,"Percent"
-2025-12-06,"COVID-19 visits by borough","Brooklyn",0.16,"Percent"
-2025-12-13,"COVID-19 visits by borough","Brooklyn",0.18,"Percent"
-2025-12-20,"COVID-19 visits by borough","Brooklyn",0.17,"Percent"
-2025-12-27,"COVID-19 visits by borough","Brooklyn",0.25,"Percent"
-2025-10-11,"COVID-19 visits by borough","Manhattan",0.27,"Percent"
-2025-10-18,"COVID-19 visits by borough","Manhattan",0.22,"Percent"
-2025-10-25,"COVID-19 visits by borough","Manhattan",0.12,"Percent"
-2025-11-01,"COVID-19 visits by borough","Manhattan",0.13,"Percent"
-2025-11-08,"COVID-19 visits by borough","Manhattan",0.18,"Percent"
-2025-11-15,"COVID-19 visits by borough","Manhattan",0.09,"Percent"
-2025-11-22,"COVID-19 visits by borough","Manhattan",0.12,"Percent"
-2025-11-29,"COVID-19 visits by borough","Manhattan",0.17,"Percent"
-2025-12-06,"COVID-19 visits by borough","Manhattan",0.07,"Percent"
-2025-12-13,"COVID-19 visits by borough","Manhattan",0.17,"Percent"
-2025-12-20,"COVID-19 visits by borough","Manhattan",0.16,"Percent"
-2025-12-27,"COVID-19 visits by borough","Manhattan",0.25,"Percent"
-2025-10-11,"COVID-19 visits by borough","Queens",0.38,"Percent"
-2025-10-18,"COVID-19 visits by borough","Queens",0.29,"Percent"
-2025-10-25,"COVID-19 visits by borough","Queens",0.19,"Percent"
-2025-11-01,"COVID-19 visits by borough","Queens",0.24,"Percent"
-2025-11-08,"COVID-19 visits by borough","Queens",0.19,"Percent"
-2025-11-15,"COVID-19 visits by borough","Queens",0.25,"Percent"
-2025-11-22,"COVID-19 visits by borough","Queens",0.13,"Percent"
-2025-11-29,"COVID-19 visits by borough","Queens",0.17,"Percent"
-2025-12-06,"COVID-19 visits by borough","Queens",0.27,"Percent"
-2025-12-13,"COVID-19 visits by borough","Queens",0.2,"Percent"
-2025-12-20,"COVID-19 visits by borough","Queens",0.25,"Percent"
-2025-12-27,"COVID-19 visits by borough","Queens",0.25,"Percent"
-2025-10-11,"COVID-19 visits by borough","Staten Island",0.23,"Percent"
-2025-10-18,"COVID-19 visits by borough","Staten Island",0.21,"Percent"
-2025-10-25,"COVID-19 visits by borough","Staten Island",0.23,"Percent"
-2025-11-01,"COVID-19 visits by borough","Staten Island",0.19,"Percent"
-2025-11-08,"COVID-19 visits by borough","Staten Island",0.2,"Percent"
-2025-11-15,"COVID-19 visits by borough","Staten Island",0.13,"Percent"
-2025-11-22,"COVID-19 visits by borough","Staten Island",0.18,"Percent"
-2025-11-29,"COVID-19 visits by borough","Staten Island",0.38,"Percent"
-2025-12-06,"COVID-19 visits by borough","Staten Island",0.33,"Percent"
-2025-12-13,"COVID-19 visits by borough","Staten Island",0.36,"Percent"
-2025-12-20,"COVID-19 visits by borough","Staten Island",0.35,"Percent"
-2025-12-27,"COVID-19 visits by borough","Staten Island",0.45,"Percent"
-2025-10-11,"COVID-19 hospitalizations","Overall",0.34,"Percent"
-2025-10-18,"COVID-19 hospitalizations","Overall",0.26,"Percent"
-2025-10-25,"COVID-19 hospitalizations","Overall",0.23,"Percent"
-2025-11-01,"COVID-19 hospitalizations","Overall",0.29,"Percent"
-2025-11-08,"COVID-19 hospitalizations","Overall",0.23,"Percent"
-2025-11-15,"COVID-19 hospitalizations","Overall",0.22,"Percent"
-2025-11-22,"COVID-19 hospitalizations","Overall",0.17,"Percent"
-2025-11-29,"COVID-19 hospitalizations","Overall",0.34,"Percent"
-2025-12-06,"COVID-19 hospitalizations","Overall",0.22,"Percent"
-2025-12-13,"COVID-19 hospitalizations","Overall",0.22,"Percent"
-2025-12-20,"COVID-19 hospitalizations","Overall",0.25,"Percent"
-2025-12-27,"COVID-19 hospitalizations","Overall",0.22,"Percent"
-2025-10-11,"COVID-19 hospitalizations by age group","0-4",1.11,"Percent"
-2025-10-18,"COVID-19 hospitalizations by age group","0-4",0.45,"Percent"
-2025-10-25,"COVID-19 hospitalizations by age group","0-4",1.15,"Percent"
-2025-11-01,"COVID-19 hospitalizations by age group","0-4",0,"Percent"
-2025-11-08,"COVID-19 hospitalizations by age group","0-4",0.32,"Percent"
-2025-11-15,"COVID-19 hospitalizations by age group","0-4",0.35,"Percent"
-2025-11-22,"COVID-19 hospitalizations by age group","0-4",0,"Percent"
-2025-11-29,"COVID-19 hospitalizations by age group","0-4",0,"Percent"
-2025-12-06,"COVID-19 hospitalizations by age group","0-4",0.24,"Percent"
-2025-12-13,"COVID-19 hospitalizations by age group","0-4",0.27,"Percent"
-2025-12-20,"COVID-19 hospitalizations by age group","0-4",0.23,"Percent"
-2025-12-27,"COVID-19 hospitalizations by age group","0-4",0.28,"Percent"
-2025-10-11,"COVID-19 hospitalizations by age group","5-17",0,"Percent"
-2025-10-18,"COVID-19 hospitalizations by age group","5-17",0,"Percent"
-2025-10-25,"COVID-19 hospitalizations by age group","5-17",0,"Percent"
-2025-11-01,"COVID-19 hospitalizations by age group","5-17",0.31,"Percent"
-2025-11-08,"COVID-19 hospitalizations by age group","5-17",0,"Percent"
-2025-11-15,"COVID-19 hospitalizations by age group","5-17",0,"Percent"
-2025-11-22,"COVID-19 hospitalizations by age group","5-17",0,"Percent"
-2025-11-29,"COVID-19 hospitalizations by age group","5-17",0.3,"Percent"
-2025-12-06,"COVID-19 hospitalizations by age group","5-17",0,"Percent"
-2025-12-13,"COVID-19 hospitalizations by age group","5-17",0.24,"Percent"
-2025-12-20,"COVID-19 hospitalizations by age group","5-17",0,"Percent"
-2025-12-27,"COVID-19 hospitalizations by age group","5-17",0,"Percent"
-2025-10-11,"COVID-19 hospitalizations by age group","18-64",0.06,"Percent"
-2025-10-18,"COVID-19 hospitalizations by age group","18-64",0.08,"Percent"
-2025-10-25,"COVID-19 hospitalizations by age group","18-64",0.14,"Percent"
-2025-11-01,"COVID-19 hospitalizations by age group","18-64",0.17,"Percent"
-2025-11-08,"COVID-19 hospitalizations by age group","18-64",0.11,"Percent"
-2025-11-15,"COVID-19 hospitalizations by age group","18-64",0.12,"Percent"
-2025-11-22,"COVID-19 hospitalizations by age group","18-64",0.06,"Percent"
-2025-11-29,"COVID-19 hospitalizations by age group","18-64",0.15,"Percent"
-2025-12-06,"COVID-19 hospitalizations by age group","18-64",0.11,"Percent"
-2025-12-13,"COVID-19 hospitalizations by age group","18-64",0.1,"Percent"
-2025-12-20,"COVID-19 hospitalizations by age group","18-64",0.12,"Percent"
-2025-12-27,"COVID-19 hospitalizations by age group","18-64",0.13,"Percent"
-2025-10-11,"COVID-19 hospitalizations by age group","65+",0.68,"Percent"
-2025-10-18,"COVID-19 hospitalizations by age group","65+",0.46,"Percent"
-2025-10-25,"COVID-19 hospitalizations by age group","65+",0.31,"Percent"
-2025-11-01,"COVID-19 hospitalizations by age group","65+",0.46,"Percent"
-2025-11-08,"COVID-19 hospitalizations by age group","65+",0.39,"Percent"
-2025-11-15,"COVID-19 hospitalizations by age group","65+",0.37,"Percent"
-2025-11-22,"COVID-19 hospitalizations by age group","65+",0.34,"Percent"
-2025-11-29,"COVID-19 hospitalizations by age group","65+",0.61,"Percent"
-2025-12-06,"COVID-19 hospitalizations by age group","65+",0.37,"Percent"
-2025-12-13,"COVID-19 hospitalizations by age group","65+",0.36,"Percent"
-2025-12-20,"COVID-19 hospitalizations by age group","65+",0.43,"Percent"
-2025-12-27,"COVID-19 hospitalizations by age group","65+",0.34,"Percent"
-2025-10-11,"COVID-19 hospitalizations by borough","Bronx",0.2,"Percent"
-2025-10-18,"COVID-19 hospitalizations by borough","Bronx",0.1,"Percent"
-2025-10-25,"COVID-19 hospitalizations by borough","Bronx",0.2,"Percent"
-2025-11-01,"COVID-19 hospitalizations by borough","Bronx",0.31,"Percent"
-2025-11-08,"COVID-19 hospitalizations by borough","Bronx",0,"Percent"
-2025-11-15,"COVID-19 hospitalizations by borough","Bronx",0.15,"Percent"
-2025-11-22,"COVID-19 hospitalizations by borough","Bronx",0.11,"Percent"
-2025-11-29,"COVID-19 hospitalizations by borough","Bronx",0.22,"Percent"
-2025-12-06,"COVID-19 hospitalizations by borough","Bronx",0.14,"Percent"
-2025-12-13,"COVID-19 hospitalizations by borough","Bronx",0.24,"Percent"
-2025-12-20,"COVID-19 hospitalizations by borough","Bronx",0.14,"Percent"
-2025-12-27,"COVID-19 hospitalizations by borough","Bronx",0.09,"Percent"
-2025-10-11,"COVID-19 hospitalizations by borough","Brooklyn",0.36,"Percent"
-2025-10-18,"COVID-19 hospitalizations by borough","Brooklyn",0.15,"Percent"
-2025-10-25,"COVID-19 hospitalizations by borough","Brooklyn",0.31,"Percent"
-2025-11-01,"COVID-19 hospitalizations by borough","Brooklyn",0.21,"Percent"
-2025-11-08,"COVID-19 hospitalizations by borough","Brooklyn",0.28,"Percent"
-2025-11-15,"COVID-19 hospitalizations by borough","Brooklyn",0.15,"Percent"
-2025-11-22,"COVID-19 hospitalizations by borough","Brooklyn",0.26,"Percent"
-2025-11-29,"COVID-19 hospitalizations by borough","Brooklyn",0.33,"Percent"
-2025-12-06,"COVID-19 hospitalizations by borough","Brooklyn",0.24,"Percent"
-2025-12-13,"COVID-19 hospitalizations by borough","Brooklyn",0.27,"Percent"
-2025-12-20,"COVID-19 hospitalizations by borough","Brooklyn",0.13,"Percent"
-2025-12-27,"COVID-19 hospitalizations by borough","Brooklyn",0.21,"Percent"
-2025-10-11,"COVID-19 hospitalizations by borough","Manhattan",0.32,"Percent"
-2025-10-18,"COVID-19 hospitalizations by borough","Manhattan",0.13,"Percent"
-2025-10-25,"COVID-19 hospitalizations by borough","Manhattan",0.07,"Percent"
-2025-11-01,"COVID-19 hospitalizations by borough","Manhattan",0.27,"Percent"
-2025-11-08,"COVID-19 hospitalizations by borough","Manhattan",0.13,"Percent"
-2025-11-15,"COVID-19 hospitalizations by borough","Manhattan",0.14,"Percent"
-2025-11-22,"COVID-19 hospitalizations by borough","Manhattan",0.21,"Percent"
-2025-11-29,"COVID-19 hospitalizations by borough","Manhattan",0.22,"Percent"
-2025-12-06,"COVID-19 hospitalizations by borough","Manhattan",0.19,"Percent"
-2025-12-13,"COVID-19 hospitalizations by borough","Manhattan",0.06,"Percent"
-2025-12-20,"COVID-19 hospitalizations by borough","Manhattan",0.26,"Percent"
-2025-12-27,"COVID-19 hospitalizations by borough","Manhattan",0.34,"Percent"
-2025-10-11,"COVID-19 hospitalizations by borough","Queens",0.4,"Percent"
-2025-10-18,"COVID-19 hospitalizations by borough","Queens",0.61,"Percent"
-2025-10-25,"COVID-19 hospitalizations by borough","Queens",0.27,"Percent"
-2025-11-01,"COVID-19 hospitalizations by borough","Queens",0.5,"Percent"
-2025-11-08,"COVID-19 hospitalizations by borough","Queens",0.38,"Percent"
-2025-11-15,"COVID-19 hospitalizations by borough","Queens",0.46,"Percent"
-2025-11-22,"COVID-19 hospitalizations by borough","Queens",0.05,"Percent"
-2025-11-29,"COVID-19 hospitalizations by borough","Queens",0.45,"Percent"
-2025-12-06,"COVID-19 hospitalizations by borough","Queens",0.21,"Percent"
-2025-12-13,"COVID-19 hospitalizations by borough","Queens",0.17,"Percent"
-2025-12-20,"COVID-19 hospitalizations by borough","Queens",0.46,"Percent"
-2025-12-27,"COVID-19 hospitalizations by borough","Queens",0.24,"Percent"
-2025-10-11,"COVID-19 hospitalizations by borough","Staten Island",0.62,"Percent"
-2025-10-18,"COVID-19 hospitalizations by borough","Staten Island",0.3,"Percent"
-2025-10-25,"COVID-19 hospitalizations by borough","Staten Island",0.15,"Percent"
-2025-11-01,"COVID-19 hospitalizations by borough","Staten Island",0,"Percent"
-2025-11-08,"COVID-19 hospitalizations by borough","Staten Island",0.4,"Percent"
-2025-11-15,"COVID-19 hospitalizations by borough","Staten Island",0.3,"Percent"
-2025-11-22,"COVID-19 hospitalizations by borough","Staten Island",0.28,"Percent"
-2025-11-29,"COVID-19 hospitalizations by borough","Staten Island",0.6,"Percent"
-2025-12-06,"COVID-19 hospitalizations by borough","Staten Island",0.41,"Percent"
-2025-12-13,"COVID-19 hospitalizations by borough","Staten Island",0.41,"Percent"
-2025-12-20,"COVID-19 hospitalizations by borough","Staten Island",0.5,"Percent"
-2025-12-27,"COVID-19 hospitalizations by borough","Staten Island",0.42,"Percent"
-2025-10-11,"Influenza visits","Overall",0.05,"Percent"
-2025-10-18,"Influenza visits","Overall",0.1,"Percent"
-2025-10-25,"Influenza visits","Overall",0.12,"Percent"
-2025-11-01,"Influenza visits","Overall",0.22,"Percent"
-2025-11-08,"Influenza visits","Overall",0.47,"Percent"
-2025-11-15,"Influenza visits","Overall",0.64,"Percent"
-2025-11-22,"Influenza visits","Overall",1.57,"Percent"
-2025-11-29,"Influenza visits","Overall",3.4,"Percent"
-2025-12-06,"Influenza visits","Overall",4.21,"Percent"
-2025-12-13,"Influenza visits","Overall",6.76,"Percent"
-2025-12-20,"Influenza visits","Overall",8.88,"Percent"
-2025-12-27,"Influenza visits","Overall",7.92,"Percent"
-2025-10-11,"Influenza visits by age group","0-4",0.08,"Percent"
-2025-10-18,"Influenza visits by age group","0-4",0.22,"Percent"
-2025-10-25,"Influenza visits by age group","0-4",0.43,"Percent"
-2025-11-01,"Influenza visits by age group","0-4",0.72,"Percent"
-2025-11-08,"Influenza visits by age group","0-4",1.23,"Percent"
-2025-11-15,"Influenza visits by age group","0-4",1.83,"Percent"
-2025-11-22,"Influenza visits by age group","0-4",3.44,"Percent"
-2025-11-29,"Influenza visits by age group","0-4",8.38,"Percent"
-2025-12-06,"Influenza visits by age group","0-4",9.05,"Percent"
-2025-12-13,"Influenza visits by age group","0-4",13.75,"Percent"
-2025-12-20,"Influenza visits by age group","0-4",17.11,"Percent"
-2025-12-27,"Influenza visits by age group","0-4",15.51,"Percent"
-2025-10-11,"Influenza visits by age group","5-17",0.15,"Percent"
-2025-10-18,"Influenza visits by age group","5-17",0.31,"Percent"
-2025-10-25,"Influenza visits by age group","5-17",0.3,"Percent"
-2025-11-01,"Influenza visits by age group","5-17",0.7,"Percent"
-2025-11-08,"Influenza visits by age group","5-17",1.81,"Percent"
-2025-11-15,"Influenza visits by age group","5-17",2.35,"Percent"
-2025-11-22,"Influenza visits by age group","5-17",5.54,"Percent"
-2025-11-29,"Influenza visits by age group","5-17",11.12,"Percent"
-2025-12-06,"Influenza visits by age group","5-17",10.75,"Percent"
-2025-12-13,"Influenza visits by age group","5-17",16.55,"Percent"
-2025-12-20,"Influenza visits by age group","5-17",17.67,"Percent"
-2025-12-27,"Influenza visits by age group","5-17",14.36,"Percent"
-2025-10-11,"Influenza visits by age group","18-64",0.03,"Percent"
-2025-10-18,"Influenza visits by age group","18-64",0.07,"Percent"
-2025-10-25,"Influenza visits by age group","18-64",0.07,"Percent"
-2025-11-01,"Influenza visits by age group","18-64",0.14,"Percent"
-2025-11-08,"Influenza visits by age group","18-64",0.28,"Percent"
-2025-11-15,"Influenza visits by age group","18-64",0.38,"Percent"
-2025-11-22,"Influenza visits by age group","18-64",0.93,"Percent"
-2025-11-29,"Influenza visits by age group","18-64",1.91,"Percent"
-2025-12-06,"Influenza visits by age group","18-64",2.88,"Percent"
-2025-12-13,"Influenza visits by age group","18-64",4.4,"Percent"
-2025-12-20,"Influenza visits by age group","18-64",6.45,"Percent"
-2025-12-27,"Influenza visits by age group","18-64",6.11,"Percent"
-2025-10-11,"Influenza visits by age group","65+",0.04,"Percent"
-2025-10-18,"Influenza visits by age group","65+",0.08,"Percent"
-2025-10-25,"Influenza visits by age group","65+",0.1,"Percent"
-2025-11-01,"Influenza visits by age group","65+",0.08,"Percent"
-2025-11-08,"Influenza visits by age group","65+",0.17,"Percent"
-2025-11-15,"Influenza visits by age group","65+",0.28,"Percent"
-2025-11-22,"Influenza visits by age group","65+",0.7,"Percent"
-2025-11-29,"Influenza visits by age group","65+",1.39,"Percent"
-2025-12-06,"Influenza visits by age group","65+",2.23,"Percent"
-2025-12-13,"Influenza visits by age group","65+",3.55,"Percent"
-2025-12-20,"Influenza visits by age group","65+",5.52,"Percent"
-2025-12-27,"Influenza visits by age group","65+",6.2,"Percent"
-2025-10-11,"Influenza visits by borough","Bronx",0.05,"Percent"
-2025-10-18,"Influenza visits by borough","Bronx",0.03,"Percent"
-2025-10-25,"Influenza visits by borough","Bronx",0.09,"Percent"
-2025-11-01,"Influenza visits by borough","Bronx",0.15,"Percent"
-2025-11-08,"Influenza visits by borough","Bronx",0.31,"Percent"
-2025-11-15,"Influenza visits by borough","Bronx",0.38,"Percent"
-2025-11-22,"Influenza visits by borough","Bronx",1.31,"Percent"
-2025-11-29,"Influenza visits by borough","Bronx",3.48,"Percent"
-2025-12-06,"Influenza visits by borough","Bronx",4.6,"Percent"
-2025-12-13,"Influenza visits by borough","Bronx",7.99,"Percent"
-2025-12-20,"Influenza visits by borough","Bronx",10.3,"Percent"
-2025-12-27,"Influenza visits by borough","Bronx",8.59,"Percent"
-2025-10-11,"Influenza visits by borough","Brooklyn",0.06,"Percent"
-2025-10-18,"Influenza visits by borough","Brooklyn",0.15,"Percent"
-2025-10-25,"Influenza visits by borough","Brooklyn",0.16,"Percent"
-2025-11-01,"Influenza visits by borough","Brooklyn",0.31,"Percent"
-2025-11-08,"Influenza visits by borough","Brooklyn",0.49,"Percent"
-2025-11-15,"Influenza visits by borough","Brooklyn",0.85,"Percent"
-2025-11-22,"Influenza visits by borough","Brooklyn",1.9,"Percent"
-2025-11-29,"Influenza visits by borough","Brooklyn",3.3,"Percent"
-2025-12-06,"Influenza visits by borough","Brooklyn",3.97,"Percent"
-2025-12-13,"Influenza visits by borough","Brooklyn",6.27,"Percent"
-2025-12-20,"Influenza visits by borough","Brooklyn",7.84,"Percent"
-2025-12-27,"Influenza visits by borough","Brooklyn",7.04,"Percent"
-2025-10-11,"Influenza visits by borough","Manhattan",0.04,"Percent"
-2025-10-18,"Influenza visits by borough","Manhattan",0.03,"Percent"
-2025-10-25,"Influenza visits by borough","Manhattan",0.1,"Percent"
-2025-11-01,"Influenza visits by borough","Manhattan",0.13,"Percent"
-2025-11-08,"Influenza visits by borough","Manhattan",0.4,"Percent"
-2025-11-15,"Influenza visits by borough","Manhattan",0.53,"Percent"
-2025-11-22,"Influenza visits by borough","Manhattan",1.03,"Percent"
-2025-11-29,"Influenza visits by borough","Manhattan",2.14,"Percent"
-2025-12-06,"Influenza visits by borough","Manhattan",2.81,"Percent"
-2025-12-13,"Influenza visits by borough","Manhattan",4.7,"Percent"
-2025-12-20,"Influenza visits by borough","Manhattan",7.32,"Percent"
-2025-12-27,"Influenza visits by borough","Manhattan",7.2,"Percent"
-2025-10-11,"Influenza visits by borough","Queens",0.04,"Percent"
-2025-10-18,"Influenza visits by borough","Queens",0.18,"Percent"
-2025-10-25,"Influenza visits by borough","Queens",0.14,"Percent"
-2025-11-01,"Influenza visits by borough","Queens",0.3,"Percent"
-2025-11-08,"Influenza visits by borough","Queens",0.72,"Percent"
-2025-11-15,"Influenza visits by borough","Queens",0.84,"Percent"
-2025-11-22,"Influenza visits by borough","Queens",1.99,"Percent"
-2025-11-29,"Influenza visits by borough","Queens",4.72,"Percent"
-2025-12-06,"Influenza visits by borough","Queens",5.38,"Percent"
-2025-12-13,"Influenza visits by borough","Queens",7.82,"Percent"
-2025-12-20,"Influenza visits by borough","Queens",9.96,"Percent"
-2025-12-27,"Influenza visits by borough","Queens",9.19,"Percent"
-2025-10-11,"Influenza visits by borough","Staten Island",0.08,"Percent"
-2025-10-18,"Influenza visits by borough","Staten Island",0.11,"Percent"
-2025-10-25,"Influenza visits by borough","Staten Island",0.08,"Percent"
-2025-11-01,"Influenza visits by borough","Staten Island",0.03,"Percent"
-2025-11-08,"Influenza visits by borough","Staten Island",0.27,"Percent"
-2025-11-15,"Influenza visits by borough","Staten Island",0.44,"Percent"
-2025-11-22,"Influenza visits by borough","Staten Island",0.99,"Percent"
-2025-11-29,"Influenza visits by borough","Staten Island",2.12,"Percent"
-2025-12-06,"Influenza visits by borough","Staten Island",3.34,"Percent"
-2025-12-13,"Influenza visits by borough","Staten Island",5.94,"Percent"
-2025-12-20,"Influenza visits by borough","Staten Island",8.82,"Percent"
-2025-12-27,"Influenza visits by borough","Staten Island",7.15,"Percent"
-2025-10-11,"Influenza hospitalizations","Overall",0.02,"Percent"
-2025-10-18,"Influenza hospitalizations","Overall",0.01,"Percent"
-2025-10-25,"Influenza hospitalizations","Overall",0.03,"Percent"
-2025-11-01,"Influenza hospitalizations","Overall",0.04,"Percent"
-2025-11-08,"Influenza hospitalizations","Overall",0.15,"Percent"
-2025-11-15,"Influenza hospitalizations","Overall",0.31,"Percent"
-2025-11-22,"Influenza hospitalizations","Overall",0.67,"Percent"
-2025-11-29,"Influenza hospitalizations","Overall",1.33,"Percent"
-2025-12-06,"Influenza hospitalizations","Overall",1.89,"Percent"
-2025-12-13,"Influenza hospitalizations","Overall",3.17,"Percent"
-2025-12-20,"Influenza hospitalizations","Overall",4.82,"Percent"
-2025-12-27,"Influenza hospitalizations","Overall",4.42,"Percent"
-2025-10-11,"Influenza hospitalizations by age group","0-4",0,"Percent"
-2025-10-18,"Influenza hospitalizations by age group","0-4",0,"Percent"
-2025-10-25,"Influenza hospitalizations by age group","0-4",0,"Percent"
-2025-11-01,"Influenza hospitalizations by age group","0-4",0,"Percent"
-2025-11-08,"Influenza hospitalizations by age group","0-4",0,"Percent"
-2025-11-15,"Influenza hospitalizations by age group","0-4",0.69,"Percent"
-2025-11-22,"Influenza hospitalizations by age group","0-4",0.95,"Percent"
-2025-11-29,"Influenza hospitalizations by age group","0-4",3.61,"Percent"
-2025-12-06,"Influenza hospitalizations by age group","0-4",4.1,"Percent"
-2025-12-13,"Influenza hospitalizations by age group","0-4",8.56,"Percent"
-2025-12-20,"Influenza hospitalizations by age group","0-4",13.07,"Percent"
-2025-12-27,"Influenza hospitalizations by age group","0-4",8.29,"Percent"
-2025-10-11,"Influenza hospitalizations by age group","5-17",0,"Percent"
-2025-10-18,"Influenza hospitalizations by age group","5-17",0,"Percent"
-2025-10-25,"Influenza hospitalizations by age group","5-17",0,"Percent"
-2025-11-01,"Influenza hospitalizations by age group","5-17",0,"Percent"
-2025-11-08,"Influenza hospitalizations by age group","5-17",1.14,"Percent"
-2025-11-15,"Influenza hospitalizations by age group","5-17",1.6,"Percent"
-2025-11-22,"Influenza hospitalizations by age group","5-17",2.87,"Percent"
-2025-11-29,"Influenza hospitalizations by age group","5-17",4.18,"Percent"
-2025-12-06,"Influenza hospitalizations by age group","5-17",4.75,"Percent"
-2025-12-13,"Influenza hospitalizations by age group","5-17",8.59,"Percent"
-2025-12-20,"Influenza hospitalizations by age group","5-17",9.44,"Percent"
-2025-12-27,"Influenza hospitalizations by age group","5-17",5.37,"Percent"
-2025-10-11,"Influenza hospitalizations by age group","18-64",0.02,"Percent"
-2025-10-18,"Influenza hospitalizations by age group","18-64",0.02,"Percent"
-2025-10-25,"Influenza hospitalizations by age group","18-64",0,"Percent"
-2025-11-01,"Influenza hospitalizations by age group","18-64",0.04,"Percent"
-2025-11-08,"Influenza hospitalizations by age group","18-64",0.04,"Percent"
-2025-11-15,"Influenza hospitalizations by age group","18-64",0.22,"Percent"
-2025-11-22,"Influenza hospitalizations by age group","18-64",0.55,"Percent"
-2025-11-29,"Influenza hospitalizations by age group","18-64",0.8,"Percent"
-2025-12-06,"Influenza hospitalizations by age group","18-64",1.26,"Percent"
-2025-12-13,"Influenza hospitalizations by age group","18-64",2.01,"Percent"
-2025-12-20,"Influenza hospitalizations by age group","18-64",2.98,"Percent"
-2025-12-27,"Influenza hospitalizations by age group","18-64",2.66,"Percent"
-2025-10-11,"Influenza hospitalizations by age group","65+",0.02,"Percent"
-2025-10-18,"Influenza hospitalizations by age group","65+",0,"Percent"
-2025-10-25,"Influenza hospitalizations by age group","65+",0.07,"Percent"
-2025-11-01,"Influenza hospitalizations by age group","65+",0.05,"Percent"
-2025-11-08,"Influenza hospitalizations by age group","65+",0.22,"Percent"
-2025-11-15,"Influenza hospitalizations by age group","65+",0.29,"Percent"
-2025-11-22,"Influenza hospitalizations by age group","65+",0.62,"Percent"
-2025-11-29,"Influenza hospitalizations by age group","65+",1.6,"Percent"
-2025-12-06,"Influenza hospitalizations by age group","65+",2.27,"Percent"
-2025-12-13,"Influenza hospitalizations by age group","65+",3.66,"Percent"
-2025-12-20,"Influenza hospitalizations by age group","65+",5.78,"Percent"
-2025-12-27,"Influenza hospitalizations by age group","65+",6.06,"Percent"
-2025-10-11,"Influenza hospitalizations by borough","Bronx",0,"Percent"
-2025-10-18,"Influenza hospitalizations by borough","Bronx",0,"Percent"
-2025-10-25,"Influenza hospitalizations by borough","Bronx",0,"Percent"
-2025-11-01,"Influenza hospitalizations by borough","Bronx",0,"Percent"
-2025-11-08,"Influenza hospitalizations by borough","Bronx",0.05,"Percent"
-2025-11-15,"Influenza hospitalizations by borough","Bronx",0.15,"Percent"
-2025-11-22,"Influenza hospitalizations by borough","Bronx",0.26,"Percent"
-2025-11-29,"Influenza hospitalizations by borough","Bronx",1.38,"Percent"
-2025-12-06,"Influenza hospitalizations by borough","Bronx",2.08,"Percent"
-2025-12-13,"Influenza hospitalizations by borough","Bronx",3.03,"Percent"
-2025-12-20,"Influenza hospitalizations by borough","Bronx",4.53,"Percent"
-2025-12-27,"Influenza hospitalizations by borough","Bronx",3.88,"Percent"
-2025-10-11,"Influenza hospitalizations by borough","Brooklyn",0.03,"Percent"
-2025-10-18,"Influenza hospitalizations by borough","Brooklyn",0.03,"Percent"
-2025-10-25,"Influenza hospitalizations by borough","Brooklyn",0.03,"Percent"
-2025-11-01,"Influenza hospitalizations by borough","Brooklyn",0.06,"Percent"
-2025-11-08,"Influenza hospitalizations by borough","Brooklyn",0.17,"Percent"
-2025-11-15,"Influenza hospitalizations by borough","Brooklyn",0.56,"Percent"
-2025-11-22,"Influenza hospitalizations by borough","Brooklyn",0.62,"Percent"
-2025-11-29,"Influenza hospitalizations by borough","Brooklyn",0.96,"Percent"
-2025-12-06,"Influenza hospitalizations by borough","Brooklyn",1.52,"Percent"
-2025-12-13,"Influenza hospitalizations by borough","Brooklyn",2.84,"Percent"
-2025-12-20,"Influenza hospitalizations by borough","Brooklyn",4.51,"Percent"
-2025-12-27,"Influenza hospitalizations by borough","Brooklyn",3.45,"Percent"
-2025-10-11,"Influenza hospitalizations by borough","Manhattan",0,"Percent"
-2025-10-18,"Influenza hospitalizations by borough","Manhattan",0,"Percent"
-2025-10-25,"Influenza hospitalizations by borough","Manhattan",0,"Percent"
-2025-11-01,"Influenza hospitalizations by borough","Manhattan",0,"Percent"
-2025-11-08,"Influenza hospitalizations by borough","Manhattan",0.13,"Percent"
-2025-11-15,"Influenza hospitalizations by borough","Manhattan",0.21,"Percent"
-2025-11-22,"Influenza hospitalizations by borough","Manhattan",0.34,"Percent"
-2025-11-29,"Influenza hospitalizations by borough","Manhattan",1.11,"Percent"
-2025-12-06,"Influenza hospitalizations by borough","Manhattan",0.84,"Percent"
-2025-12-13,"Influenza hospitalizations by borough","Manhattan",2.18,"Percent"
-2025-12-20,"Influenza hospitalizations by borough","Manhattan",4.21,"Percent"
-2025-12-27,"Influenza hospitalizations by borough","Manhattan",4.46,"Percent"
-2025-10-11,"Influenza hospitalizations by borough","Queens",0,"Percent"
-2025-10-18,"Influenza hospitalizations by borough","Queens",0,"Percent"
-2025-10-25,"Influenza hospitalizations by borough","Queens",0.04,"Percent"
-2025-11-01,"Influenza hospitalizations by borough","Queens",0.09,"Percent"
-2025-11-08,"Influenza hospitalizations by borough","Queens",0.28,"Percent"
-2025-11-15,"Influenza hospitalizations by borough","Queens",0.23,"Percent"
-2025-11-22,"Influenza hospitalizations by borough","Queens",1.26,"Percent"
-2025-11-29,"Influenza hospitalizations by borough","Queens",2.14,"Percent"
-2025-12-06,"Influenza hospitalizations by borough","Queens",2.98,"Percent"
-2025-12-13,"Influenza hospitalizations by borough","Queens",4.57,"Percent"
-2025-12-20,"Influenza hospitalizations by borough","Queens",5.75,"Percent"
-2025-12-27,"Influenza hospitalizations by borough","Queens",6.52,"Percent"
-2025-10-11,"Influenza hospitalizations by borough","Staten Island",0.15,"Percent"
-2025-10-18,"Influenza hospitalizations by borough","Staten Island",0,"Percent"
-2025-10-25,"Influenza hospitalizations by borough","Staten Island",0.15,"Percent"
-2025-11-01,"Influenza hospitalizations by borough","Staten Island",0,"Percent"
-2025-11-08,"Influenza hospitalizations by borough","Staten Island",0,"Percent"
-2025-11-15,"Influenza hospitalizations by borough","Staten Island",0,"Percent"
-2025-11-22,"Influenza hospitalizations by borough","Staten Island",0.97,"Percent"
-2025-11-29,"Influenza hospitalizations by borough","Staten Island",1.35,"Percent"
-2025-12-06,"Influenza hospitalizations by borough","Staten Island",2.31,"Percent"
-2025-12-13,"Influenza hospitalizations by borough","Staten Island",3.58,"Percent"
-2025-12-20,"Influenza hospitalizations by borough","Staten Island",6.34,"Percent"
-2025-12-27,"Influenza hospitalizations by borough","Staten Island",5.35,"Percent"
-2025-10-11,"RSV visits","Overall",0.02,"Percent"
-2025-10-18,"RSV visits","Overall",0.03,"Percent"
-2025-10-25,"RSV visits","Overall",0.03,"Percent"
-2025-11-01,"RSV visits","Overall",0.05,"Percent"
-2025-11-08,"RSV visits","Overall",0.07,"Percent"
-2025-11-15,"RSV visits","Overall",0.07,"Percent"
-2025-11-22,"RSV visits","Overall",0.12,"Percent"
-2025-11-29,"RSV visits","Overall",0.2,"Percent"
-2025-12-06,"RSV visits","Overall",0.25,"Percent"
-2025-12-13,"RSV visits","Overall",0.26,"Percent"
-2025-12-20,"RSV visits","Overall",0.3,"Percent"
-2025-12-27,"RSV visits","Overall",0.35,"Percent"
-2025-10-11,"RSV visits by age group","0-4",0.17,"Percent"
-2025-10-18,"RSV visits by age group","0-4",0.39,"Percent"
-2025-10-25,"RSV visits by age group","0-4",0.28,"Percent"
-2025-11-01,"RSV visits by age group","0-4",0.66,"Percent"
-2025-11-08,"RSV visits by age group","0-4",0.73,"Percent"
-2025-11-15,"RSV visits by age group","0-4",0.79,"Percent"
-2025-11-22,"RSV visits by age group","0-4",1.16,"Percent"
-2025-11-29,"RSV visits by age group","0-4",1.77,"Percent"
-2025-12-06,"RSV visits by age group","0-4",2.07,"Percent"
-2025-12-13,"RSV visits by age group","0-4",2.15,"Percent"
-2025-12-20,"RSV visits by age group","0-4",1.97,"Percent"
-2025-12-27,"RSV visits by age group","0-4",2.15,"Percent"
-2025-10-11,"RSV visits by age group","5-17",0.01,"Percent"
-2025-10-18,"RSV visits by age group","5-17",0.02,"Percent"
-2025-10-25,"RSV visits by age group","5-17",0,"Percent"
-2025-11-01,"RSV visits by age group","5-17",0,"Percent"
-2025-11-08,"RSV visits by age group","5-17",0.03,"Percent"
-2025-11-15,"RSV visits by age group","5-17",0.02,"Percent"
-2025-11-22,"RSV visits by age group","5-17",0.08,"Percent"
-2025-11-29,"RSV visits by age group","5-17",0.08,"Percent"
-2025-12-06,"RSV visits by age group","5-17",0.14,"Percent"
-2025-12-13,"RSV visits by age group","5-17",0.16,"Percent"
-2025-12-20,"RSV visits by age group","5-17",0.19,"Percent"
-2025-12-27,"RSV visits by age group","5-17",0.28,"Percent"
-2025-10-11,"RSV visits by age group","18-64",0,"Percent"
-2025-10-18,"RSV visits by age group","18-64",0,"Percent"
-2025-10-25,"RSV visits by age group","18-64",0.02,"Percent"
-2025-11-01,"RSV visits by age group","18-64",0,"Percent"
-2025-11-08,"RSV visits by age group","18-64",0.02,"Percent"
-2025-11-15,"RSV visits by age group","18-64",0.02,"Percent"
-2025-11-22,"RSV visits by age group","18-64",0.02,"Percent"
-2025-11-29,"RSV visits by age group","18-64",0.03,"Percent"
-2025-12-06,"RSV visits by age group","18-64",0.06,"Percent"
-2025-12-13,"RSV visits by age group","18-64",0.03,"Percent"
-2025-12-20,"RSV visits by age group","18-64",0.08,"Percent"
-2025-12-27,"RSV visits by age group","18-64",0.09,"Percent"
-2025-10-11,"RSV visits by age group","65+",0.01,"Percent"
-2025-10-18,"RSV visits by age group","65+",0.01,"Percent"
-2025-10-25,"RSV visits by age group","65+",0.01,"Percent"
-2025-11-01,"RSV visits by age group","65+",0.01,"Percent"
-2025-11-08,"RSV visits by age group","65+",0.02,"Percent"
-2025-11-15,"RSV visits by age group","65+",0.01,"Percent"
-2025-11-22,"RSV visits by age group","65+",0.03,"Percent"
-2025-11-29,"RSV visits by age group","65+",0.06,"Percent"
-2025-12-06,"RSV visits by age group","65+",0.05,"Percent"
-2025-12-13,"RSV visits by age group","65+",0.12,"Percent"
-2025-12-20,"RSV visits by age group","65+",0.12,"Percent"
-2025-12-27,"RSV visits by age group","65+",0.2,"Percent"
-2025-10-11,"RSV visits by borough","Bronx",0.02,"Percent"
-2025-10-18,"RSV visits by borough","Bronx",0.06,"Percent"
-2025-10-25,"RSV visits by borough","Bronx",0.04,"Percent"
-2025-11-01,"RSV visits by borough","Bronx",0.05,"Percent"
-2025-11-08,"RSV visits by borough","Bronx",0.11,"Percent"
-2025-11-15,"RSV visits by borough","Bronx",0.08,"Percent"
-2025-11-22,"RSV visits by borough","Bronx",0.16,"Percent"
-2025-11-29,"RSV visits by borough","Bronx",0.21,"Percent"
-2025-12-06,"RSV visits by borough","Bronx",0.38,"Percent"
-2025-12-13,"RSV visits by borough","Bronx",0.31,"Percent"
-2025-12-20,"RSV visits by borough","Bronx",0.4,"Percent"
-2025-12-27,"RSV visits by borough","Bronx",0.49,"Percent"
-2025-10-11,"RSV visits by borough","Brooklyn",0.01,"Percent"
-2025-10-18,"RSV visits by borough","Brooklyn",0.03,"Percent"
-2025-10-25,"RSV visits by borough","Brooklyn",0.03,"Percent"
-2025-11-01,"RSV visits by borough","Brooklyn",0.06,"Percent"
-2025-11-08,"RSV visits by borough","Brooklyn",0.05,"Percent"
-2025-11-15,"RSV visits by borough","Brooklyn",0.06,"Percent"
-2025-11-22,"RSV visits by borough","Brooklyn",0.13,"Percent"
-2025-11-29,"RSV visits by borough","Brooklyn",0.26,"Percent"
-2025-12-06,"RSV visits by borough","Brooklyn",0.25,"Percent"
-2025-12-13,"RSV visits by borough","Brooklyn",0.25,"Percent"
-2025-12-20,"RSV visits by borough","Brooklyn",0.35,"Percent"
-2025-12-27,"RSV visits by borough","Brooklyn",0.34,"Percent"
-2025-10-11,"RSV visits by borough","Manhattan",0.03,"Percent"
-2025-10-18,"RSV visits by borough","Manhattan",0.02,"Percent"
-2025-10-25,"RSV visits by borough","Manhattan",0.04,"Percent"
-2025-11-01,"RSV visits by borough","Manhattan",0.03,"Percent"
-2025-11-08,"RSV visits by borough","Manhattan",0.06,"Percent"
-2025-11-15,"RSV visits by borough","Manhattan",0.06,"Percent"
-2025-11-22,"RSV visits by borough","Manhattan",0.12,"Percent"
-2025-11-29,"RSV visits by borough","Manhattan",0.16,"Percent"
-2025-12-06,"RSV visits by borough","Manhattan",0.18,"Percent"
-2025-12-13,"RSV visits by borough","Manhattan",0.25,"Percent"
-2025-12-20,"RSV visits by borough","Manhattan",0.26,"Percent"
-2025-12-27,"RSV visits by borough","Manhattan",0.22,"Percent"
-2025-10-11,"RSV visits by borough","Queens",0.01,"Percent"
-2025-10-18,"RSV visits by borough","Queens",0.02,"Percent"
-2025-10-25,"RSV visits by borough","Queens",0.03,"Percent"
-2025-11-01,"RSV visits by borough","Queens",0.05,"Percent"
-2025-11-08,"RSV visits by borough","Queens",0.06,"Percent"
-2025-11-15,"RSV visits by borough","Queens",0.1,"Percent"
-2025-11-22,"RSV visits by borough","Queens",0.08,"Percent"
-2025-11-29,"RSV visits by borough","Queens",0.15,"Percent"
-2025-12-06,"RSV visits by borough","Queens",0.14,"Percent"
-2025-12-13,"RSV visits by borough","Queens",0.19,"Percent"
-2025-12-20,"RSV visits by borough","Queens",0.17,"Percent"
-2025-12-27,"RSV visits by borough","Queens",0.3,"Percent"
-2025-10-11,"RSV visits by borough","Staten Island",0,"Percent"
-2025-10-18,"RSV visits by borough","Staten Island",0,"Percent"
-2025-10-25,"RSV visits by borough","Staten Island",0,"Percent"
-2025-11-01,"RSV visits by borough","Staten Island",0.05,"Percent"
-2025-11-08,"RSV visits by borough","Staten Island",0.1,"Percent"
-2025-11-15,"RSV visits by borough","Staten Island",0.05,"Percent"
-2025-11-22,"RSV visits by borough","Staten Island",0,"Percent"
-2025-11-29,"RSV visits by borough","Staten Island",0.16,"Percent"
-2025-12-06,"RSV visits by borough","Staten Island",0.33,"Percent"
-2025-12-13,"RSV visits by borough","Staten Island",0.45,"Percent"
-2025-12-20,"RSV visits by borough","Staten Island",0.31,"Percent"
-2025-12-27,"RSV visits by borough","Staten Island",0.4,"Percent"
-2025-10-11,"RSV hospitalizations","Overall",0.05,"Percent"
-2025-10-18,"RSV hospitalizations","Overall",0.01,"Percent"
-2025-10-25,"RSV hospitalizations","Overall",0.02,"Percent"
-2025-11-01,"RSV hospitalizations","Overall",0.07,"Percent"
-2025-11-08,"RSV hospitalizations","Overall",0.08,"Percent"
-2025-11-15,"RSV hospitalizations","Overall",0.1,"Percent"
-2025-11-22,"RSV hospitalizations","Overall",0.16,"Percent"
-2025-11-29,"RSV hospitalizations","Overall",0.33,"Percent"
-2025-12-06,"RSV hospitalizations","Overall",0.32,"Percent"
-2025-12-13,"RSV hospitalizations","Overall",0.21,"Percent"
-2025-12-20,"RSV hospitalizations","Overall",0.39,"Percent"
-2025-12-27,"RSV hospitalizations","Overall",0.35,"Percent"
-2025-10-11,"RSV hospitalizations by age group","0-4",1.11,"Percent"
-2025-10-18,"RSV hospitalizations by age group","0-4",0,"Percent"
-2025-10-25,"RSV hospitalizations by age group","0-4",0.38,"Percent"
-2025-11-01,"RSV hospitalizations by age group","0-4",2.34,"Percent"
-2025-11-08,"RSV hospitalizations by age group","0-4",1.93,"Percent"
-2025-11-15,"RSV hospitalizations by age group","0-4",2.43,"Percent"
-2025-11-22,"RSV hospitalizations by age group","0-4",4.75,"Percent"
-2025-11-29,"RSV hospitalizations by age group","0-4",7.53,"Percent"
-2025-12-06,"RSV hospitalizations by age group","0-4",6.27,"Percent"
-2025-12-13,"RSV hospitalizations by age group","0-4",4.81,"Percent"
-2025-12-20,"RSV hospitalizations by age group","0-4",6.42,"Percent"
-2025-12-27,"RSV hospitalizations by age group","0-4",5.25,"Percent"
-2025-10-11,"RSV hospitalizations by age group","5-17",0.29,"Percent"
-2025-10-18,"RSV hospitalizations by age group","5-17",0,"Percent"
-2025-10-25,"RSV hospitalizations by age group","5-17",0,"Percent"
-2025-11-01,"RSV hospitalizations by age group","5-17",0,"Percent"
-2025-11-08,"RSV hospitalizations by age group","5-17",0,"Percent"
-2025-11-15,"RSV hospitalizations by age group","5-17",0,"Percent"
-2025-11-22,"RSV hospitalizations by age group","5-17",0,"Percent"
-2025-11-29,"RSV hospitalizations by age group","5-17",0,"Percent"
-2025-12-06,"RSV hospitalizations by age group","5-17",0.25,"Percent"
-2025-12-13,"RSV hospitalizations by age group","5-17",0.24,"Percent"
-2025-12-20,"RSV hospitalizations by age group","5-17",0.21,"Percent"
-2025-12-27,"RSV hospitalizations by age group","5-17",0.3,"Percent"
-2025-10-11,"RSV hospitalizations by age group","18-64",0.02,"Percent"
-2025-10-18,"RSV hospitalizations by age group","18-64",0,"Percent"
-2025-10-25,"RSV hospitalizations by age group","18-64",0.02,"Percent"
-2025-11-01,"RSV hospitalizations by age group","18-64",0,"Percent"
-2025-11-08,"RSV hospitalizations by age group","18-64",0.02,"Percent"
-2025-11-15,"RSV hospitalizations by age group","18-64",0.04,"Percent"
-2025-11-22,"RSV hospitalizations by age group","18-64",0,"Percent"
-2025-11-29,"RSV hospitalizations by age group","18-64",0.04,"Percent"
-2025-12-06,"RSV hospitalizations by age group","18-64",0.02,"Percent"
-2025-12-13,"RSV hospitalizations by age group","18-64",0,"Percent"
-2025-12-20,"RSV hospitalizations by age group","18-64",0.1,"Percent"
-2025-12-27,"RSV hospitalizations by age group","18-64",0.06,"Percent"
-2025-10-11,"RSV hospitalizations by age group","65+",0,"Percent"
-2025-10-18,"RSV hospitalizations by age group","65+",0.02,"Percent"
-2025-10-25,"RSV hospitalizations by age group","65+",0,"Percent"
-2025-11-01,"RSV hospitalizations by age group","65+",0.02,"Percent"
-2025-11-08,"RSV hospitalizations by age group","65+",0.02,"Percent"
-2025-11-15,"RSV hospitalizations by age group","65+",0.02,"Percent"
-2025-11-22,"RSV hospitalizations by age group","65+",0.02,"Percent"
-2025-11-29,"RSV hospitalizations by age group","65+",0.11,"Percent"
-2025-12-06,"RSV hospitalizations by age group","65+",0.14,"Percent"
-2025-12-13,"RSV hospitalizations by age group","65+",0.07,"Percent"
-2025-12-20,"RSV hospitalizations by age group","65+",0.17,"Percent"
-2025-12-27,"RSV hospitalizations by age group","65+",0.27,"Percent"
-2025-10-11,"RSV hospitalizations by borough","Bronx",0.05,"Percent"
-2025-10-18,"RSV hospitalizations by borough","Bronx",0,"Percent"
-2025-10-25,"RSV hospitalizations by borough","Bronx",0.05,"Percent"
-2025-11-01,"RSV hospitalizations by borough","Bronx",0.21,"Percent"
-2025-11-08,"RSV hospitalizations by borough","Bronx",0.05,"Percent"
-2025-11-15,"RSV hospitalizations by borough","Bronx",0.05,"Percent"
-2025-11-22,"RSV hospitalizations by borough","Bronx",0.16,"Percent"
-2025-11-29,"RSV hospitalizations by borough","Bronx",0.39,"Percent"
-2025-12-06,"RSV hospitalizations by borough","Bronx",0.6,"Percent"
-2025-12-13,"RSV hospitalizations by borough","Bronx",0.24,"Percent"
-2025-12-20,"RSV hospitalizations by borough","Bronx",0.55,"Percent"
-2025-12-27,"RSV hospitalizations by borough","Bronx",0.42,"Percent"
-2025-10-11,"RSV hospitalizations by borough","Brooklyn",0.09,"Percent"
-2025-10-18,"RSV hospitalizations by borough","Brooklyn",0,"Percent"
-2025-10-25,"RSV hospitalizations by borough","Brooklyn",0,"Percent"
-2025-11-01,"RSV hospitalizations by borough","Brooklyn",0.03,"Percent"
-2025-11-08,"RSV hospitalizations by borough","Brooklyn",0.11,"Percent"
-2025-11-15,"RSV hospitalizations by borough","Brooklyn",0.12,"Percent"
-2025-11-22,"RSV hospitalizations by borough","Brooklyn",0.24,"Percent"
-2025-11-29,"RSV hospitalizations by borough","Brooklyn",0.45,"Percent"
-2025-12-06,"RSV hospitalizations by borough","Brooklyn",0.33,"Percent"
-2025-12-13,"RSV hospitalizations by borough","Brooklyn",0.27,"Percent"
-2025-12-20,"RSV hospitalizations by borough","Brooklyn",0.48,"Percent"
-2025-12-27,"RSV hospitalizations by borough","Brooklyn",0.3,"Percent"
-2025-10-11,"RSV hospitalizations by borough","Manhattan",0.06,"Percent"
-2025-10-18,"RSV hospitalizations by borough","Manhattan",0,"Percent"
-2025-10-25,"RSV hospitalizations by borough","Manhattan",0,"Percent"
-2025-11-01,"RSV hospitalizations by borough","Manhattan",0,"Percent"
-2025-11-08,"RSV hospitalizations by borough","Manhattan",0.07,"Percent"
-2025-11-15,"RSV hospitalizations by borough","Manhattan",0.14,"Percent"
-2025-11-22,"RSV hospitalizations by borough","Manhattan",0.21,"Percent"
-2025-11-29,"RSV hospitalizations by borough","Manhattan",0.15,"Percent"
-2025-12-06,"RSV hospitalizations by borough","Manhattan",0.13,"Percent"
-2025-12-13,"RSV hospitalizations by borough","Manhattan",0.19,"Percent"
-2025-12-20,"RSV hospitalizations by borough","Manhattan",0.39,"Percent"
-2025-12-27,"RSV hospitalizations by borough","Manhattan",0.2,"Percent"
-2025-10-11,"RSV hospitalizations by borough","Queens",0,"Percent"
-2025-10-18,"RSV hospitalizations by borough","Queens",0.05,"Percent"
-2025-10-25,"RSV hospitalizations by borough","Queens",0.04,"Percent"
-2025-11-01,"RSV hospitalizations by borough","Queens",0.05,"Percent"
-2025-11-08,"RSV hospitalizations by borough","Queens",0.05,"Percent"
-2025-11-15,"RSV hospitalizations by borough","Queens",0.09,"Percent"
-2025-11-22,"RSV hospitalizations by borough","Queens",0.09,"Percent"
-2025-11-29,"RSV hospitalizations by borough","Queens",0.2,"Percent"
-2025-12-06,"RSV hospitalizations by borough","Queens",0.04,"Percent"
-2025-12-13,"RSV hospitalizations by borough","Queens",0.13,"Percent"
-2025-12-20,"RSV hospitalizations by borough","Queens",0.17,"Percent"
-2025-12-27,"RSV hospitalizations by borough","Queens",0.43,"Percent"
-2025-10-11,"RSV hospitalizations by borough","Staten Island",0,"Percent"
-2025-10-18,"RSV hospitalizations by borough","Staten Island",0,"Percent"
-2025-10-25,"RSV hospitalizations by borough","Staten Island",0,"Percent"
-2025-11-01,"RSV hospitalizations by borough","Staten Island",0.15,"Percent"
-2025-11-08,"RSV hospitalizations by borough","Staten Island",0.13,"Percent"
-2025-11-15,"RSV hospitalizations by borough","Staten Island",0.15,"Percent"
-2025-11-22,"RSV hospitalizations by borough","Staten Island",0,"Percent"
-2025-11-29,"RSV hospitalizations by borough","Staten Island",0.45,"Percent"
-2025-12-06,"RSV hospitalizations by borough","Staten Island",0.81,"Percent"
-2025-12-13,"RSV hospitalizations by borough","Staten Island",0.14,"Percent"
-2025-12-20,"RSV hospitalizations by borough","Staten Island",0.25,"Percent"
-2025-12-27,"RSV hospitalizations by borough","Staten Island",0.56,"Percent"
-2025-12-27,"Respiratory panel results","Adenovirus",1,"Percent"
-2025-12-27,"Respiratory panel results","Human Coronaviruses",5,"Percent"
-2025-12-27,"Respiratory panel results","SARS-CoV-2",1,"Percent"
-2025-12-27,"Respiratory panel results","Human Metapneumovirus",0,"Percent"
-2025-12-27,"Respiratory panel results","Enterovirus/Rhinovirus",9,"Percent"
-2025-12-27,"Respiratory panel results","Influenza",1,"Percent"
-2025-12-27,"Respiratory panel results","Parainfluenza",2,"Percent"
-2025-12-27,"Respiratory panel results","Respiratory Syncytial Virus",3,"Percent"
+date,metric,submetric,value,display
+10/11/2025,Respiratory illness visits,Overall,7.7,Percent
+10/18/2025,Respiratory illness visits,Overall,7.93,Percent
+10/25/2025,Respiratory illness visits,Overall,8.23,Percent
+11/1/2025,Respiratory illness visits,Overall,8.48,Percent
+11/8/2025,Respiratory illness visits,Overall,9.4,Percent
+11/15/2025,Respiratory illness visits,Overall,9.61,Percent
+11/22/2025,Respiratory illness visits,Overall,11.43,Percent
+11/29/2025,Respiratory illness visits,Overall,14.91,Percent
+12/6/2025,Respiratory illness visits,Overall,16.46,Percent
+12/13/2025,Respiratory illness visits,Overall,20.62,Percent
+12/20/2025,Respiratory illness visits,Overall,23.75,Percent
+12/27/2025,Respiratory illness visits,Overall,22.22,Percent
+10/11/2025,Respiratory illness hospitalizations,Overall,7.76,Percent
+10/18/2025,Respiratory illness hospitalizations,Overall,7.78,Percent
+10/25/2025,Respiratory illness hospitalizations,Overall,7.51,Percent
+11/1/2025,Respiratory illness hospitalizations,Overall,7.72,Percent
+11/8/2025,Respiratory illness hospitalizations,Overall,8.13,Percent
+11/15/2025,Respiratory illness hospitalizations,Overall,8.5,Percent
+11/22/2025,Respiratory illness hospitalizations,Overall,8.67,Percent
+11/29/2025,Respiratory illness hospitalizations,Overall,10.14,Percent
+12/6/2025,Respiratory illness hospitalizations,Overall,10.98,Percent
+12/13/2025,Respiratory illness hospitalizations,Overall,11.96,Percent
+12/20/2025,Respiratory illness hospitalizations,Overall,14.64,Percent
+12/27/2025,Respiratory illness hospitalizations,Overall,14.66,Percent
+10/11/2025,COVID-19 visits,Overall,0.29,Percent
+10/18/2025,COVID-19 visits,Overall,0.22,Percent
+10/25/2025,COVID-19 visits,Overall,0.17,Percent
+11/1/2025,COVID-19 visits,Overall,0.18,Percent
+11/8/2025,COVID-19 visits,Overall,0.18,Percent
+11/15/2025,COVID-19 visits,Overall,0.18,Percent
+11/22/2025,COVID-19 visits,Overall,0.14,Percent
+11/29/2025,COVID-19 visits,Overall,0.18,Percent
+12/6/2025,COVID-19 visits,Overall,0.19,Percent
+12/13/2025,COVID-19 visits,Overall,0.19,Percent
+12/20/2025,COVID-19 visits,Overall,0.19,Percent
+12/27/2025,COVID-19 visits,Overall,0.25,Percent
+10/11/2025,COVID-19 visits by age group,0-4,0.83,Percent
+10/18/2025,COVID-19 visits by age group,0-4,0.43,Percent
+10/25/2025,COVID-19 visits by age group,0-4,0.47,Percent
+11/1/2025,COVID-19 visits by age group,0-4,0.37,Percent
+11/8/2025,COVID-19 visits by age group,0-4,0.48,Percent
+11/15/2025,COVID-19 visits by age group,0-4,0.55,Percent
+11/22/2025,COVID-19 visits by age group,0-4,0.31,Percent
+11/29/2025,COVID-19 visits by age group,0-4,0.23,Percent
+12/6/2025,COVID-19 visits by age group,0-4,0.28,Percent
+12/13/2025,COVID-19 visits by age group,0-4,0.3,Percent
+12/20/2025,COVID-19 visits by age group,0-4,0.17,Percent
+12/27/2025,COVID-19 visits by age group,0-4,0.43,Percent
+10/11/2025,COVID-19 visits by age group,17-May,0.16,Percent
+10/18/2025,COVID-19 visits by age group,17-May,0.1,Percent
+10/25/2025,COVID-19 visits by age group,17-May,0.07,Percent
+11/1/2025,COVID-19 visits by age group,17-May,0.14,Percent
+11/8/2025,COVID-19 visits by age group,17-May,0.09,Percent
+11/15/2025,COVID-19 visits by age group,17-May,0.06,Percent
+11/22/2025,COVID-19 visits by age group,17-May,0.03,Percent
+11/29/2025,COVID-19 visits by age group,17-May,0.1,Percent
+12/6/2025,COVID-19 visits by age group,17-May,0.08,Percent
+12/13/2025,COVID-19 visits by age group,17-May,0.1,Percent
+12/20/2025,COVID-19 visits by age group,17-May,0.15,Percent
+12/27/2025,COVID-19 visits by age group,17-May,0.2,Percent
+10/11/2025,COVID-19 visits by age group,18-64,0.19,Percent
+10/18/2025,COVID-19 visits by age group,18-64,0.16,Percent
+10/25/2025,COVID-19 visits by age group,18-64,0.13,Percent
+11/1/2025,COVID-19 visits by age group,18-64,0.12,Percent
+11/8/2025,COVID-19 visits by age group,18-64,0.12,Percent
+11/15/2025,COVID-19 visits by age group,18-64,0.13,Percent
+11/22/2025,COVID-19 visits by age group,18-64,0.11,Percent
+11/29/2025,COVID-19 visits by age group,18-64,0.14,Percent
+12/6/2025,COVID-19 visits by age group,18-64,0.15,Percent
+12/13/2025,COVID-19 visits by age group,18-64,0.16,Percent
+12/20/2025,COVID-19 visits by age group,18-64,0.17,Percent
+12/27/2025,COVID-19 visits by age group,18-64,0.19,Percent
+10/11/2025,COVID-19 visits by age group,65+,0.48,Percent
+10/18/2025,COVID-19 visits by age group,65+,0.38,Percent
+10/25/2025,COVID-19 visits by age group,65+,0.25,Percent
+11/1/2025,COVID-19 visits by age group,65+,0.31,Percent
+11/8/2025,COVID-19 visits by age group,65+,0.31,Percent
+11/15/2025,COVID-19 visits by age group,65+,0.28,Percent
+11/22/2025,COVID-19 visits by age group,65+,0.23,Percent
+11/29/2025,COVID-19 visits by age group,65+,0.34,Percent
+12/6/2025,COVID-19 visits by age group,65+,0.3,Percent
+12/13/2025,COVID-19 visits by age group,65+,0.27,Percent
+12/20/2025,COVID-19 visits by age group,65+,0.28,Percent
+12/27/2025,COVID-19 visits by age group,65+,0.36,Percent
+10/11/2025,COVID-19 visits by borough,Bronx,0.26,Percent
+10/18/2025,COVID-19 visits by borough,Bronx,0.2,Percent
+10/25/2025,COVID-19 visits by borough,Bronx,0.15,Percent
+11/1/2025,COVID-19 visits by borough,Bronx,0.17,Percent
+11/8/2025,COVID-19 visits by borough,Bronx,0.16,Percent
+11/15/2025,COVID-19 visits by borough,Bronx,0.16,Percent
+11/22/2025,COVID-19 visits by borough,Bronx,0.12,Percent
+11/29/2025,COVID-19 visits by borough,Bronx,0.14,Percent
+12/6/2025,COVID-19 visits by borough,Bronx,0.18,Percent
+12/13/2025,COVID-19 visits by borough,Bronx,0.16,Percent
+12/20/2025,COVID-19 visits by borough,Bronx,0.14,Percent
+12/27/2025,COVID-19 visits by borough,Bronx,0.22,Percent
+10/11/2025,COVID-19 visits by borough,Brooklyn,0.28,Percent
+10/18/2025,COVID-19 visits by borough,Brooklyn,0.2,Percent
+10/25/2025,COVID-19 visits by borough,Brooklyn,0.21,Percent
+11/1/2025,COVID-19 visits by borough,Brooklyn,0.17,Percent
+11/8/2025,COVID-19 visits by borough,Brooklyn,0.2,Percent
+11/15/2025,COVID-19 visits by borough,Brooklyn,0.22,Percent
+11/22/2025,COVID-19 visits by borough,Brooklyn,0.18,Percent
+11/29/2025,COVID-19 visits by borough,Brooklyn,0.19,Percent
+12/6/2025,COVID-19 visits by borough,Brooklyn,0.16,Percent
+12/13/2025,COVID-19 visits by borough,Brooklyn,0.18,Percent
+12/20/2025,COVID-19 visits by borough,Brooklyn,0.17,Percent
+12/27/2025,COVID-19 visits by borough,Brooklyn,0.25,Percent
+10/11/2025,COVID-19 visits by borough,Manhattan,0.27,Percent
+10/18/2025,COVID-19 visits by borough,Manhattan,0.22,Percent
+10/25/2025,COVID-19 visits by borough,Manhattan,0.12,Percent
+11/1/2025,COVID-19 visits by borough,Manhattan,0.13,Percent
+11/8/2025,COVID-19 visits by borough,Manhattan,0.18,Percent
+11/15/2025,COVID-19 visits by borough,Manhattan,0.09,Percent
+11/22/2025,COVID-19 visits by borough,Manhattan,0.12,Percent
+11/29/2025,COVID-19 visits by borough,Manhattan,0.17,Percent
+12/6/2025,COVID-19 visits by borough,Manhattan,0.07,Percent
+12/13/2025,COVID-19 visits by borough,Manhattan,0.17,Percent
+12/20/2025,COVID-19 visits by borough,Manhattan,0.16,Percent
+12/27/2025,COVID-19 visits by borough,Manhattan,0.25,Percent
+10/11/2025,COVID-19 visits by borough,Queens,0.38,Percent
+10/18/2025,COVID-19 visits by borough,Queens,0.29,Percent
+10/25/2025,COVID-19 visits by borough,Queens,0.19,Percent
+11/1/2025,COVID-19 visits by borough,Queens,0.24,Percent
+11/8/2025,COVID-19 visits by borough,Queens,0.19,Percent
+11/15/2025,COVID-19 visits by borough,Queens,0.25,Percent
+11/22/2025,COVID-19 visits by borough,Queens,0.13,Percent
+11/29/2025,COVID-19 visits by borough,Queens,0.17,Percent
+12/6/2025,COVID-19 visits by borough,Queens,0.27,Percent
+12/13/2025,COVID-19 visits by borough,Queens,0.2,Percent
+12/20/2025,COVID-19 visits by borough,Queens,0.25,Percent
+12/27/2025,COVID-19 visits by borough,Queens,0.25,Percent
+10/11/2025,COVID-19 visits by borough,Staten Island,0.23,Percent
+10/18/2025,COVID-19 visits by borough,Staten Island,0.21,Percent
+10/25/2025,COVID-19 visits by borough,Staten Island,0.23,Percent
+11/1/2025,COVID-19 visits by borough,Staten Island,0.19,Percent
+11/8/2025,COVID-19 visits by borough,Staten Island,0.2,Percent
+11/15/2025,COVID-19 visits by borough,Staten Island,0.13,Percent
+11/22/2025,COVID-19 visits by borough,Staten Island,0.18,Percent
+11/29/2025,COVID-19 visits by borough,Staten Island,0.38,Percent
+12/6/2025,COVID-19 visits by borough,Staten Island,0.33,Percent
+12/13/2025,COVID-19 visits by borough,Staten Island,0.36,Percent
+12/20/2025,COVID-19 visits by borough,Staten Island,0.35,Percent
+12/27/2025,COVID-19 visits by borough,Staten Island,0.45,Percent
+10/11/2025,COVID-19 hospitalizations,Overall,0.34,Percent
+10/18/2025,COVID-19 hospitalizations,Overall,0.26,Percent
+10/25/2025,COVID-19 hospitalizations,Overall,0.23,Percent
+11/1/2025,COVID-19 hospitalizations,Overall,0.29,Percent
+11/8/2025,COVID-19 hospitalizations,Overall,0.23,Percent
+11/15/2025,COVID-19 hospitalizations,Overall,0.22,Percent
+11/22/2025,COVID-19 hospitalizations,Overall,0.17,Percent
+11/29/2025,COVID-19 hospitalizations,Overall,0.34,Percent
+12/6/2025,COVID-19 hospitalizations,Overall,0.22,Percent
+12/13/2025,COVID-19 hospitalizations,Overall,0.22,Percent
+12/20/2025,COVID-19 hospitalizations,Overall,0.25,Percent
+12/27/2025,COVID-19 hospitalizations,Overall,0.22,Percent
+10/11/2025,COVID-19 hospitalizations by age group,0-4,1.11,Percent
+10/18/2025,COVID-19 hospitalizations by age group,0-4,0.45,Percent
+10/25/2025,COVID-19 hospitalizations by age group,0-4,1.15,Percent
+11/1/2025,COVID-19 hospitalizations by age group,0-4,0,Percent
+11/8/2025,COVID-19 hospitalizations by age group,0-4,0.32,Percent
+11/15/2025,COVID-19 hospitalizations by age group,0-4,0.35,Percent
+11/22/2025,COVID-19 hospitalizations by age group,0-4,0,Percent
+11/29/2025,COVID-19 hospitalizations by age group,0-4,0,Percent
+12/6/2025,COVID-19 hospitalizations by age group,0-4,0.24,Percent
+12/13/2025,COVID-19 hospitalizations by age group,0-4,0.27,Percent
+12/20/2025,COVID-19 hospitalizations by age group,0-4,0.23,Percent
+12/27/2025,COVID-19 hospitalizations by age group,0-4,0.28,Percent
+10/11/2025,COVID-19 hospitalizations by age group,17-May,0,Percent
+10/18/2025,COVID-19 hospitalizations by age group,17-May,0,Percent
+10/25/2025,COVID-19 hospitalizations by age group,17-May,0,Percent
+11/1/2025,COVID-19 hospitalizations by age group,17-May,0.31,Percent
+11/8/2025,COVID-19 hospitalizations by age group,17-May,0,Percent
+11/15/2025,COVID-19 hospitalizations by age group,17-May,0,Percent
+11/22/2025,COVID-19 hospitalizations by age group,17-May,0,Percent
+11/29/2025,COVID-19 hospitalizations by age group,17-May,0.3,Percent
+12/6/2025,COVID-19 hospitalizations by age group,17-May,0,Percent
+12/13/2025,COVID-19 hospitalizations by age group,17-May,0.24,Percent
+12/20/2025,COVID-19 hospitalizations by age group,17-May,0,Percent
+12/27/2025,COVID-19 hospitalizations by age group,17-May,0,Percent
+10/11/2025,COVID-19 hospitalizations by age group,18-64,0.06,Percent
+10/18/2025,COVID-19 hospitalizations by age group,18-64,0.08,Percent
+10/25/2025,COVID-19 hospitalizations by age group,18-64,0.14,Percent
+11/1/2025,COVID-19 hospitalizations by age group,18-64,0.17,Percent
+11/8/2025,COVID-19 hospitalizations by age group,18-64,0.11,Percent
+11/15/2025,COVID-19 hospitalizations by age group,18-64,0.12,Percent
+11/22/2025,COVID-19 hospitalizations by age group,18-64,0.06,Percent
+11/29/2025,COVID-19 hospitalizations by age group,18-64,0.15,Percent
+12/6/2025,COVID-19 hospitalizations by age group,18-64,0.11,Percent
+12/13/2025,COVID-19 hospitalizations by age group,18-64,0.1,Percent
+12/20/2025,COVID-19 hospitalizations by age group,18-64,0.12,Percent
+12/27/2025,COVID-19 hospitalizations by age group,18-64,0.13,Percent
+10/11/2025,COVID-19 hospitalizations by age group,65+,0.68,Percent
+10/18/2025,COVID-19 hospitalizations by age group,65+,0.46,Percent
+10/25/2025,COVID-19 hospitalizations by age group,65+,0.31,Percent
+11/1/2025,COVID-19 hospitalizations by age group,65+,0.46,Percent
+11/8/2025,COVID-19 hospitalizations by age group,65+,0.39,Percent
+11/15/2025,COVID-19 hospitalizations by age group,65+,0.37,Percent
+11/22/2025,COVID-19 hospitalizations by age group,65+,0.34,Percent
+11/29/2025,COVID-19 hospitalizations by age group,65+,0.61,Percent
+12/6/2025,COVID-19 hospitalizations by age group,65+,0.37,Percent
+12/13/2025,COVID-19 hospitalizations by age group,65+,0.36,Percent
+12/20/2025,COVID-19 hospitalizations by age group,65+,0.43,Percent
+12/27/2025,COVID-19 hospitalizations by age group,65+,0.34,Percent
+10/11/2025,COVID-19 hospitalizations by borough,Bronx,0.2,Percent
+10/18/2025,COVID-19 hospitalizations by borough,Bronx,0.1,Percent
+10/25/2025,COVID-19 hospitalizations by borough,Bronx,0.2,Percent
+11/1/2025,COVID-19 hospitalizations by borough,Bronx,0.31,Percent
+11/8/2025,COVID-19 hospitalizations by borough,Bronx,0,Percent
+11/15/2025,COVID-19 hospitalizations by borough,Bronx,0.15,Percent
+11/22/2025,COVID-19 hospitalizations by borough,Bronx,0.11,Percent
+11/29/2025,COVID-19 hospitalizations by borough,Bronx,0.22,Percent
+12/6/2025,COVID-19 hospitalizations by borough,Bronx,0.14,Percent
+12/13/2025,COVID-19 hospitalizations by borough,Bronx,0.24,Percent
+12/20/2025,COVID-19 hospitalizations by borough,Bronx,0.14,Percent
+12/27/2025,COVID-19 hospitalizations by borough,Bronx,0.09,Percent
+10/11/2025,COVID-19 hospitalizations by borough,Brooklyn,0.36,Percent
+10/18/2025,COVID-19 hospitalizations by borough,Brooklyn,0.15,Percent
+10/25/2025,COVID-19 hospitalizations by borough,Brooklyn,0.31,Percent
+11/1/2025,COVID-19 hospitalizations by borough,Brooklyn,0.21,Percent
+11/8/2025,COVID-19 hospitalizations by borough,Brooklyn,0.28,Percent
+11/15/2025,COVID-19 hospitalizations by borough,Brooklyn,0.15,Percent
+11/22/2025,COVID-19 hospitalizations by borough,Brooklyn,0.26,Percent
+11/29/2025,COVID-19 hospitalizations by borough,Brooklyn,0.33,Percent
+12/6/2025,COVID-19 hospitalizations by borough,Brooklyn,0.24,Percent
+12/13/2025,COVID-19 hospitalizations by borough,Brooklyn,0.27,Percent
+12/20/2025,COVID-19 hospitalizations by borough,Brooklyn,0.13,Percent
+12/27/2025,COVID-19 hospitalizations by borough,Brooklyn,0.21,Percent
+10/11/2025,COVID-19 hospitalizations by borough,Manhattan,0.32,Percent
+10/18/2025,COVID-19 hospitalizations by borough,Manhattan,0.13,Percent
+10/25/2025,COVID-19 hospitalizations by borough,Manhattan,0.07,Percent
+11/1/2025,COVID-19 hospitalizations by borough,Manhattan,0.27,Percent
+11/8/2025,COVID-19 hospitalizations by borough,Manhattan,0.13,Percent
+11/15/2025,COVID-19 hospitalizations by borough,Manhattan,0.14,Percent
+11/22/2025,COVID-19 hospitalizations by borough,Manhattan,0.21,Percent
+11/29/2025,COVID-19 hospitalizations by borough,Manhattan,0.22,Percent
+12/6/2025,COVID-19 hospitalizations by borough,Manhattan,0.19,Percent
+12/13/2025,COVID-19 hospitalizations by borough,Manhattan,0.06,Percent
+12/20/2025,COVID-19 hospitalizations by borough,Manhattan,0.26,Percent
+12/27/2025,COVID-19 hospitalizations by borough,Manhattan,0.34,Percent
+10/11/2025,COVID-19 hospitalizations by borough,Queens,0.4,Percent
+10/18/2025,COVID-19 hospitalizations by borough,Queens,0.61,Percent
+10/25/2025,COVID-19 hospitalizations by borough,Queens,0.27,Percent
+11/1/2025,COVID-19 hospitalizations by borough,Queens,0.5,Percent
+11/8/2025,COVID-19 hospitalizations by borough,Queens,0.38,Percent
+11/15/2025,COVID-19 hospitalizations by borough,Queens,0.46,Percent
+11/22/2025,COVID-19 hospitalizations by borough,Queens,0.05,Percent
+11/29/2025,COVID-19 hospitalizations by borough,Queens,0.45,Percent
+12/6/2025,COVID-19 hospitalizations by borough,Queens,0.21,Percent
+12/13/2025,COVID-19 hospitalizations by borough,Queens,0.17,Percent
+12/20/2025,COVID-19 hospitalizations by borough,Queens,0.46,Percent
+12/27/2025,COVID-19 hospitalizations by borough,Queens,0.24,Percent
+10/11/2025,COVID-19 hospitalizations by borough,Staten Island,0.62,Percent
+10/18/2025,COVID-19 hospitalizations by borough,Staten Island,0.3,Percent
+10/25/2025,COVID-19 hospitalizations by borough,Staten Island,0.15,Percent
+11/1/2025,COVID-19 hospitalizations by borough,Staten Island,0,Percent
+11/8/2025,COVID-19 hospitalizations by borough,Staten Island,0.4,Percent
+11/15/2025,COVID-19 hospitalizations by borough,Staten Island,0.3,Percent
+11/22/2025,COVID-19 hospitalizations by borough,Staten Island,0.28,Percent
+11/29/2025,COVID-19 hospitalizations by borough,Staten Island,0.6,Percent
+12/6/2025,COVID-19 hospitalizations by borough,Staten Island,0.41,Percent
+12/13/2025,COVID-19 hospitalizations by borough,Staten Island,0.41,Percent
+12/20/2025,COVID-19 hospitalizations by borough,Staten Island,0.5,Percent
+12/27/2025,COVID-19 hospitalizations by borough,Staten Island,0.42,Percent
+10/11/2025,Influenza visits,Overall,0.05,Percent
+10/18/2025,Influenza visits,Overall,0.1,Percent
+10/25/2025,Influenza visits,Overall,0.12,Percent
+11/1/2025,Influenza visits,Overall,0.22,Percent
+11/8/2025,Influenza visits,Overall,0.47,Percent
+11/15/2025,Influenza visits,Overall,0.64,Percent
+11/22/2025,Influenza visits,Overall,1.57,Percent
+11/29/2025,Influenza visits,Overall,3.4,Percent
+12/6/2025,Influenza visits,Overall,4.21,Percent
+12/13/2025,Influenza visits,Overall,6.76,Percent
+12/20/2025,Influenza visits,Overall,8.88,Percent
+12/27/2025,Influenza visits,Overall,7.92,Percent
+10/11/2025,Influenza visits by age group,0-4,0.08,Percent
+10/18/2025,Influenza visits by age group,0-4,0.22,Percent
+10/25/2025,Influenza visits by age group,0-4,0.43,Percent
+11/1/2025,Influenza visits by age group,0-4,0.72,Percent
+11/8/2025,Influenza visits by age group,0-4,1.23,Percent
+11/15/2025,Influenza visits by age group,0-4,1.83,Percent
+11/22/2025,Influenza visits by age group,0-4,3.44,Percent
+11/29/2025,Influenza visits by age group,0-4,8.38,Percent
+12/6/2025,Influenza visits by age group,0-4,9.05,Percent
+12/13/2025,Influenza visits by age group,0-4,13.75,Percent
+12/20/2025,Influenza visits by age group,0-4,17.11,Percent
+12/27/2025,Influenza visits by age group,0-4,15.51,Percent
+10/11/2025,Influenza visits by age group,17-May,0.15,Percent
+10/18/2025,Influenza visits by age group,17-May,0.31,Percent
+10/25/2025,Influenza visits by age group,17-May,0.3,Percent
+11/1/2025,Influenza visits by age group,17-May,0.7,Percent
+11/8/2025,Influenza visits by age group,17-May,1.81,Percent
+11/15/2025,Influenza visits by age group,17-May,2.35,Percent
+11/22/2025,Influenza visits by age group,17-May,5.54,Percent
+11/29/2025,Influenza visits by age group,17-May,11.12,Percent
+12/6/2025,Influenza visits by age group,17-May,10.75,Percent
+12/13/2025,Influenza visits by age group,17-May,16.55,Percent
+12/20/2025,Influenza visits by age group,17-May,17.67,Percent
+12/27/2025,Influenza visits by age group,17-May,14.36,Percent
+10/11/2025,Influenza visits by age group,18-64,0.03,Percent
+10/18/2025,Influenza visits by age group,18-64,0.07,Percent
+10/25/2025,Influenza visits by age group,18-64,0.07,Percent
+11/1/2025,Influenza visits by age group,18-64,0.14,Percent
+11/8/2025,Influenza visits by age group,18-64,0.28,Percent
+11/15/2025,Influenza visits by age group,18-64,0.38,Percent
+11/22/2025,Influenza visits by age group,18-64,0.93,Percent
+11/29/2025,Influenza visits by age group,18-64,1.91,Percent
+12/6/2025,Influenza visits by age group,18-64,2.88,Percent
+12/13/2025,Influenza visits by age group,18-64,4.4,Percent
+12/20/2025,Influenza visits by age group,18-64,6.45,Percent
+12/27/2025,Influenza visits by age group,18-64,6.11,Percent
+10/11/2025,Influenza visits by age group,65+,0.04,Percent
+10/18/2025,Influenza visits by age group,65+,0.08,Percent
+10/25/2025,Influenza visits by age group,65+,0.1,Percent
+11/1/2025,Influenza visits by age group,65+,0.08,Percent
+11/8/2025,Influenza visits by age group,65+,0.17,Percent
+11/15/2025,Influenza visits by age group,65+,0.28,Percent
+11/22/2025,Influenza visits by age group,65+,0.7,Percent
+11/29/2025,Influenza visits by age group,65+,1.39,Percent
+12/6/2025,Influenza visits by age group,65+,2.23,Percent
+12/13/2025,Influenza visits by age group,65+,3.55,Percent
+12/20/2025,Influenza visits by age group,65+,5.52,Percent
+12/27/2025,Influenza visits by age group,65+,6.2,Percent
+10/11/2025,Influenza visits by borough,Bronx,0.05,Percent
+10/18/2025,Influenza visits by borough,Bronx,0.03,Percent
+10/25/2025,Influenza visits by borough,Bronx,0.09,Percent
+11/1/2025,Influenza visits by borough,Bronx,0.15,Percent
+11/8/2025,Influenza visits by borough,Bronx,0.31,Percent
+11/15/2025,Influenza visits by borough,Bronx,0.38,Percent
+11/22/2025,Influenza visits by borough,Bronx,1.31,Percent
+11/29/2025,Influenza visits by borough,Bronx,3.48,Percent
+12/6/2025,Influenza visits by borough,Bronx,4.6,Percent
+12/13/2025,Influenza visits by borough,Bronx,7.99,Percent
+12/20/2025,Influenza visits by borough,Bronx,10.3,Percent
+12/27/2025,Influenza visits by borough,Bronx,8.59,Percent
+10/11/2025,Influenza visits by borough,Brooklyn,0.06,Percent
+10/18/2025,Influenza visits by borough,Brooklyn,0.15,Percent
+10/25/2025,Influenza visits by borough,Brooklyn,0.16,Percent
+11/1/2025,Influenza visits by borough,Brooklyn,0.31,Percent
+11/8/2025,Influenza visits by borough,Brooklyn,0.49,Percent
+11/15/2025,Influenza visits by borough,Brooklyn,0.85,Percent
+11/22/2025,Influenza visits by borough,Brooklyn,1.9,Percent
+11/29/2025,Influenza visits by borough,Brooklyn,3.3,Percent
+12/6/2025,Influenza visits by borough,Brooklyn,3.97,Percent
+12/13/2025,Influenza visits by borough,Brooklyn,6.27,Percent
+12/20/2025,Influenza visits by borough,Brooklyn,7.84,Percent
+12/27/2025,Influenza visits by borough,Brooklyn,7.04,Percent
+10/11/2025,Influenza visits by borough,Manhattan,0.04,Percent
+10/18/2025,Influenza visits by borough,Manhattan,0.03,Percent
+10/25/2025,Influenza visits by borough,Manhattan,0.1,Percent
+11/1/2025,Influenza visits by borough,Manhattan,0.13,Percent
+11/8/2025,Influenza visits by borough,Manhattan,0.4,Percent
+11/15/2025,Influenza visits by borough,Manhattan,0.53,Percent
+11/22/2025,Influenza visits by borough,Manhattan,1.03,Percent
+11/29/2025,Influenza visits by borough,Manhattan,2.14,Percent
+12/6/2025,Influenza visits by borough,Manhattan,2.81,Percent
+12/13/2025,Influenza visits by borough,Manhattan,4.7,Percent
+12/20/2025,Influenza visits by borough,Manhattan,7.32,Percent
+12/27/2025,Influenza visits by borough,Manhattan,7.2,Percent
+10/11/2025,Influenza visits by borough,Queens,0.04,Percent
+10/18/2025,Influenza visits by borough,Queens,0.18,Percent
+10/25/2025,Influenza visits by borough,Queens,0.14,Percent
+11/1/2025,Influenza visits by borough,Queens,0.3,Percent
+11/8/2025,Influenza visits by borough,Queens,0.72,Percent
+11/15/2025,Influenza visits by borough,Queens,0.84,Percent
+11/22/2025,Influenza visits by borough,Queens,1.99,Percent
+11/29/2025,Influenza visits by borough,Queens,4.72,Percent
+12/6/2025,Influenza visits by borough,Queens,5.38,Percent
+12/13/2025,Influenza visits by borough,Queens,7.82,Percent
+12/20/2025,Influenza visits by borough,Queens,9.96,Percent
+12/27/2025,Influenza visits by borough,Queens,9.19,Percent
+10/11/2025,Influenza visits by borough,Staten Island,0.08,Percent
+10/18/2025,Influenza visits by borough,Staten Island,0.11,Percent
+10/25/2025,Influenza visits by borough,Staten Island,0.08,Percent
+11/1/2025,Influenza visits by borough,Staten Island,0.03,Percent
+11/8/2025,Influenza visits by borough,Staten Island,0.27,Percent
+11/15/2025,Influenza visits by borough,Staten Island,0.44,Percent
+11/22/2025,Influenza visits by borough,Staten Island,0.99,Percent
+11/29/2025,Influenza visits by borough,Staten Island,2.12,Percent
+12/6/2025,Influenza visits by borough,Staten Island,3.34,Percent
+12/13/2025,Influenza visits by borough,Staten Island,5.94,Percent
+12/20/2025,Influenza visits by borough,Staten Island,8.82,Percent
+12/27/2025,Influenza visits by borough,Staten Island,7.15,Percent
+10/11/2025,Influenza hospitalizations,Overall,0.02,Percent
+10/18/2025,Influenza hospitalizations,Overall,0.01,Percent
+10/25/2025,Influenza hospitalizations,Overall,0.03,Percent
+11/1/2025,Influenza hospitalizations,Overall,0.04,Percent
+11/8/2025,Influenza hospitalizations,Overall,0.15,Percent
+11/15/2025,Influenza hospitalizations,Overall,0.31,Percent
+11/22/2025,Influenza hospitalizations,Overall,0.67,Percent
+11/29/2025,Influenza hospitalizations,Overall,1.33,Percent
+12/6/2025,Influenza hospitalizations,Overall,1.89,Percent
+12/13/2025,Influenza hospitalizations,Overall,3.17,Percent
+12/20/2025,Influenza hospitalizations,Overall,4.82,Percent
+12/27/2025,Influenza hospitalizations,Overall,4.42,Percent
+10/11/2025,Influenza hospitalizations by age group,0-4,0,Percent
+10/18/2025,Influenza hospitalizations by age group,0-4,0,Percent
+10/25/2025,Influenza hospitalizations by age group,0-4,0,Percent
+11/1/2025,Influenza hospitalizations by age group,0-4,0,Percent
+11/8/2025,Influenza hospitalizations by age group,0-4,0,Percent
+11/15/2025,Influenza hospitalizations by age group,0-4,0.69,Percent
+11/22/2025,Influenza hospitalizations by age group,0-4,0.95,Percent
+11/29/2025,Influenza hospitalizations by age group,0-4,3.61,Percent
+12/6/2025,Influenza hospitalizations by age group,0-4,4.1,Percent
+12/13/2025,Influenza hospitalizations by age group,0-4,8.56,Percent
+12/20/2025,Influenza hospitalizations by age group,0-4,13.07,Percent
+12/27/2025,Influenza hospitalizations by age group,0-4,8.29,Percent
+10/11/2025,Influenza hospitalizations by age group,17-May,0,Percent
+10/18/2025,Influenza hospitalizations by age group,17-May,0,Percent
+10/25/2025,Influenza hospitalizations by age group,17-May,0,Percent
+11/1/2025,Influenza hospitalizations by age group,17-May,0,Percent
+11/8/2025,Influenza hospitalizations by age group,17-May,1.14,Percent
+11/15/2025,Influenza hospitalizations by age group,17-May,1.6,Percent
+11/22/2025,Influenza hospitalizations by age group,17-May,2.87,Percent
+11/29/2025,Influenza hospitalizations by age group,17-May,4.18,Percent
+12/6/2025,Influenza hospitalizations by age group,17-May,4.75,Percent
+12/13/2025,Influenza hospitalizations by age group,17-May,8.59,Percent
+12/20/2025,Influenza hospitalizations by age group,17-May,9.44,Percent
+12/27/2025,Influenza hospitalizations by age group,17-May,5.37,Percent
+10/11/2025,Influenza hospitalizations by age group,18-64,0.02,Percent
+10/18/2025,Influenza hospitalizations by age group,18-64,0.02,Percent
+10/25/2025,Influenza hospitalizations by age group,18-64,0,Percent
+11/1/2025,Influenza hospitalizations by age group,18-64,0.04,Percent
+11/8/2025,Influenza hospitalizations by age group,18-64,0.04,Percent
+11/15/2025,Influenza hospitalizations by age group,18-64,0.22,Percent
+11/22/2025,Influenza hospitalizations by age group,18-64,0.55,Percent
+11/29/2025,Influenza hospitalizations by age group,18-64,0.8,Percent
+12/6/2025,Influenza hospitalizations by age group,18-64,1.26,Percent
+12/13/2025,Influenza hospitalizations by age group,18-64,2.01,Percent
+12/20/2025,Influenza hospitalizations by age group,18-64,2.98,Percent
+12/27/2025,Influenza hospitalizations by age group,18-64,2.66,Percent
+10/11/2025,Influenza hospitalizations by age group,65+,0.02,Percent
+10/18/2025,Influenza hospitalizations by age group,65+,0,Percent
+10/25/2025,Influenza hospitalizations by age group,65+,0.07,Percent
+11/1/2025,Influenza hospitalizations by age group,65+,0.05,Percent
+11/8/2025,Influenza hospitalizations by age group,65+,0.22,Percent
+11/15/2025,Influenza hospitalizations by age group,65+,0.29,Percent
+11/22/2025,Influenza hospitalizations by age group,65+,0.62,Percent
+11/29/2025,Influenza hospitalizations by age group,65+,1.6,Percent
+12/6/2025,Influenza hospitalizations by age group,65+,2.27,Percent
+12/13/2025,Influenza hospitalizations by age group,65+,3.66,Percent
+12/20/2025,Influenza hospitalizations by age group,65+,5.78,Percent
+12/27/2025,Influenza hospitalizations by age group,65+,6.06,Percent
+10/11/2025,Influenza hospitalizations by borough,Bronx,0,Percent
+10/18/2025,Influenza hospitalizations by borough,Bronx,0,Percent
+10/25/2025,Influenza hospitalizations by borough,Bronx,0,Percent
+11/1/2025,Influenza hospitalizations by borough,Bronx,0,Percent
+11/8/2025,Influenza hospitalizations by borough,Bronx,0.05,Percent
+11/15/2025,Influenza hospitalizations by borough,Bronx,0.15,Percent
+11/22/2025,Influenza hospitalizations by borough,Bronx,0.26,Percent
+11/29/2025,Influenza hospitalizations by borough,Bronx,1.38,Percent
+12/6/2025,Influenza hospitalizations by borough,Bronx,2.08,Percent
+12/13/2025,Influenza hospitalizations by borough,Bronx,3.03,Percent
+12/20/2025,Influenza hospitalizations by borough,Bronx,4.53,Percent
+12/27/2025,Influenza hospitalizations by borough,Bronx,3.88,Percent
+10/11/2025,Influenza hospitalizations by borough,Brooklyn,0.03,Percent
+10/18/2025,Influenza hospitalizations by borough,Brooklyn,0.03,Percent
+10/25/2025,Influenza hospitalizations by borough,Brooklyn,0.03,Percent
+11/1/2025,Influenza hospitalizations by borough,Brooklyn,0.06,Percent
+11/8/2025,Influenza hospitalizations by borough,Brooklyn,0.17,Percent
+11/15/2025,Influenza hospitalizations by borough,Brooklyn,0.56,Percent
+11/22/2025,Influenza hospitalizations by borough,Brooklyn,0.62,Percent
+11/29/2025,Influenza hospitalizations by borough,Brooklyn,0.96,Percent
+12/6/2025,Influenza hospitalizations by borough,Brooklyn,1.52,Percent
+12/13/2025,Influenza hospitalizations by borough,Brooklyn,2.84,Percent
+12/20/2025,Influenza hospitalizations by borough,Brooklyn,4.51,Percent
+12/27/2025,Influenza hospitalizations by borough,Brooklyn,3.45,Percent
+10/11/2025,Influenza hospitalizations by borough,Manhattan,0,Percent
+10/18/2025,Influenza hospitalizations by borough,Manhattan,0,Percent
+10/25/2025,Influenza hospitalizations by borough,Manhattan,0,Percent
+11/1/2025,Influenza hospitalizations by borough,Manhattan,0,Percent
+11/8/2025,Influenza hospitalizations by borough,Manhattan,0.13,Percent
+11/15/2025,Influenza hospitalizations by borough,Manhattan,0.21,Percent
+11/22/2025,Influenza hospitalizations by borough,Manhattan,0.34,Percent
+11/29/2025,Influenza hospitalizations by borough,Manhattan,1.11,Percent
+12/6/2025,Influenza hospitalizations by borough,Manhattan,0.84,Percent
+12/13/2025,Influenza hospitalizations by borough,Manhattan,2.18,Percent
+12/20/2025,Influenza hospitalizations by borough,Manhattan,4.21,Percent
+12/27/2025,Influenza hospitalizations by borough,Manhattan,4.46,Percent
+10/11/2025,Influenza hospitalizations by borough,Queens,0,Percent
+10/18/2025,Influenza hospitalizations by borough,Queens,0,Percent
+10/25/2025,Influenza hospitalizations by borough,Queens,0.04,Percent
+11/1/2025,Influenza hospitalizations by borough,Queens,0.09,Percent
+11/8/2025,Influenza hospitalizations by borough,Queens,0.28,Percent
+11/15/2025,Influenza hospitalizations by borough,Queens,0.23,Percent
+11/22/2025,Influenza hospitalizations by borough,Queens,1.26,Percent
+11/29/2025,Influenza hospitalizations by borough,Queens,2.14,Percent
+12/6/2025,Influenza hospitalizations by borough,Queens,2.98,Percent
+12/13/2025,Influenza hospitalizations by borough,Queens,4.57,Percent
+12/20/2025,Influenza hospitalizations by borough,Queens,5.75,Percent
+12/27/2025,Influenza hospitalizations by borough,Queens,6.52,Percent
+10/11/2025,Influenza hospitalizations by borough,Staten Island,0.15,Percent
+10/18/2025,Influenza hospitalizations by borough,Staten Island,0,Percent
+10/25/2025,Influenza hospitalizations by borough,Staten Island,0.15,Percent
+11/1/2025,Influenza hospitalizations by borough,Staten Island,0,Percent
+11/8/2025,Influenza hospitalizations by borough,Staten Island,0,Percent
+11/15/2025,Influenza hospitalizations by borough,Staten Island,0,Percent
+11/22/2025,Influenza hospitalizations by borough,Staten Island,0.97,Percent
+11/29/2025,Influenza hospitalizations by borough,Staten Island,1.35,Percent
+12/6/2025,Influenza hospitalizations by borough,Staten Island,2.31,Percent
+12/13/2025,Influenza hospitalizations by borough,Staten Island,3.58,Percent
+12/20/2025,Influenza hospitalizations by borough,Staten Island,6.34,Percent
+12/27/2025,Influenza hospitalizations by borough,Staten Island,5.35,Percent
+10/11/2025,RSV visits,Overall,0.02,Percent
+10/18/2025,RSV visits,Overall,0.03,Percent
+10/25/2025,RSV visits,Overall,0.03,Percent
+11/1/2025,RSV visits,Overall,0.05,Percent
+11/8/2025,RSV visits,Overall,0.07,Percent
+11/15/2025,RSV visits,Overall,0.07,Percent
+11/22/2025,RSV visits,Overall,0.12,Percent
+11/29/2025,RSV visits,Overall,0.2,Percent
+12/6/2025,RSV visits,Overall,0.25,Percent
+12/13/2025,RSV visits,Overall,0.26,Percent
+12/20/2025,RSV visits,Overall,0.3,Percent
+12/27/2025,RSV visits,Overall,0.35,Percent
+10/11/2025,RSV visits by age group,0-4,0.17,Percent
+10/18/2025,RSV visits by age group,0-4,0.39,Percent
+10/25/2025,RSV visits by age group,0-4,0.28,Percent
+11/1/2025,RSV visits by age group,0-4,0.66,Percent
+11/8/2025,RSV visits by age group,0-4,0.73,Percent
+11/15/2025,RSV visits by age group,0-4,0.79,Percent
+11/22/2025,RSV visits by age group,0-4,1.16,Percent
+11/29/2025,RSV visits by age group,0-4,1.77,Percent
+12/6/2025,RSV visits by age group,0-4,2.07,Percent
+12/13/2025,RSV visits by age group,0-4,2.15,Percent
+12/20/2025,RSV visits by age group,0-4,1.97,Percent
+12/27/2025,RSV visits by age group,0-4,2.15,Percent
+10/11/2025,RSV visits by age group,17-May,0.01,Percent
+10/18/2025,RSV visits by age group,17-May,0.02,Percent
+10/25/2025,RSV visits by age group,17-May,0,Percent
+11/1/2025,RSV visits by age group,17-May,0,Percent
+11/8/2025,RSV visits by age group,17-May,0.03,Percent
+11/15/2025,RSV visits by age group,17-May,0.02,Percent
+11/22/2025,RSV visits by age group,17-May,0.08,Percent
+11/29/2025,RSV visits by age group,17-May,0.08,Percent
+12/6/2025,RSV visits by age group,17-May,0.14,Percent
+12/13/2025,RSV visits by age group,17-May,0.16,Percent
+12/20/2025,RSV visits by age group,17-May,0.19,Percent
+12/27/2025,RSV visits by age group,17-May,0.28,Percent
+10/11/2025,RSV visits by age group,18-64,0,Percent
+10/18/2025,RSV visits by age group,18-64,0,Percent
+10/25/2025,RSV visits by age group,18-64,0.02,Percent
+11/1/2025,RSV visits by age group,18-64,0,Percent
+11/8/2025,RSV visits by age group,18-64,0.02,Percent
+11/15/2025,RSV visits by age group,18-64,0.02,Percent
+11/22/2025,RSV visits by age group,18-64,0.02,Percent
+11/29/2025,RSV visits by age group,18-64,0.03,Percent
+12/6/2025,RSV visits by age group,18-64,0.06,Percent
+12/13/2025,RSV visits by age group,18-64,0.03,Percent
+12/20/2025,RSV visits by age group,18-64,0.08,Percent
+12/27/2025,RSV visits by age group,18-64,0.09,Percent
+10/11/2025,RSV visits by age group,65+,0.01,Percent
+10/18/2025,RSV visits by age group,65+,0.01,Percent
+10/25/2025,RSV visits by age group,65+,0.01,Percent
+11/1/2025,RSV visits by age group,65+,0.01,Percent
+11/8/2025,RSV visits by age group,65+,0.02,Percent
+11/15/2025,RSV visits by age group,65+,0.01,Percent
+11/22/2025,RSV visits by age group,65+,0.03,Percent
+11/29/2025,RSV visits by age group,65+,0.06,Percent
+12/6/2025,RSV visits by age group,65+,0.05,Percent
+12/13/2025,RSV visits by age group,65+,0.12,Percent
+12/20/2025,RSV visits by age group,65+,0.12,Percent
+12/27/2025,RSV visits by age group,65+,0.2,Percent
+10/11/2025,RSV visits by borough,Bronx,0.02,Percent
+10/18/2025,RSV visits by borough,Bronx,0.06,Percent
+10/25/2025,RSV visits by borough,Bronx,0.04,Percent
+11/1/2025,RSV visits by borough,Bronx,0.05,Percent
+11/8/2025,RSV visits by borough,Bronx,0.11,Percent
+11/15/2025,RSV visits by borough,Bronx,0.08,Percent
+11/22/2025,RSV visits by borough,Bronx,0.16,Percent
+11/29/2025,RSV visits by borough,Bronx,0.21,Percent
+12/6/2025,RSV visits by borough,Bronx,0.38,Percent
+12/13/2025,RSV visits by borough,Bronx,0.31,Percent
+12/20/2025,RSV visits by borough,Bronx,0.4,Percent
+12/27/2025,RSV visits by borough,Bronx,0.49,Percent
+10/11/2025,RSV visits by borough,Brooklyn,0.01,Percent
+10/18/2025,RSV visits by borough,Brooklyn,0.03,Percent
+10/25/2025,RSV visits by borough,Brooklyn,0.03,Percent
+11/1/2025,RSV visits by borough,Brooklyn,0.06,Percent
+11/8/2025,RSV visits by borough,Brooklyn,0.05,Percent
+11/15/2025,RSV visits by borough,Brooklyn,0.06,Percent
+11/22/2025,RSV visits by borough,Brooklyn,0.13,Percent
+11/29/2025,RSV visits by borough,Brooklyn,0.26,Percent
+12/6/2025,RSV visits by borough,Brooklyn,0.25,Percent
+12/13/2025,RSV visits by borough,Brooklyn,0.25,Percent
+12/20/2025,RSV visits by borough,Brooklyn,0.35,Percent
+12/27/2025,RSV visits by borough,Brooklyn,0.34,Percent
+10/11/2025,RSV visits by borough,Manhattan,0.03,Percent
+10/18/2025,RSV visits by borough,Manhattan,0.02,Percent
+10/25/2025,RSV visits by borough,Manhattan,0.04,Percent
+11/1/2025,RSV visits by borough,Manhattan,0.03,Percent
+11/8/2025,RSV visits by borough,Manhattan,0.06,Percent
+11/15/2025,RSV visits by borough,Manhattan,0.06,Percent
+11/22/2025,RSV visits by borough,Manhattan,0.12,Percent
+11/29/2025,RSV visits by borough,Manhattan,0.16,Percent
+12/6/2025,RSV visits by borough,Manhattan,0.18,Percent
+12/13/2025,RSV visits by borough,Manhattan,0.25,Percent
+12/20/2025,RSV visits by borough,Manhattan,0.26,Percent
+12/27/2025,RSV visits by borough,Manhattan,0.22,Percent
+10/11/2025,RSV visits by borough,Queens,0.01,Percent
+10/18/2025,RSV visits by borough,Queens,0.02,Percent
+10/25/2025,RSV visits by borough,Queens,0.03,Percent
+11/1/2025,RSV visits by borough,Queens,0.05,Percent
+11/8/2025,RSV visits by borough,Queens,0.06,Percent
+11/15/2025,RSV visits by borough,Queens,0.1,Percent
+11/22/2025,RSV visits by borough,Queens,0.08,Percent
+11/29/2025,RSV visits by borough,Queens,0.15,Percent
+12/6/2025,RSV visits by borough,Queens,0.14,Percent
+12/13/2025,RSV visits by borough,Queens,0.19,Percent
+12/20/2025,RSV visits by borough,Queens,0.17,Percent
+12/27/2025,RSV visits by borough,Queens,0.3,Percent
+10/11/2025,RSV visits by borough,Staten Island,0,Percent
+10/18/2025,RSV visits by borough,Staten Island,0,Percent
+10/25/2025,RSV visits by borough,Staten Island,0,Percent
+11/1/2025,RSV visits by borough,Staten Island,0.05,Percent
+11/8/2025,RSV visits by borough,Staten Island,0.1,Percent
+11/15/2025,RSV visits by borough,Staten Island,0.05,Percent
+11/22/2025,RSV visits by borough,Staten Island,0,Percent
+11/29/2025,RSV visits by borough,Staten Island,0.16,Percent
+12/6/2025,RSV visits by borough,Staten Island,0.33,Percent
+12/13/2025,RSV visits by borough,Staten Island,0.45,Percent
+12/20/2025,RSV visits by borough,Staten Island,0.31,Percent
+12/27/2025,RSV visits by borough,Staten Island,0.4,Percent
+10/11/2025,RSV hospitalizations,Overall,0.05,Percent
+10/18/2025,RSV hospitalizations,Overall,0.01,Percent
+10/25/2025,RSV hospitalizations,Overall,0.02,Percent
+11/1/2025,RSV hospitalizations,Overall,0.07,Percent
+11/8/2025,RSV hospitalizations,Overall,0.08,Percent
+11/15/2025,RSV hospitalizations,Overall,0.1,Percent
+11/22/2025,RSV hospitalizations,Overall,0.16,Percent
+11/29/2025,RSV hospitalizations,Overall,0.33,Percent
+12/6/2025,RSV hospitalizations,Overall,0.32,Percent
+12/13/2025,RSV hospitalizations,Overall,0.21,Percent
+12/20/2025,RSV hospitalizations,Overall,0.39,Percent
+12/27/2025,RSV hospitalizations,Overall,0.35,Percent
+10/11/2025,RSV hospitalizations by age group,0-4,1.11,Percent
+10/18/2025,RSV hospitalizations by age group,0-4,0,Percent
+10/25/2025,RSV hospitalizations by age group,0-4,0.38,Percent
+11/1/2025,RSV hospitalizations by age group,0-4,2.34,Percent
+11/8/2025,RSV hospitalizations by age group,0-4,1.93,Percent
+11/15/2025,RSV hospitalizations by age group,0-4,2.43,Percent
+11/22/2025,RSV hospitalizations by age group,0-4,4.75,Percent
+11/29/2025,RSV hospitalizations by age group,0-4,7.53,Percent
+12/6/2025,RSV hospitalizations by age group,0-4,6.27,Percent
+12/13/2025,RSV hospitalizations by age group,0-4,4.81,Percent
+12/20/2025,RSV hospitalizations by age group,0-4,6.42,Percent
+12/27/2025,RSV hospitalizations by age group,0-4,5.25,Percent
+10/11/2025,RSV hospitalizations by age group,17-May,0.29,Percent
+10/18/2025,RSV hospitalizations by age group,17-May,0,Percent
+10/25/2025,RSV hospitalizations by age group,17-May,0,Percent
+11/1/2025,RSV hospitalizations by age group,17-May,0,Percent
+11/8/2025,RSV hospitalizations by age group,17-May,0,Percent
+11/15/2025,RSV hospitalizations by age group,17-May,0,Percent
+11/22/2025,RSV hospitalizations by age group,17-May,0,Percent
+11/29/2025,RSV hospitalizations by age group,17-May,0,Percent
+12/6/2025,RSV hospitalizations by age group,17-May,0.25,Percent
+12/13/2025,RSV hospitalizations by age group,17-May,0.24,Percent
+12/20/2025,RSV hospitalizations by age group,17-May,0.21,Percent
+12/27/2025,RSV hospitalizations by age group,17-May,0.3,Percent
+10/11/2025,RSV hospitalizations by age group,18-64,0.02,Percent
+10/18/2025,RSV hospitalizations by age group,18-64,0,Percent
+10/25/2025,RSV hospitalizations by age group,18-64,0.02,Percent
+11/1/2025,RSV hospitalizations by age group,18-64,0,Percent
+11/8/2025,RSV hospitalizations by age group,18-64,0.02,Percent
+11/15/2025,RSV hospitalizations by age group,18-64,0.04,Percent
+11/22/2025,RSV hospitalizations by age group,18-64,0,Percent
+11/29/2025,RSV hospitalizations by age group,18-64,0.04,Percent
+12/6/2025,RSV hospitalizations by age group,18-64,0.02,Percent
+12/13/2025,RSV hospitalizations by age group,18-64,0,Percent
+12/20/2025,RSV hospitalizations by age group,18-64,0.1,Percent
+12/27/2025,RSV hospitalizations by age group,18-64,0.06,Percent
+10/11/2025,RSV hospitalizations by age group,65+,0,Percent
+10/18/2025,RSV hospitalizations by age group,65+,0.02,Percent
+10/25/2025,RSV hospitalizations by age group,65+,0,Percent
+11/1/2025,RSV hospitalizations by age group,65+,0.02,Percent
+11/8/2025,RSV hospitalizations by age group,65+,0.02,Percent
+11/15/2025,RSV hospitalizations by age group,65+,0.02,Percent
+11/22/2025,RSV hospitalizations by age group,65+,0.02,Percent
+11/29/2025,RSV hospitalizations by age group,65+,0.11,Percent
+12/6/2025,RSV hospitalizations by age group,65+,0.14,Percent
+12/13/2025,RSV hospitalizations by age group,65+,0.07,Percent
+12/20/2025,RSV hospitalizations by age group,65+,0.17,Percent
+12/27/2025,RSV hospitalizations by age group,65+,0.27,Percent
+10/11/2025,RSV hospitalizations by borough,Bronx,0.05,Percent
+10/18/2025,RSV hospitalizations by borough,Bronx,0,Percent
+10/25/2025,RSV hospitalizations by borough,Bronx,0.05,Percent
+11/1/2025,RSV hospitalizations by borough,Bronx,0.21,Percent
+11/8/2025,RSV hospitalizations by borough,Bronx,0.05,Percent
+11/15/2025,RSV hospitalizations by borough,Bronx,0.05,Percent
+11/22/2025,RSV hospitalizations by borough,Bronx,0.16,Percent
+11/29/2025,RSV hospitalizations by borough,Bronx,0.39,Percent
+12/6/2025,RSV hospitalizations by borough,Bronx,0.6,Percent
+12/13/2025,RSV hospitalizations by borough,Bronx,0.24,Percent
+12/20/2025,RSV hospitalizations by borough,Bronx,0.55,Percent
+12/27/2025,RSV hospitalizations by borough,Bronx,0.42,Percent
+10/11/2025,RSV hospitalizations by borough,Brooklyn,0.09,Percent
+10/18/2025,RSV hospitalizations by borough,Brooklyn,0,Percent
+10/25/2025,RSV hospitalizations by borough,Brooklyn,0,Percent
+11/1/2025,RSV hospitalizations by borough,Brooklyn,0.03,Percent
+11/8/2025,RSV hospitalizations by borough,Brooklyn,0.11,Percent
+11/15/2025,RSV hospitalizations by borough,Brooklyn,0.12,Percent
+11/22/2025,RSV hospitalizations by borough,Brooklyn,0.24,Percent
+11/29/2025,RSV hospitalizations by borough,Brooklyn,0.45,Percent
+12/6/2025,RSV hospitalizations by borough,Brooklyn,0.33,Percent
+12/13/2025,RSV hospitalizations by borough,Brooklyn,0.27,Percent
+12/20/2025,RSV hospitalizations by borough,Brooklyn,0.48,Percent
+12/27/2025,RSV hospitalizations by borough,Brooklyn,0.3,Percent
+10/11/2025,RSV hospitalizations by borough,Manhattan,0.06,Percent
+10/18/2025,RSV hospitalizations by borough,Manhattan,0,Percent
+10/25/2025,RSV hospitalizations by borough,Manhattan,0,Percent
+11/1/2025,RSV hospitalizations by borough,Manhattan,0,Percent
+11/8/2025,RSV hospitalizations by borough,Manhattan,0.07,Percent
+11/15/2025,RSV hospitalizations by borough,Manhattan,0.14,Percent
+11/22/2025,RSV hospitalizations by borough,Manhattan,0.21,Percent
+11/29/2025,RSV hospitalizations by borough,Manhattan,0.15,Percent
+12/6/2025,RSV hospitalizations by borough,Manhattan,0.13,Percent
+12/13/2025,RSV hospitalizations by borough,Manhattan,0.19,Percent
+12/20/2025,RSV hospitalizations by borough,Manhattan,0.39,Percent
+12/27/2025,RSV hospitalizations by borough,Manhattan,0.2,Percent
+10/11/2025,RSV hospitalizations by borough,Queens,0,Percent
+10/18/2025,RSV hospitalizations by borough,Queens,0.05,Percent
+10/25/2025,RSV hospitalizations by borough,Queens,0.04,Percent
+11/1/2025,RSV hospitalizations by borough,Queens,0.05,Percent
+11/8/2025,RSV hospitalizations by borough,Queens,0.05,Percent
+11/15/2025,RSV hospitalizations by borough,Queens,0.09,Percent
+11/22/2025,RSV hospitalizations by borough,Queens,0.09,Percent
+11/29/2025,RSV hospitalizations by borough,Queens,0.2,Percent
+12/6/2025,RSV hospitalizations by borough,Queens,0.04,Percent
+12/13/2025,RSV hospitalizations by borough,Queens,0.13,Percent
+12/20/2025,RSV hospitalizations by borough,Queens,0.17,Percent
+12/27/2025,RSV hospitalizations by borough,Queens,0.43,Percent
+10/11/2025,RSV hospitalizations by borough,Staten Island,0,Percent
+10/18/2025,RSV hospitalizations by borough,Staten Island,0,Percent
+10/25/2025,RSV hospitalizations by borough,Staten Island,0,Percent
+11/1/2025,RSV hospitalizations by borough,Staten Island,0.15,Percent
+11/8/2025,RSV hospitalizations by borough,Staten Island,0.13,Percent
+11/15/2025,RSV hospitalizations by borough,Staten Island,0.15,Percent
+11/22/2025,RSV hospitalizations by borough,Staten Island,0,Percent
+11/29/2025,RSV hospitalizations by borough,Staten Island,0.45,Percent
+12/6/2025,RSV hospitalizations by borough,Staten Island,0.81,Percent
+12/13/2025,RSV hospitalizations by borough,Staten Island,0.14,Percent
+12/20/2025,RSV hospitalizations by borough,Staten Island,0.25,Percent
+12/27/2025,RSV hospitalizations by borough,Staten Island,0.56,Percent
+12/27/2025,Respiratory panel results,Adenovirus,1,Percent
+12/27/2025,Respiratory panel results,Human Coronaviruses,5,Percent
+12/27/2025,Respiratory panel results,SARS-CoV-2,1,Percent
+12/27/2025,Respiratory panel results,Human Metapneumovirus,0,Percent
+12/27/2025,Respiratory panel results,Enterovirus/Rhinovirus,9,Percent
+12/27/2025,Respiratory panel results,Influenza,19,Percent
+12/27/2025,Respiratory panel results,Parainfluenza,2,Percent
+12/27/2025,Respiratory panel results,Respiratory Syncytial Virus,3,Percent
