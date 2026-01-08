@@ -1,808 +1,811 @@
-date,metric,submetric,value,display
-9/9/2023,COVID-19 cases,Total,9464,Number
-9/16/2023,COVID-19 cases,Total,9603,Number
-9/23/2023,COVID-19 cases,Total,10415,Number
-9/30/2023,COVID-19 cases,Total,8603,Number
-10/7/2023,COVID-19 cases,Total,7010,Number
-10/14/2023,COVID-19 cases,Total,5136,Number
-10/21/2023,COVID-19 cases,Total,4649,Number
-10/28/2023,COVID-19 cases,Total,4123,Number
-11/4/2023,COVID-19 cases,Total,3351,Number
-11/11/2023,COVID-19 cases,Total,3789,Number
-11/18/2023,COVID-19 cases,Total,4406,Number
-11/25/2023,COVID-19 cases,Total,4825,Number
-12/2/2023,COVID-19 cases,Total,6508,Number
-12/9/2023,COVID-19 cases,Total,7330,Number
-12/16/2023,COVID-19 cases,Total,10327,Number
-12/23/2023,COVID-19 cases,Total,14023,Number
-12/30/2023,COVID-19 cases,Total,16496,Number
-1/6/2024,COVID-19 cases,Total,17057,Number
-1/13/2024,COVID-19 cases,Total,15256,Number
-1/20/2024,COVID-19 cases,Total,10726,Number
-1/27/2024,COVID-19 cases,Total,9700,Number
-2/3/2024,COVID-19 cases,Total,7536,Number
-2/10/2024,COVID-19 cases,Total,6104,Number
-2/17/2024,COVID-19 cases,Total,4576,Number
-2/24/2024,COVID-19 cases,Total,3453,Number
-3/2/2024,COVID-19 cases,Total,2951,Number
-3/9/2024,COVID-19 cases,Total,2204,Number
-3/16/2024,COVID-19 cases,Total,1796,Number
-3/23/2024,COVID-19 cases,Total,1752,Number
-3/30/2024,COVID-19 cases,Total,1539,Number
-4/6/2024,COVID-19 cases,Total,1432,Number
-4/13/2024,COVID-19 cases,Total,1413,Number
-4/20/2024,COVID-19 cases,Total,1406,Number
-4/27/2024,COVID-19 cases,Total,1350,Number
-5/4/2024,COVID-19 cases,Total,1576,Number
-5/11/2024,COVID-19 cases,Total,1765,Number
-5/18/2024,COVID-19 cases,Total,2486,Number
-5/25/2024,COVID-19 cases,Total,2736,Number
-6/1/2024,COVID-19 cases,Total,2939,Number
-6/8/2024,COVID-19 cases,Total,3631,Number
-6/15/2024,COVID-19 cases,Total,4186,Number
-6/22/2024,COVID-19 cases,Total,4869,Number
-6/29/2024,COVID-19 cases,Total,5328,Number
-7/6/2024,COVID-19 cases,Total,5603,Number
-7/13/2024,COVID-19 cases,Total,6488,Number
-7/20/2024,COVID-19 cases,Total,7046,Number
-7/27/2024,COVID-19 cases,Total,7551,Number
-8/3/2024,COVID-19 cases,Total,6860,Number
-8/10/2024,COVID-19 cases,Total,5419,Number
-8/17/2024,COVID-19 cases,Total,5465,Number
-8/24/2024,COVID-19 cases,Total,4693,Number
-8/31/2024,COVID-19 cases,Total,4169,Number
-9/7/2024,COVID-19 cases,Total,3581,Number
-9/14/2024,COVID-19 cases,Total,3767,Number
-9/21/2024,COVID-19 cases,Total,3424,Number
-9/28/2024,COVID-19 cases,Total,2674,Number
-10/5/2024,COVID-19 cases,Total,1770,Number
-10/12/2024,COVID-19 cases,Total,1420,Number
-10/19/2024,COVID-19 cases,Total,1204,Number
-10/26/2024,COVID-19 cases,Total,1217,Number
-11/2/2024,COVID-19 cases,Total,1241,Number
-11/9/2024,COVID-19 cases,Total,940,Number
-11/16/2024,COVID-19 cases,Total,915,Number
-11/23/2024,COVID-19 cases,Total,1015,Number
-11/30/2024,COVID-19 cases,Total,1011,Number
-12/7/2024,COVID-19 cases,Total,1464,Number
-12/14/2024,COVID-19 cases,Total,1589,Number
-12/21/2024,COVID-19 cases,Total,2009,Number
-12/28/2024,COVID-19 cases,Total,1906,Number
-1/4/2025,COVID-19 cases,Total,2558,Number
-1/11/2025,COVID-19 cases,Total,2619,Number
-1/18/2025,COVID-19 cases,Total,2880,Number
-1/25/2025,COVID-19 cases,Total,2907,Number
-2/1/2025,COVID-19 cases,Total,3316,Number
-2/8/2025,COVID-19 cases,Total,3543,Number
-2/15/2025,COVID-19 cases,Total,3355,Number
-2/22/2025,COVID-19 cases,Total,2946,Number
-3/1/2025,COVID-19 cases,Total,3222,Number
-3/8/2025,COVID-19 cases,Total,3375,Number
-3/15/2025,COVID-19 cases,Total,4015,Number
-3/22/2025,COVID-19 cases,Total,4202,Number
-3/29/2025,COVID-19 cases,Total,4098,Number
-4/5/2025,COVID-19 cases,Total,3707,Number
-4/12/2025,COVID-19 cases,Total,3310,Number
-4/19/2025,COVID-19 cases,Total,2773,Number
-4/26/2025,COVID-19 cases,Total,2463,Number
-5/3/2025,COVID-19 cases,Total,1958,Number
-5/10/2025,COVID-19 cases,Total,1688,Number
-5/17/2025,COVID-19 cases,Total,1656,Number
-5/24/2025,COVID-19 cases,Total,1562,Number
-5/31/2025,COVID-19 cases,Total,1744,Number
-6/7/2025,COVID-19 cases,Total,1782,Number
-6/14/2025,COVID-19 cases,Total,1631,Number
-6/21/2025,COVID-19 cases,Total,1575,Number
-6/28/2025,COVID-19 cases,Total,1410,Number
-7/5/2025,COVID-19 cases,Total,1294,Number
-7/12/2025,COVID-19 cases,Total,1539,Number
-7/19/2025,COVID-19 cases,Total,1552,Number
-7/26/2025,COVID-19 cases,Total,1844,Number
-8/2/2025,COVID-19 cases,Total,2032,Number
-8/9/2025,COVID-19 cases,Total,2370,Number
-8/16/2025,COVID-19 cases,Total,2649,Number
-8/23/2025,COVID-19 cases,Total,2360,Number
-8/30/2025,COVID-19 cases,Total,2552,Number
-9/6/2025,COVID-19 cases,Total,2697,Number
-9/13/2025,COVID-19 cases,Total,2891,Number
-9/20/2025,COVID-19 cases,Total,2934,Number
-9/27/2025,COVID-19 cases,Total,2334,Number
-10/4/2025,COVID-19 cases,Total,1767,Number
-10/11/2025,COVID-19 cases,Total,1322,Number
-10/18/2025,COVID-19 cases,Total,997,Number
-10/25/2025,COVID-19 cases,Total,908,Number
-11/1/2025,COVID-19 cases,Total,869,Number
-11/8/2025,COVID-19 cases,Total,841,Number
-11/15/2025,COVID-19 cases,Total,783,Number
-11/22/2025,COVID-19 cases,Total,830,Number
-11/29/2025,COVID-19 cases,Total,752,Number
-12/6/2025,COVID-19 cases,Total,990,Number
-12/13/2025,COVID-19 cases,Total,1156,Number
-12/20/2025,COVID-19 cases,Total,1154,Number
-12/27/2025,COVID-19 cases,Total,896,Number
-10/11/2025,COVID-19 cases by test type,Confirmed,814,Number
-10/18/2025,COVID-19 cases by test type,Confirmed,621,Number
-10/25/2025,COVID-19 cases by test type,Confirmed,584,Number
-11/1/2025,COVID-19 cases by test type,Confirmed,600,Number
-11/8/2025,COVID-19 cases by test type,Confirmed,558,Number
-11/15/2025,COVID-19 cases by test type,Confirmed,505,Number
-11/22/2025,COVID-19 cases by test type,Confirmed,566,Number
-11/29/2025,COVID-19 cases by test type,Confirmed,481,Number
-12/6/2025,COVID-19 cases by test type,Confirmed,646,Number
-12/13/2025,COVID-19 cases by test type,Confirmed,737,Number
-12/20/2025,COVID-19 cases by test type,Confirmed,812,Number
-12/27/2025,COVID-19 cases by test type,Confirmed,712,Number
-10/11/2025,COVID-19 cases by test type,Probable,508,Number
-10/18/2025,COVID-19 cases by test type,Probable,376,Number
-10/25/2025,COVID-19 cases by test type,Probable,324,Number
-11/1/2025,COVID-19 cases by test type,Probable,269,Number
-11/8/2025,COVID-19 cases by test type,Probable,283,Number
-11/15/2025,COVID-19 cases by test type,Probable,278,Number
-11/22/2025,COVID-19 cases by test type,Probable,264,Number
-11/29/2025,COVID-19 cases by test type,Probable,271,Number
-12/6/2025,COVID-19 cases by test type,Probable,344,Number
-12/13/2025,COVID-19 cases by test type,Probable,419,Number
-12/20/2025,COVID-19 cases by test type,Probable,342,Number
-12/27/2025,COVID-19 cases by test type,Probable,184,Number
-10/11/2025,COVID-19 cases by age group,0-4,108,Number
-10/18/2025,COVID-19 cases by age group,0-4,81,Number
-10/25/2025,COVID-19 cases by age group,0-4,99,Number
-11/1/2025,COVID-19 cases by age group,0-4,125,Number
-11/8/2025,COVID-19 cases by age group,0-4,106,Number
-11/15/2025,COVID-19 cases by age group,0-4,89,Number
-11/22/2025,COVID-19 cases by age group,0-4,119,Number
-11/29/2025,COVID-19 cases by age group,0-4,88,Number
-12/6/2025,COVID-19 cases by age group,0-4,120,Number
-12/13/2025,COVID-19 cases by age group,0-4,119,Number
-12/20/2025,COVID-19 cases by age group,0-4,140,Number
-12/27/2025,COVID-19 cases by age group,0-4,114,Number
-10/11/2025,COVID-19 cases by age group,5-17,85,Number
-10/18/2025,COVID-19 cases by age group,5-17,66,Number
-10/25/2025,COVID-19 cases by age group,5-17,77,Number
-11/1/2025,COVID-19 cases by age group,5-17,80,Number
-11/8/2025,COVID-19 cases by age group,5-17,85,Number
-11/15/2025,COVID-19 cases by age group,5-17,91,Number
-11/22/2025,COVID-19 cases by age group,5-17,117,Number
-11/29/2025,COVID-19 cases by age group,5-17,104,Number
-12/6/2025,COVID-19 cases by age group,5-17,142,Number
-12/13/2025,COVID-19 cases by age group,5-17,199,Number
-12/20/2025,COVID-19 cases by age group,5-17,187,Number
-12/27/2025,COVID-19 cases by age group,5-17,111,Number
-10/11/2025,COVID-19 cases by age group,18-64,731,Number
-10/18/2025,COVID-19 cases by age group,18-64,557,Number
-10/25/2025,COVID-19 cases by age group,18-64,493,Number
-11/1/2025,COVID-19 cases by age group,18-64,413,Number
-11/8/2025,COVID-19 cases by age group,18-64,439,Number
-11/15/2025,COVID-19 cases by age group,18-64,404,Number
-11/22/2025,COVID-19 cases by age group,18-64,400,Number
-11/29/2025,COVID-19 cases by age group,18-64,377,Number
-12/6/2025,COVID-19 cases by age group,18-64,497,Number
-12/13/2025,COVID-19 cases by age group,18-64,565,Number
-12/20/2025,COVID-19 cases by age group,18-64,562,Number
-12/27/2025,COVID-19 cases by age group,18-64,415,Number
-10/11/2025,COVID-19 cases by age group,65+,397,Number
-10/18/2025,COVID-19 cases by age group,65+,293,Number
-10/25/2025,COVID-19 cases by age group,65+,239,Number
-11/1/2025,COVID-19 cases by age group,65+,251,Number
-11/8/2025,COVID-19 cases by age group,65+,211,Number
-11/15/2025,COVID-19 cases by age group,65+,196,Number
-11/22/2025,COVID-19 cases by age group,65+,194,Number
-11/29/2025,COVID-19 cases by age group,65+,183,Number
-12/6/2025,COVID-19 cases by age group,65+,230,Number
-12/13/2025,COVID-19 cases by age group,65+,271,Number
-12/20/2025,COVID-19 cases by age group,65+,264,Number
-12/27/2025,COVID-19 cases by age group,65+,256,Number
-10/11/2025,COVID-19 cases by borough,Bronx,213,Number
-10/18/2025,COVID-19 cases by borough,Bronx,157,Number
-10/25/2025,COVID-19 cases by borough,Bronx,153,Number
-11/1/2025,COVID-19 cases by borough,Bronx,141,Number
-11/8/2025,COVID-19 cases by borough,Bronx,127,Number
-11/15/2025,COVID-19 cases by borough,Bronx,119,Number
-11/22/2025,COVID-19 cases by borough,Bronx,131,Number
-11/29/2025,COVID-19 cases by borough,Bronx,113,Number
-12/6/2025,COVID-19 cases by borough,Bronx,161,Number
-12/13/2025,COVID-19 cases by borough,Bronx,180,Number
-12/20/2025,COVID-19 cases by borough,Bronx,201,Number
-12/27/2025,COVID-19 cases by borough,Bronx,141,Number
-10/11/2025,COVID-19 cases by borough,Brooklyn,376,Number
-10/18/2025,COVID-19 cases by borough,Brooklyn,287,Number
-10/25/2025,COVID-19 cases by borough,Brooklyn,323,Number
-11/1/2025,COVID-19 cases by borough,Brooklyn,301,Number
-11/8/2025,COVID-19 cases by borough,Brooklyn,310,Number
-11/15/2025,COVID-19 cases by borough,Brooklyn,266,Number
-11/22/2025,COVID-19 cases by borough,Brooklyn,291,Number
-11/29/2025,COVID-19 cases by borough,Brooklyn,235,Number
-12/6/2025,COVID-19 cases by borough,Brooklyn,310,Number
-12/13/2025,COVID-19 cases by borough,Brooklyn,399,Number
-12/20/2025,COVID-19 cases by borough,Brooklyn,336,Number
-12/27/2025,COVID-19 cases by borough,Brooklyn,317,Number
-10/11/2025,COVID-19 cases by borough,Manhattan,264,Number
-10/18/2025,COVID-19 cases by borough,Manhattan,176,Number
-10/25/2025,COVID-19 cases by borough,Manhattan,143,Number
-11/1/2025,COVID-19 cases by borough,Manhattan,165,Number
-11/8/2025,COVID-19 cases by borough,Manhattan,150,Number
-11/15/2025,COVID-19 cases by borough,Manhattan,142,Number
-11/22/2025,COVID-19 cases by borough,Manhattan,149,Number
-11/29/2025,COVID-19 cases by borough,Manhattan,131,Number
-12/6/2025,COVID-19 cases by borough,Manhattan,162,Number
-12/13/2025,COVID-19 cases by borough,Manhattan,220,Number
-12/20/2025,COVID-19 cases by borough,Manhattan,222,Number
-12/27/2025,COVID-19 cases by borough,Manhattan,139,Number
-10/11/2025,COVID-19 cases by borough,Queens,376,Number
-10/18/2025,COVID-19 cases by borough,Queens,306,Number
-10/25/2025,COVID-19 cases by borough,Queens,232,Number
-11/1/2025,COVID-19 cases by borough,Queens,211,Number
-11/8/2025,COVID-19 cases by borough,Queens,205,Number
-11/15/2025,COVID-19 cases by borough,Queens,197,Number
-11/22/2025,COVID-19 cases by borough,Queens,200,Number
-11/29/2025,COVID-19 cases by borough,Queens,208,Number
-12/6/2025,COVID-19 cases by borough,Queens,264,Number
-12/13/2025,COVID-19 cases by borough,Queens,270,Number
-12/20/2025,COVID-19 cases by borough,Queens,303,Number
-12/27/2025,COVID-19 cases by borough,Queens,212,Number
-10/11/2025,COVID-19 cases by borough,Staten Island,93,Number
-10/18/2025,COVID-19 cases by borough,Staten Island,71,Number
-10/25/2025,COVID-19 cases by borough,Staten Island,57,Number
-11/1/2025,COVID-19 cases by borough,Staten Island,51,Number
-11/8/2025,COVID-19 cases by borough,Staten Island,49,Number
-11/15/2025,COVID-19 cases by borough,Staten Island,59,Number
-11/22/2025,COVID-19 cases by borough,Staten Island,59,Number
-11/29/2025,COVID-19 cases by borough,Staten Island,65,Number
-12/6/2025,COVID-19 cases by borough,Staten Island,93,Number
-12/13/2025,COVID-19 cases by borough,Staten Island,87,Number
-12/20/2025,COVID-19 cases by borough,Staten Island,92,Number
-12/27/2025,COVID-19 cases by borough,Staten Island,87,Number
-10/11/2025,COVID-19 cases by race and ethnicity,Asian/Pacific Islander,132,Number
-10/18/2025,COVID-19 cases by race and ethnicity,Asian/Pacific Islander,86,Number
-10/25/2025,COVID-19 cases by race and ethnicity,Asian/Pacific Islander,70,Number
-11/1/2025,COVID-19 cases by race and ethnicity,Asian/Pacific Islander,64,Number
-11/8/2025,COVID-19 cases by race and ethnicity,Asian/Pacific Islander,78,Number
-11/15/2025,COVID-19 cases by race and ethnicity,Asian/Pacific Islander,62,Number
-11/22/2025,COVID-19 cases by race and ethnicity,Asian/Pacific Islander,64,Number
-11/29/2025,COVID-19 cases by race and ethnicity,Asian/Pacific Islander,54,Number
-12/6/2025,COVID-19 cases by race and ethnicity,Asian/Pacific Islander,68,Number
-12/13/2025,COVID-19 cases by race and ethnicity,Asian/Pacific Islander,96,Number
-12/20/2025,COVID-19 cases by race and ethnicity,Asian/Pacific Islander,93,Number
-12/27/2025,COVID-19 cases by race and ethnicity,Asian/Pacific Islander,71,Number
-10/11/2025,COVID-19 cases by race and ethnicity,Black/African American,198,Number
-10/18/2025,COVID-19 cases by race and ethnicity,Black/African American,157,Number
-10/25/2025,COVID-19 cases by race and ethnicity,Black/African American,144,Number
-11/1/2025,COVID-19 cases by race and ethnicity,Black/African American,117,Number
-11/8/2025,COVID-19 cases by race and ethnicity,Black/African American,119,Number
-11/15/2025,COVID-19 cases by race and ethnicity,Black/African American,110,Number
-11/22/2025,COVID-19 cases by race and ethnicity,Black/African American,115,Number
-11/29/2025,COVID-19 cases by race and ethnicity,Black/African American,106,Number
-12/6/2025,COVID-19 cases by race and ethnicity,Black/African American,121,Number
-12/13/2025,COVID-19 cases by race and ethnicity,Black/African American,198,Number
-12/20/2025,COVID-19 cases by race and ethnicity,Black/African American,177,Number
-12/27/2025,COVID-19 cases by race and ethnicity,Black/African American,154,Number
-10/11/2025,COVID-19 cases by race and ethnicity,Hispanic/Latino,254,Number
-10/18/2025,COVID-19 cases by race and ethnicity,Hispanic/Latino,208,Number
-10/25/2025,COVID-19 cases by race and ethnicity,Hispanic/Latino,150,Number
-11/1/2025,COVID-19 cases by race and ethnicity,Hispanic/Latino,149,Number
-11/8/2025,COVID-19 cases by race and ethnicity,Hispanic/Latino,166,Number
-11/15/2025,COVID-19 cases by race and ethnicity,Hispanic/Latino,148,Number
-11/22/2025,COVID-19 cases by race and ethnicity,Hispanic/Latino,151,Number
-11/29/2025,COVID-19 cases by race and ethnicity,Hispanic/Latino,140,Number
-12/6/2025,COVID-19 cases by race and ethnicity,Hispanic/Latino,230,Number
-12/13/2025,COVID-19 cases by race and ethnicity,Hispanic/Latino,204,Number
-12/20/2025,COVID-19 cases by race and ethnicity,Hispanic/Latino,245,Number
-12/27/2025,COVID-19 cases by race and ethnicity,Hispanic/Latino,175,Number
-10/11/2025,COVID-19 cases by race and ethnicity,White,369,Number
-10/18/2025,COVID-19 cases by race and ethnicity,White,281,Number
-10/25/2025,COVID-19 cases by race and ethnicity,White,245,Number
-11/1/2025,COVID-19 cases by race and ethnicity,White,255,Number
-11/8/2025,COVID-19 cases by race and ethnicity,White,220,Number
-11/15/2025,COVID-19 cases by race and ethnicity,White,218,Number
-11/22/2025,COVID-19 cases by race and ethnicity,White,229,Number
-11/29/2025,COVID-19 cases by race and ethnicity,White,213,Number
-12/6/2025,COVID-19 cases by race and ethnicity,White,244,Number
-12/13/2025,COVID-19 cases by race and ethnicity,White,321,Number
-12/20/2025,COVID-19 cases by race and ethnicity,White,301,Number
-12/27/2025,COVID-19 cases by race and ethnicity,White,231,Number
-9/9/2023,Influenza cases,Total,215,Number
-9/16/2023,Influenza cases,Total,234,Number
-9/23/2023,Influenza cases,Total,330,Number
-9/30/2023,Influenza cases,Total,313,Number
-10/7/2023,Influenza cases,Total,464,Number
-10/14/2023,Influenza cases,Total,463,Number
-10/21/2023,Influenza cases,Total,554,Number
-10/28/2023,Influenza cases,Total,750,Number
-11/4/2023,Influenza cases,Total,823,Number
-11/11/2023,Influenza cases,Total,1326,Number
-11/18/2023,Influenza cases,Total,2067,Number
-11/25/2023,Influenza cases,Total,2543,Number
-12/2/2023,Influenza cases,Total,3918,Number
-12/9/2023,Influenza cases,Total,5811,Number
-12/16/2023,Influenza cases,Total,10547,Number
-12/23/2023,Influenza cases,Total,14438,Number
-12/30/2023,Influenza cases,Total,15063,Number
-1/6/2024,Influenza cases,Total,11134,Number
-1/13/2024,Influenza cases,Total,12272,Number
-1/20/2024,Influenza cases,Total,10404,Number
-1/27/2024,Influenza cases,Total,11241,Number
-2/3/2024,Influenza cases,Total,9932,Number
-2/10/2024,Influenza cases,Total,9435,Number
-2/17/2024,Influenza cases,Total,8383,Number
-2/24/2024,Influenza cases,Total,7426,Number
-3/2/2024,Influenza cases,Total,6805,Number
-3/9/2024,Influenza cases,Total,5735,Number
-3/16/2024,Influenza cases,Total,4351,Number
-3/23/2024,Influenza cases,Total,3861,Number
-3/30/2024,Influenza cases,Total,3813,Number
-4/6/2024,Influenza cases,Total,3338,Number
-4/13/2024,Influenza cases,Total,2676,Number
-4/20/2024,Influenza cases,Total,2149,Number
-4/27/2024,Influenza cases,Total,1516,Number
-5/4/2024,Influenza cases,Total,1432,Number
-5/11/2024,Influenza cases,Total,915,Number
-5/18/2024,Influenza cases,Total,762,Number
-5/25/2024,Influenza cases,Total,669,Number
-6/1/2024,Influenza cases,Total,405,Number
-6/8/2024,Influenza cases,Total,351,Number
-6/15/2024,Influenza cases,Total,319,Number
-6/22/2024,Influenza cases,Total,257,Number
-6/29/2024,Influenza cases,Total,339,Number
-7/6/2024,Influenza cases,Total,242,Number
-7/13/2024,Influenza cases,Total,274,Number
-7/20/2024,Influenza cases,Total,263,Number
-7/27/2024,Influenza cases,Total,268,Number
-8/3/2024,Influenza cases,Total,261,Number
-8/10/2024,Influenza cases,Total,217,Number
-8/17/2024,Influenza cases,Total,245,Number
-8/24/2024,Influenza cases,Total,254,Number
-8/31/2024,Influenza cases,Total,214,Number
-9/7/2024,Influenza cases,Total,278,Number
-9/14/2024,Influenza cases,Total,299,Number
-9/21/2024,Influenza cases,Total,302,Number
-9/28/2024,Influenza cases,Total,307,Number
-10/5/2024,Influenza cases,Total,267,Number
-10/12/2024,Influenza cases,Total,250,Number
-10/19/2024,Influenza cases,Total,294,Number
-10/26/2024,Influenza cases,Total,379,Number
-11/2/2024,Influenza cases,Total,455,Number
-11/9/2024,Influenza cases,Total,512,Number
-11/16/2024,Influenza cases,Total,623,Number
-11/23/2024,Influenza cases,Total,989,Number
-11/30/2024,Influenza cases,Total,1563,Number
-12/7/2024,Influenza cases,Total,2404,Number
-12/14/2024,Influenza cases,Total,4652,Number
-12/21/2024,Influenza cases,Total,8239,Number
-12/28/2024,Influenza cases,Total,11714,Number
-1/4/2025,Influenza cases,Total,13901,Number
-1/11/2025,Influenza cases,Total,15716,Number
-1/18/2025,Influenza cases,Total,22432,Number
-1/25/2025,Influenza cases,Total,23308,Number
-2/1/2025,Influenza cases,Total,22519,Number
-2/8/2025,Influenza cases,Total,19484,Number
-2/15/2025,Influenza cases,Total,15235,Number
-2/22/2025,Influenza cases,Total,10900,Number
-3/1/2025,Influenza cases,Total,8414,Number
-3/8/2025,Influenza cases,Total,7158,Number
-3/15/2025,Influenza cases,Total,6334,Number
-3/22/2025,Influenza cases,Total,5514,Number
-3/29/2025,Influenza cases,Total,4476,Number
-4/5/2025,Influenza cases,Total,3594,Number
-4/12/2025,Influenza cases,Total,2449,Number
-4/19/2025,Influenza cases,Total,1782,Number
-4/26/2025,Influenza cases,Total,1370,Number
-5/3/2025,Influenza cases,Total,986,Number
-5/10/2025,Influenza cases,Total,677,Number
-5/17/2025,Influenza cases,Total,517,Number
-5/24/2025,Influenza cases,Total,428,Number
-5/31/2025,Influenza cases,Total,348,Number
-6/7/2025,Influenza cases,Total,247,Number
-6/14/2025,Influenza cases,Total,234,Number
-6/21/2025,Influenza cases,Total,196,Number
-6/28/2025,Influenza cases,Total,182,Number
-7/5/2025,Influenza cases,Total,169,Number
-7/12/2025,Influenza cases,Total,150,Number
-7/19/2025,Influenza cases,Total,133,Number
-7/26/2025,Influenza cases,Total,154,Number
-8/2/2025,Influenza cases,Total,136,Number
-8/9/2025,Influenza cases,Total,137,Number
-8/16/2025,Influenza cases,Total,159,Number
-8/23/2025,Influenza cases,Total,175,Number
-8/30/2025,Influenza cases,Total,182,Number
-9/6/2025,Influenza cases,Total,217,Number
-9/13/2025,Influenza cases,Total,224,Number
-9/20/2025,Influenza cases,Total,245,Number
-9/27/2025,Influenza cases,Total,222,Number
-10/4/2025,Influenza cases,Total,254,Number
-10/11/2025,Influenza cases,Total,273,Number
-10/18/2025,Influenza cases,Total,348,Number
-10/25/2025,Influenza cases,Total,448,Number
-11/1/2025,Influenza cases,Total,744,Number
-11/8/2025,Influenza cases,Total,1705,Number
-11/15/2025,Influenza cases,Total,2474,Number
-11/22/2025,Influenza cases,Total,5379,Number
-11/29/2025,Influenza cases,Total,10637,Number
-12/6/2025,Influenza cases,Total,14223,Number
-12/13/2025,Influenza cases,Total,26073,Number
-12/20/2025,Influenza cases,Total,32649,Number
-12/27/2025,Influenza cases,Total,18422,Number
-10/11/2025,Influenza cases by subtype,Influenza A H1,11,Number
-10/18/2025,Influenza cases by subtype,Influenza A H1,7,Number
-10/25/2025,Influenza cases by subtype,Influenza A H1,20,Number
-11/1/2025,Influenza cases by subtype,Influenza A H1,18,Number
-11/8/2025,Influenza cases by subtype,Influenza A H1,27,Number
-11/15/2025,Influenza cases by subtype,Influenza A H1,32,Number
-11/22/2025,Influenza cases by subtype,Influenza A H1,41,Number
-11/29/2025,Influenza cases by subtype,Influenza A H1,46,Number
-12/6/2025,Influenza cases by subtype,Influenza A H1,60,Number
-12/13/2025,Influenza cases by subtype,Influenza A H1,92,Number
-12/20/2025,Influenza cases by subtype,Influenza A H1,139,Number
-12/27/2025,Influenza cases by subtype,Influenza A H1,109,Number
-10/11/2025,Influenza cases by subtype,Influenza A H3,16,Number
-10/18/2025,Influenza cases by subtype,Influenza A H3,35,Number
-10/25/2025,Influenza cases by subtype,Influenza A H3,65,Number
-11/1/2025,Influenza cases by subtype,Influenza A H3,128,Number
-11/8/2025,Influenza cases by subtype,Influenza A H3,317,Number
-11/15/2025,Influenza cases by subtype,Influenza A H3,476,Number
-11/22/2025,Influenza cases by subtype,Influenza A H3,1081,Number
-11/29/2025,Influenza cases by subtype,Influenza A H3,2085,Number
-12/6/2025,Influenza cases by subtype,Influenza A H3,3119,Number
-12/13/2025,Influenza cases by subtype,Influenza A H3,4470,Number
-12/20/2025,Influenza cases by subtype,Influenza A H3,5622,Number
-12/27/2025,Influenza cases by subtype,Influenza A H3,3701,Number
-10/11/2025,Influenza cases by subtype,Influenza A not subtyped,196,Number
-10/18/2025,Influenza cases by subtype,Influenza A not subtyped,256,Number
-10/25/2025,Influenza cases by subtype,Influenza A not subtyped,314,Number
-11/1/2025,Influenza cases by subtype,Influenza A not subtyped,547,Number
-11/8/2025,Influenza cases by subtype,Influenza A not subtyped,1274,Number
-11/15/2025,Influenza cases by subtype,Influenza A not subtyped,1887,Number
-11/22/2025,Influenza cases by subtype,Influenza A not subtyped,4128,Number
-11/29/2025,Influenza cases by subtype,Influenza A not subtyped,8326,Number
-12/6/2025,Influenza cases by subtype,Influenza A not subtyped,10771,Number
-12/13/2025,Influenza cases by subtype,Influenza A not subtyped,21119,Number
-12/20/2025,Influenza cases by subtype,Influenza A not subtyped,26479,Number
-12/27/2025,Influenza cases by subtype,Influenza A not subtyped,14267,Number
-10/11/2025,Influenza cases by subtype,Influenza B,41,Number
-10/18/2025,Influenza cases by subtype,Influenza B,41,Number
-10/25/2025,Influenza cases by subtype,Influenza B,36,Number
-11/1/2025,Influenza cases by subtype,Influenza B,41,Number
-11/8/2025,Influenza cases by subtype,Influenza B,66,Number
-11/15/2025,Influenza cases by subtype,Influenza B,58,Number
-11/22/2025,Influenza cases by subtype,Influenza B,74,Number
-11/29/2025,Influenza cases by subtype,Influenza B,88,Number
-12/6/2025,Influenza cases by subtype,Influenza B,160,Number
-12/13/2025,Influenza cases by subtype,Influenza B,192,Number
-12/20/2025,Influenza cases by subtype,Influenza B,213,Number
-12/27/2025,Influenza cases by subtype,Influenza B,187,Number
-10/11/2025,Influenza cases by age group,0-4,38,Number
-10/18/2025,Influenza cases by age group,0-4,54,Number
-10/25/2025,Influenza cases by age group,0-4,72,Number
-11/1/2025,Influenza cases by age group,0-4,124,Number
-11/8/2025,Influenza cases by age group,0-4,269,Number
-11/15/2025,Influenza cases by age group,0-4,426,Number
-11/22/2025,Influenza cases by age group,0-4,864,Number
-11/29/2025,Influenza cases by age group,0-4,1825,Number
-12/6/2025,Influenza cases by age group,0-4,2654,Number
-12/13/2025,Influenza cases by age group,0-4,4206,Number
-12/20/2025,Influenza cases by age group,0-4,5267,Number
-12/27/2025,Influenza cases by age group,0-4,3735,Number
-10/11/2025,Influenza cases by age group,17-May,56,Number
-10/18/2025,Influenza cases by age group,17-May,94,Number
-10/25/2025,Influenza cases by age group,17-May,127,Number
-11/1/2025,Influenza cases by age group,17-May,280,Number
-11/8/2025,Influenza cases by age group,17-May,710,Number
-11/15/2025,Influenza cases by age group,17-May,1094,Number
-11/22/2025,Influenza cases by age group,17-May,2600,Number
-11/29/2025,Influenza cases by age group,17-May,5119,Number
-12/6/2025,Influenza cases by age group,17-May,5653,Number
-12/13/2025,Influenza cases by age group,17-May,11657,Number
-12/20/2025,Influenza cases by age group,17-May,13217,Number
-12/27/2025,Influenza cases by age group,17-May,4745,Number
-10/11/2025,Influenza cases by age group,18-64,146,Number
-10/18/2025,Influenza cases by age group,18-64,158,Number
-10/25/2025,Influenza cases by age group,18-64,191,Number
-11/1/2025,Influenza cases by age group,18-64,286,Number
-11/8/2025,Influenza cases by age group,18-64,617,Number
-11/15/2025,Influenza cases by age group,18-64,806,Number
-11/22/2025,Influenza cases by age group,18-64,1633,Number
-11/29/2025,Influenza cases by age group,18-64,3105,Number
-12/6/2025,Influenza cases by age group,18-64,4919,Number
-12/13/2025,Influenza cases by age group,18-64,8510,Number
-12/20/2025,Influenza cases by age group,18-64,11532,Number
-12/27/2025,Influenza cases by age group,18-64,7416,Number
-10/11/2025,Influenza cases by age group,65+,33,Number
-10/18/2025,Influenza cases by age group,65+,42,Number
-10/25/2025,Influenza cases by age group,65+,58,Number
-11/1/2025,Influenza cases by age group,65+,54,Number
-11/8/2025,Influenza cases by age group,65+,109,Number
-11/15/2025,Influenza cases by age group,65+,148,Number
-11/22/2025,Influenza cases by age group,65+,282,Number
-11/29/2025,Influenza cases by age group,65+,585,Number
-12/6/2025,Influenza cases by age group,65+,993,Number
-12/13/2025,Influenza cases by age group,65+,1700,Number
-12/20/2025,Influenza cases by age group,65+,2631,Number
-12/27/2025,Influenza cases by age group,65+,2523,Number
-10/11/2025,Influenza cases by borough,Bronx,54,Number
-10/18/2025,Influenza cases by borough,Bronx,48,Number
-10/25/2025,Influenza cases by borough,Bronx,66,Number
-11/1/2025,Influenza cases by borough,Bronx,110,Number
-11/8/2025,Influenza cases by borough,Bronx,230,Number
-11/15/2025,Influenza cases by borough,Bronx,346,Number
-11/22/2025,Influenza cases by borough,Bronx,979,Number
-11/29/2025,Influenza cases by borough,Bronx,2022,Number
-12/6/2025,Influenza cases by borough,Bronx,2949,Number
-12/13/2025,Influenza cases by borough,Bronx,6186,Number
-12/20/2025,Influenza cases by borough,Bronx,7792,Number
-12/27/2025,Influenza cases by borough,Bronx,3911,Number
-10/11/2025,Influenza cases by borough,Brooklyn,83,Number
-10/18/2025,Influenza cases by borough,Brooklyn,113,Number
-10/25/2025,Influenza cases by borough,Brooklyn,137,Number
-11/1/2025,Influenza cases by borough,Brooklyn,264,Number
-11/8/2025,Influenza cases by borough,Brooklyn,534,Number
-11/15/2025,Influenza cases by borough,Brooklyn,839,Number
-11/22/2025,Influenza cases by borough,Brooklyn,1743,Number
-11/29/2025,Influenza cases by borough,Brooklyn,3370,Number
-12/6/2025,Influenza cases by borough,Brooklyn,4642,Number
-12/13/2025,Influenza cases by borough,Brooklyn,7708,Number
-12/20/2025,Influenza cases by borough,Brooklyn,8727,Number
-12/27/2025,Influenza cases by borough,Brooklyn,5372,Number
-10/11/2025,Influenza cases by borough,Manhattan,59,Number
-10/18/2025,Influenza cases by borough,Manhattan,58,Number
-10/25/2025,Influenza cases by borough,Manhattan,75,Number
-11/1/2025,Influenza cases by borough,Manhattan,130,Number
-11/8/2025,Influenza cases by borough,Manhattan,270,Number
-11/15/2025,Influenza cases by borough,Manhattan,355,Number
-11/22/2025,Influenza cases by borough,Manhattan,630,Number
-11/29/2025,Influenza cases by borough,Manhattan,1158,Number
-12/6/2025,Influenza cases by borough,Manhattan,1474,Number
-12/13/2025,Influenza cases by borough,Manhattan,3276,Number
-12/20/2025,Influenza cases by borough,Manhattan,4585,Number
-12/27/2025,Influenza cases by borough,Manhattan,2395,Number
-10/11/2025,Influenza cases by borough,Queens,59,Number
-10/18/2025,Influenza cases by borough,Queens,111,Number
-10/25/2025,Influenza cases by borough,Queens,148,Number
-11/1/2025,Influenza cases by borough,Queens,212,Number
-11/8/2025,Influenza cases by borough,Queens,598,Number
-11/15/2025,Influenza cases by borough,Queens,818,Number
-11/22/2025,Influenza cases by borough,Queens,1726,Number
-11/29/2025,Influenza cases by borough,Queens,3396,Number
-12/6/2025,Influenza cases by borough,Queens,4222,Number
-12/13/2025,Influenza cases by borough,Queens,7190,Number
-12/20/2025,Influenza cases by borough,Queens,9115,Number
-12/27/2025,Influenza cases by borough,Queens,5459,Number
-10/11/2025,Influenza cases by borough,Staten Island,18,Number
-10/18/2025,Influenza cases by borough,Staten Island,18,Number
-10/25/2025,Influenza cases by borough,Staten Island,22,Number
-11/1/2025,Influenza cases by borough,Staten Island,28,Number
-11/8/2025,Influenza cases by borough,Staten Island,73,Number
-11/15/2025,Influenza cases by borough,Staten Island,116,Number
-11/22/2025,Influenza cases by borough,Staten Island,301,Number
-11/29/2025,Influenza cases by borough,Staten Island,691,Number
-12/6/2025,Influenza cases by borough,Staten Island,936,Number
-12/13/2025,Influenza cases by borough,Staten Island,1713,Number
-12/20/2025,Influenza cases by borough,Staten Island,2430,Number
-12/27/2025,Influenza cases by borough,Staten Island,1285,Number
-9/9/2023,RSV cases,Total,136,Number
-9/16/2023,RSV cases,Total,167,Number
-9/23/2023,RSV cases,Total,340,Number
-9/30/2023,RSV cases,Total,421,Number
-10/7/2023,RSV cases,Total,644,Number
-10/14/2023,RSV cases,Total,894,Number
-10/21/2023,RSV cases,Total,1379,Number
-10/28/2023,RSV cases,Total,2259,Number
-11/4/2023,RSV cases,Total,2733,Number
-11/11/2023,RSV cases,Total,3673,Number
-11/18/2023,RSV cases,Total,4415,Number
-11/25/2023,RSV cases,Total,4073,Number
-12/2/2023,RSV cases,Total,4902,Number
-12/9/2023,RSV cases,Total,4483,Number
-12/16/2023,RSV cases,Total,3975,Number
-12/23/2023,RSV cases,Total,3662,Number
-12/30/2023,RSV cases,Total,3012,Number
-1/6/2024,RSV cases,Total,2567,Number
-1/13/2024,RSV cases,Total,2079,Number
-1/20/2024,RSV cases,Total,1421,Number
-1/27/2024,RSV cases,Total,1209,Number
-2/3/2024,RSV cases,Total,1021,Number
-2/10/2024,RSV cases,Total,905,Number
-2/17/2024,RSV cases,Total,667,Number
-2/24/2024,RSV cases,Total,557,Number
-3/2/2024,RSV cases,Total,582,Number
-3/9/2024,RSV cases,Total,423,Number
-3/16/2024,RSV cases,Total,324,Number
-3/23/2024,RSV cases,Total,319,Number
-3/30/2024,RSV cases,Total,271,Number
-4/6/2024,RSV cases,Total,233,Number
-4/13/2024,RSV cases,Total,172,Number
-4/20/2024,RSV cases,Total,193,Number
-4/27/2024,RSV cases,Total,115,Number
-5/4/2024,RSV cases,Total,113,Number
-5/11/2024,RSV cases,Total,90,Number
-5/18/2024,RSV cases,Total,106,Number
-5/25/2024,RSV cases,Total,103,Number
-6/1/2024,RSV cases,Total,92,Number
-6/8/2024,RSV cases,Total,95,Number
-6/15/2024,RSV cases,Total,97,Number
-6/22/2024,RSV cases,Total,90,Number
-6/29/2024,RSV cases,Total,89,Number
-7/6/2024,RSV cases,Total,110,Number
-7/13/2024,RSV cases,Total,106,Number
-7/20/2024,RSV cases,Total,116,Number
-7/27/2024,RSV cases,Total,110,Number
-8/3/2024,RSV cases,Total,103,Number
-8/10/2024,RSV cases,Total,111,Number
-8/17/2024,RSV cases,Total,104,Number
-8/24/2024,RSV cases,Total,142,Number
-8/31/2024,RSV cases,Total,186,Number
-9/7/2024,RSV cases,Total,165,Number
-9/14/2024,RSV cases,Total,174,Number
-9/21/2024,RSV cases,Total,244,Number
-9/28/2024,RSV cases,Total,320,Number
-10/5/2024,RSV cases,Total,347,Number
-10/12/2024,RSV cases,Total,517,Number
-10/19/2024,RSV cases,Total,588,Number
-10/26/2024,RSV cases,Total,748,Number
-11/2/2024,RSV cases,Total,1013,Number
-11/9/2024,RSV cases,Total,1559,Number
-11/16/2024,RSV cases,Total,2102,Number
-11/23/2024,RSV cases,Total,2825,Number
-11/30/2024,RSV cases,Total,3454,Number
-12/7/2024,RSV cases,Total,4510,Number
-12/14/2024,RSV cases,Total,4782,Number
-12/21/2024,RSV cases,Total,4699,Number
-12/28/2024,RSV cases,Total,3513,Number
-1/4/2025,RSV cases,Total,3199,Number
-1/11/2025,RSV cases,Total,2566,Number
-1/18/2025,RSV cases,Total,2145,Number
-1/25/2025,RSV cases,Total,1631,Number
-2/1/2025,RSV cases,Total,1375,Number
-2/8/2025,RSV cases,Total,1328,Number
-2/15/2025,RSV cases,Total,1038,Number
-2/22/2025,RSV cases,Total,873,Number
-3/1/2025,RSV cases,Total,732,Number
-3/8/2025,RSV cases,Total,642,Number
-3/15/2025,RSV cases,Total,548,Number
-3/22/2025,RSV cases,Total,468,Number
-3/29/2025,RSV cases,Total,412,Number
-4/5/2025,RSV cases,Total,338,Number
-4/12/2025,RSV cases,Total,243,Number
-4/19/2025,RSV cases,Total,190,Number
-4/26/2025,RSV cases,Total,157,Number
-5/3/2025,RSV cases,Total,125,Number
-5/10/2025,RSV cases,Total,103,Number
-5/17/2025,RSV cases,Total,107,Number
-5/24/2025,RSV cases,Total,75,Number
-5/31/2025,RSV cases,Total,87,Number
-6/7/2025,RSV cases,Total,64,Number
-6/14/2025,RSV cases,Total,71,Number
-6/21/2025,RSV cases,Total,80,Number
-6/28/2025,RSV cases,Total,68,Number
-7/5/2025,RSV cases,Total,83,Number
-7/12/2025,RSV cases,Total,72,Number
-7/19/2025,RSV cases,Total,75,Number
-7/26/2025,RSV cases,Total,84,Number
-8/2/2025,RSV cases,Total,111,Number
-8/9/2025,RSV cases,Total,115,Number
-8/16/2025,RSV cases,Total,100,Number
-8/23/2025,RSV cases,Total,104,Number
-8/30/2025,RSV cases,Total,124,Number
-9/6/2025,RSV cases,Total,122,Number
-9/13/2025,RSV cases,Total,142,Number
-9/20/2025,RSV cases,Total,203,Number
-9/27/2025,RSV cases,Total,219,Number
-10/4/2025,RSV cases,Total,271,Number
-10/11/2025,RSV cases,Total,237,Number
-10/18/2025,RSV cases,Total,241,Number
-10/25/2025,RSV cases,Total,321,Number
-11/1/2025,RSV cases,Total,379,Number
-11/8/2025,RSV cases,Total,591,Number
-11/15/2025,RSV cases,Total,696,Number
-11/22/2025,RSV cases,Total,1095,Number
-11/29/2025,RSV cases,Total,1284,Number
-12/6/2025,RSV cases,Total,1768,Number
-12/13/2025,RSV cases,Total,2050,Number
-12/20/2025,RSV cases,Total,2573,Number
-12/27/2025,RSV cases,Total,2243,Number
-10/11/2025,RSV cases by age group,0-4,158,Number
-10/18/2025,RSV cases by age group,0-4,153,Number
-10/25/2025,RSV cases by age group,0-4,211,Number
-11/1/2025,RSV cases by age group,0-4,267,Number
-11/8/2025,RSV cases by age group,0-4,404,Number
-11/15/2025,RSV cases by age group,0-4,491,Number
-11/22/2025,RSV cases by age group,0-4,730,Number
-11/29/2025,RSV cases by age group,0-4,869,Number
-12/6/2025,RSV cases by age group,0-4,1076,Number
-12/13/2025,RSV cases by age group,0-4,1165,Number
-12/20/2025,RSV cases by age group,0-4,1384,Number
-12/27/2025,RSV cases by age group,0-4,1174,Number
-10/11/2025,RSV cases by age group,17-May,16,Number
-10/18/2025,RSV cases by age group,17-May,23,Number
-10/25/2025,RSV cases by age group,17-May,24,Number
-11/1/2025,RSV cases by age group,17-May,33,Number
-11/8/2025,RSV cases by age group,17-May,69,Number
-11/15/2025,RSV cases by age group,17-May,54,Number
-11/22/2025,RSV cases by age group,17-May,145,Number
-11/29/2025,RSV cases by age group,17-May,150,Number
-12/6/2025,RSV cases by age group,17-May,250,Number
-12/13/2025,RSV cases by age group,17-May,330,Number
-12/20/2025,RSV cases by age group,17-May,452,Number
-12/27/2025,RSV cases by age group,17-May,304,Number
-10/11/2025,RSV cases by age group,18-64,48,Number
-10/18/2025,RSV cases by age group,18-64,41,Number
-10/25/2025,RSV cases by age group,18-64,59,Number
-11/1/2025,RSV cases by age group,18-64,48,Number
-11/8/2025,RSV cases by age group,18-64,81,Number
-11/15/2025,RSV cases by age group,18-64,116,Number
-11/22/2025,RSV cases by age group,18-64,165,Number
-11/29/2025,RSV cases by age group,18-64,188,Number
-12/6/2025,RSV cases by age group,18-64,318,Number
-12/13/2025,RSV cases by age group,18-64,381,Number
-12/20/2025,RSV cases by age group,18-64,519,Number
-12/27/2025,RSV cases by age group,18-64,527,Number
-10/11/2025,RSV cases by age group,65+,15,Number
-10/18/2025,RSV cases by age group,65+,24,Number
-10/25/2025,RSV cases by age group,65+,27,Number
-11/1/2025,RSV cases by age group,65+,31,Number
-11/8/2025,RSV cases by age group,65+,37,Number
-11/15/2025,RSV cases by age group,65+,34,Number
-11/22/2025,RSV cases by age group,65+,54,Number
-11/29/2025,RSV cases by age group,65+,77,Number
-12/6/2025,RSV cases by age group,65+,123,Number
-12/13/2025,RSV cases by age group,65+,173,Number
-12/20/2025,RSV cases by age group,65+,218,Number
-12/27/2025,RSV cases by age group,65+,238,Number
-10/11/2025,RSV cases by borough,Bronx,54,Number
-10/18/2025,RSV cases by borough,Bronx,48,Number
-10/25/2025,RSV cases by borough,Bronx,66,Number
-11/1/2025,RSV cases by borough,Bronx,110,Number
-11/8/2025,RSV cases by borough,Bronx,230,Number
-11/15/2025,RSV cases by borough,Bronx,346,Number
-11/22/2025,RSV cases by borough,Bronx,979,Number
-11/29/2025,RSV cases by borough,Bronx,2022,Number
-12/6/2025,RSV cases by borough,Bronx,2949,Number
-12/13/2025,RSV cases by borough,Bronx,6186,Number
-12/20/2025,RSV cases by borough,Bronx,7792,Number
-12/27/2025,RSV cases by borough,Bronx,3911,Number
-10/11/2025,RSV cases by borough,Brooklyn,83,Number
-10/18/2025,RSV cases by borough,Brooklyn,113,Number
-10/25/2025,RSV cases by borough,Brooklyn,137,Number
-11/1/2025,RSV cases by borough,Brooklyn,264,Number
-11/8/2025,RSV cases by borough,Brooklyn,534,Number
-11/15/2025,RSV cases by borough,Brooklyn,839,Number
-11/22/2025,RSV cases by borough,Brooklyn,1743,Number
-11/29/2025,RSV cases by borough,Brooklyn,3370,Number
-12/6/2025,RSV cases by borough,Brooklyn,4642,Number
-12/13/2025,RSV cases by borough,Brooklyn,7708,Number
-12/20/2025,RSV cases by borough,Brooklyn,8727,Number
-12/27/2025,RSV cases by borough,Brooklyn,5372,Number
-10/11/2025,RSV cases by borough,Manhattan,59,Number
-10/18/2025,RSV cases by borough,Manhattan,58,Number
-10/25/2025,RSV cases by borough,Manhattan,75,Number
-11/1/2025,RSV cases by borough,Manhattan,130,Number
-11/8/2025,RSV cases by borough,Manhattan,270,Number
-11/15/2025,RSV cases by borough,Manhattan,355,Number
-11/22/2025,RSV cases by borough,Manhattan,630,Number
-11/29/2025,RSV cases by borough,Manhattan,1158,Number
-12/6/2025,RSV cases by borough,Manhattan,1474,Number
-12/13/2025,RSV cases by borough,Manhattan,3276,Number
-12/20/2025,RSV cases by borough,Manhattan,4585,Number
-12/27/2025,RSV cases by borough,Manhattan,2395,Number
-10/11/2025,RSV cases by borough,Queens,59,Number
-10/18/2025,RSV cases by borough,Queens,111,Number
-10/25/2025,RSV cases by borough,Queens,148,Number
-11/1/2025,RSV cases by borough,Queens,212,Number
-11/8/2025,RSV cases by borough,Queens,598,Number
-11/15/2025,RSV cases by borough,Queens,818,Number
-11/22/2025,RSV cases by borough,Queens,1726,Number
-11/29/2025,RSV cases by borough,Queens,3396,Number
-12/6/2025,RSV cases by borough,Queens,4222,Number
-12/13/2025,RSV cases by borough,Queens,7190,Number
-12/20/2025,RSV cases by borough,Queens,9115,Number
-12/27/2025,RSV cases by borough,Queens,5459,Number
-10/11/2025,RSV cases by borough,Staten Island,18,Number
-10/18/2025,RSV cases by borough,Staten Island,18,Number
-10/25/2025,RSV cases by borough,Staten Island,22,Number
-11/1/2025,RSV cases by borough,Staten Island,28,Number
-11/8/2025,RSV cases by borough,Staten Island,73,Number
-11/15/2025,RSV cases by borough,Staten Island,116,Number
-11/22/2025,RSV cases by borough,Staten Island,301,Number
-11/29/2025,RSV cases by borough,Staten Island,691,Number
-12/6/2025,RSV cases by borough,Staten Island,936,Number
-12/13/2025,RSV cases by borough,Staten Island,1713,Number
-12/20/2025,RSV cases by borough,Staten Island,2430,Number
-12/27/2025,RSV cases by borough,Staten Island,1285,Number
+"date","metric","submetric","value","display"
+"09/09/2023","COVID-19 cases","Total","9464","Number"
+"09/16/2023","COVID-19 cases","Total","9603","Number"
+"09/23/2023","COVID-19 cases","Total","10415","Number"
+"09/30/2023","COVID-19 cases","Total","8603","Number"
+"10/07/2023","COVID-19 cases","Total","7010","Number"
+"10/14/2023","COVID-19 cases","Total","5136","Number"
+"10/21/2023","COVID-19 cases","Total","4649","Number"
+"10/28/2023","COVID-19 cases","Total","4123","Number"
+"11/04/2023","COVID-19 cases","Total","3351","Number"
+"11/11/2023","COVID-19 cases","Total","3789","Number"
+"11/18/2023","COVID-19 cases","Total","4406","Number"
+"11/25/2023","COVID-19 cases","Total","4825","Number"
+"12/02/2023","COVID-19 cases","Total","6508","Number"
+"12/09/2023","COVID-19 cases","Total","7330","Number"
+"12/16/2023","COVID-19 cases","Total","10327","Number"
+"12/23/2023","COVID-19 cases","Total","14023","Number"
+"12/30/2023","COVID-19 cases","Total","16496","Number"
+"01/06/2024","COVID-19 cases","Total","17057","Number"
+"01/13/2024","COVID-19 cases","Total","15257","Number"
+"01/20/2024","COVID-19 cases","Total","10726","Number"
+"01/27/2024","COVID-19 cases","Total","9700","Number"
+"02/03/2024","COVID-19 cases","Total","7538","Number"
+"02/10/2024","COVID-19 cases","Total","6104","Number"
+"02/17/2024","COVID-19 cases","Total","4576","Number"
+"02/24/2024","COVID-19 cases","Total","3453","Number"
+"03/02/2024","COVID-19 cases","Total","2951","Number"
+"03/09/2024","COVID-19 cases","Total","2204","Number"
+"03/16/2024","COVID-19 cases","Total","1796","Number"
+"03/23/2024","COVID-19 cases","Total","1752","Number"
+"03/30/2024","COVID-19 cases","Total","1539","Number"
+"04/06/2024","COVID-19 cases","Total","1432","Number"
+"04/13/2024","COVID-19 cases","Total","1413","Number"
+"04/20/2024","COVID-19 cases","Total","1406","Number"
+"04/27/2024","COVID-19 cases","Total","1350","Number"
+"05/04/2024","COVID-19 cases","Total","1576","Number"
+"05/11/2024","COVID-19 cases","Total","1765","Number"
+"05/18/2024","COVID-19 cases","Total","2486","Number"
+"05/25/2024","COVID-19 cases","Total","2736","Number"
+"06/01/2024","COVID-19 cases","Total","2939","Number"
+"06/08/2024","COVID-19 cases","Total","3631","Number"
+"06/15/2024","COVID-19 cases","Total","4186","Number"
+"06/22/2024","COVID-19 cases","Total","4869","Number"
+"06/29/2024","COVID-19 cases","Total","5328","Number"
+"07/06/2024","COVID-19 cases","Total","5603","Number"
+"07/13/2024","COVID-19 cases","Total","6488","Number"
+"07/20/2024","COVID-19 cases","Total","7046","Number"
+"07/27/2024","COVID-19 cases","Total","7551","Number"
+"08/03/2024","COVID-19 cases","Total","6860","Number"
+"08/10/2024","COVID-19 cases","Total","5419","Number"
+"08/17/2024","COVID-19 cases","Total","5465","Number"
+"08/24/2024","COVID-19 cases","Total","4693","Number"
+"08/31/2024","COVID-19 cases","Total","4169","Number"
+"09/07/2024","COVID-19 cases","Total","3581","Number"
+"09/14/2024","COVID-19 cases","Total","3767","Number"
+"09/21/2024","COVID-19 cases","Total","3424","Number"
+"09/28/2024","COVID-19 cases","Total","2674","Number"
+"10/05/2024","COVID-19 cases","Total","1770","Number"
+"10/12/2024","COVID-19 cases","Total","1420","Number"
+"10/19/2024","COVID-19 cases","Total","1204","Number"
+"10/26/2024","COVID-19 cases","Total","1217","Number"
+"11/02/2024","COVID-19 cases","Total","1241","Number"
+"11/09/2024","COVID-19 cases","Total","940","Number"
+"11/16/2024","COVID-19 cases","Total","915","Number"
+"11/23/2024","COVID-19 cases","Total","1015","Number"
+"11/30/2024","COVID-19 cases","Total","1011","Number"
+"12/07/2024","COVID-19 cases","Total","1464","Number"
+"12/14/2024","COVID-19 cases","Total","1589","Number"
+"12/21/2024","COVID-19 cases","Total","2009","Number"
+"12/28/2024","COVID-19 cases","Total","1906","Number"
+"01/04/2025","COVID-19 cases","Total","2558","Number"
+"01/11/2025","COVID-19 cases","Total","2619","Number"
+"01/18/2025","COVID-19 cases","Total","2880","Number"
+"01/25/2025","COVID-19 cases","Total","2907","Number"
+"02/01/2025","COVID-19 cases","Total","3316","Number"
+"02/08/2025","COVID-19 cases","Total","3543","Number"
+"02/15/2025","COVID-19 cases","Total","3355","Number"
+"02/22/2025","COVID-19 cases","Total","2946","Number"
+"03/01/2025","COVID-19 cases","Total","3222","Number"
+"03/08/2025","COVID-19 cases","Total","3375","Number"
+"03/15/2025","COVID-19 cases","Total","4015","Number"
+"03/22/2025","COVID-19 cases","Total","4202","Number"
+"03/29/2025","COVID-19 cases","Total","4098","Number"
+"04/05/2025","COVID-19 cases","Total","3707","Number"
+"04/12/2025","COVID-19 cases","Total","3310","Number"
+"04/19/2025","COVID-19 cases","Total","2773","Number"
+"04/26/2025","COVID-19 cases","Total","2463","Number"
+"05/03/2025","COVID-19 cases","Total","1958","Number"
+"05/10/2025","COVID-19 cases","Total","1688","Number"
+"05/17/2025","COVID-19 cases","Total","1656","Number"
+"05/24/2025","COVID-19 cases","Total","1562","Number"
+"05/31/2025","COVID-19 cases","Total","1744","Number"
+"06/07/2025","COVID-19 cases","Total","1782","Number"
+"06/14/2025","COVID-19 cases","Total","1631","Number"
+"06/21/2025","COVID-19 cases","Total","1575","Number"
+"06/28/2025","COVID-19 cases","Total","1410","Number"
+"07/05/2025","COVID-19 cases","Total","1294","Number"
+"07/12/2025","COVID-19 cases","Total","1539","Number"
+"07/19/2025","COVID-19 cases","Total","1552","Number"
+"07/26/2025","COVID-19 cases","Total","1844","Number"
+"08/02/2025","COVID-19 cases","Total","2032","Number"
+"08/09/2025","COVID-19 cases","Total","2370","Number"
+"08/16/2025","COVID-19 cases","Total","2649","Number"
+"08/23/2025","COVID-19 cases","Total","2360","Number"
+"08/30/2025","COVID-19 cases","Total","2552","Number"
+"09/06/2025","COVID-19 cases","Total","2697","Number"
+"09/13/2025","COVID-19 cases","Total","2892","Number"
+"09/20/2025","COVID-19 cases","Total","2935","Number"
+"09/27/2025","COVID-19 cases","Total","2334","Number"
+"10/04/2025","COVID-19 cases","Total","1767","Number"
+"10/11/2025","COVID-19 cases","Total","1322","Number"
+"10/18/2025","COVID-19 cases","Total","997","Number"
+"10/25/2025","COVID-19 cases","Total","908","Number"
+"11/01/2025","COVID-19 cases","Total","869","Number"
+"11/08/2025","COVID-19 cases","Total","841","Number"
+"11/15/2025","COVID-19 cases","Total","783","Number"
+"11/22/2025","COVID-19 cases","Total","830","Number"
+"11/29/2025","COVID-19 cases","Total","752","Number"
+"12/06/2025","COVID-19 cases","Total","991","Number"
+"12/13/2025","COVID-19 cases","Total","1156","Number"
+"12/20/2025","COVID-19 cases","Total","1155","Number"
+"12/27/2025","COVID-19 cases","Total","1006","Number"
+"01/03/2026","COVID-19 cases","Total","1108","Number"
+"10/18/2025","COVID-19 cases by test type","Confirmed","621","Number"
+"10/25/2025","COVID-19 cases by test type","Confirmed","584","Number"
+"11/01/2025","COVID-19 cases by test type","Confirmed","600","Number"
+"11/08/2025","COVID-19 cases by test type","Confirmed","558","Number"
+"11/15/2025","COVID-19 cases by test type","Confirmed","505","Number"
+"11/22/2025","COVID-19 cases by test type","Confirmed","566","Number"
+"11/29/2025","COVID-19 cases by test type","Confirmed","481","Number"
+"12/06/2025","COVID-19 cases by test type","Confirmed","647","Number"
+"12/13/2025","COVID-19 cases by test type","Confirmed","737","Number"
+"12/20/2025","COVID-19 cases by test type","Confirmed","813","Number"
+"12/27/2025","COVID-19 cases by test type","Confirmed","718","Number"
+"01/03/2026","COVID-19 cases by test type","Confirmed","709","Number"
+"10/18/2025","COVID-19 cases by test type","Probable","376","Number"
+"10/25/2025","COVID-19 cases by test type","Probable","324","Number"
+"11/01/2025","COVID-19 cases by test type","Probable","269","Number"
+"11/08/2025","COVID-19 cases by test type","Probable","283","Number"
+"11/15/2025","COVID-19 cases by test type","Probable","278","Number"
+"11/22/2025","COVID-19 cases by test type","Probable","264","Number"
+"11/29/2025","COVID-19 cases by test type","Probable","271","Number"
+"12/06/2025","COVID-19 cases by test type","Probable","344","Number"
+"12/13/2025","COVID-19 cases by test type","Probable","419","Number"
+"12/20/2025","COVID-19 cases by test type","Probable","342","Number"
+"12/27/2025","COVID-19 cases by test type","Probable","288","Number"
+"01/03/2026","COVID-19 cases by test type","Probable","399","Number"
+"10/18/2025","COVID-19 cases by age group","0-4","81","Number"
+"10/25/2025","COVID-19 cases by age group","0-4","99","Number"
+"11/01/2025","COVID-19 cases by age group","0-4","125","Number"
+"11/08/2025","COVID-19 cases by age group","0-4","106","Number"
+"11/15/2025","COVID-19 cases by age group","0-4","89","Number"
+"11/22/2025","COVID-19 cases by age group","0-4","119","Number"
+"11/29/2025","COVID-19 cases by age group","0-4","88","Number"
+"12/06/2025","COVID-19 cases by age group","0-4","120","Number"
+"12/13/2025","COVID-19 cases by age group","0-4","119","Number"
+"12/20/2025","COVID-19 cases by age group","0-4","140","Number"
+"12/27/2025","COVID-19 cases by age group","0-4","120","Number"
+"01/03/2026","COVID-19 cases by age group","0-4","128","Number"
+"10/18/2025","COVID-19 cases by age group","5-17","66","Number"
+"10/25/2025","COVID-19 cases by age group","5-17","77","Number"
+"11/01/2025","COVID-19 cases by age group","5-17","80","Number"
+"11/08/2025","COVID-19 cases by age group","5-17","85","Number"
+"11/15/2025","COVID-19 cases by age group","5-17","91","Number"
+"11/22/2025","COVID-19 cases by age group","5-17","117","Number"
+"11/29/2025","COVID-19 cases by age group","5-17","104","Number"
+"12/06/2025","COVID-19 cases by age group","5-17","142","Number"
+"12/13/2025","COVID-19 cases by age group","5-17","199","Number"
+"12/20/2025","COVID-19 cases by age group","5-17","188","Number"
+"12/27/2025","COVID-19 cases by age group","5-17","116","Number"
+"01/03/2026","COVID-19 cases by age group","5-17","77","Number"
+"10/18/2025","COVID-19 cases by age group","18-64","557","Number"
+"10/25/2025","COVID-19 cases by age group","18-64","493","Number"
+"11/01/2025","COVID-19 cases by age group","18-64","413","Number"
+"11/08/2025","COVID-19 cases by age group","18-64","439","Number"
+"11/15/2025","COVID-19 cases by age group","18-64","404","Number"
+"11/22/2025","COVID-19 cases by age group","18-64","400","Number"
+"11/29/2025","COVID-19 cases by age group","18-64","377","Number"
+"12/06/2025","COVID-19 cases by age group","18-64","498","Number"
+"12/13/2025","COVID-19 cases by age group","18-64","565","Number"
+"12/20/2025","COVID-19 cases by age group","18-64","562","Number"
+"12/27/2025","COVID-19 cases by age group","18-64","486","Number"
+"01/03/2026","COVID-19 cases by age group","18-64","587","Number"
+"10/18/2025","COVID-19 cases by age group","65+","293","Number"
+"10/25/2025","COVID-19 cases by age group","65+","239","Number"
+"11/01/2025","COVID-19 cases by age group","65+","251","Number"
+"11/08/2025","COVID-19 cases by age group","65+","211","Number"
+"11/15/2025","COVID-19 cases by age group","65+","196","Number"
+"11/22/2025","COVID-19 cases by age group","65+","194","Number"
+"11/29/2025","COVID-19 cases by age group","65+","183","Number"
+"12/06/2025","COVID-19 cases by age group","65+","230","Number"
+"12/13/2025","COVID-19 cases by age group","65+","271","Number"
+"12/20/2025","COVID-19 cases by age group","65+","264","Number"
+"12/27/2025","COVID-19 cases by age group","65+","284","Number"
+"01/03/2026","COVID-19 cases by age group","65+","316","Number"
+"10/18/2025","COVID-19 cases by borough","Bronx","157","Number"
+"10/25/2025","COVID-19 cases by borough","Bronx","153","Number"
+"11/01/2025","COVID-19 cases by borough","Bronx","141","Number"
+"11/08/2025","COVID-19 cases by borough","Bronx","127","Number"
+"11/15/2025","COVID-19 cases by borough","Bronx","119","Number"
+"11/22/2025","COVID-19 cases by borough","Bronx","131","Number"
+"11/29/2025","COVID-19 cases by borough","Bronx","113","Number"
+"12/06/2025","COVID-19 cases by borough","Bronx","161","Number"
+"12/13/2025","COVID-19 cases by borough","Bronx","180","Number"
+"12/20/2025","COVID-19 cases by borough","Bronx","201","Number"
+"12/27/2025","COVID-19 cases by borough","Bronx","160","Number"
+"01/03/2026","COVID-19 cases by borough","Bronx","190","Number"
+"10/18/2025","COVID-19 cases by borough","Brooklyn","287","Number"
+"10/25/2025","COVID-19 cases by borough","Brooklyn","323","Number"
+"11/01/2025","COVID-19 cases by borough","Brooklyn","301","Number"
+"11/08/2025","COVID-19 cases by borough","Brooklyn","310","Number"
+"11/15/2025","COVID-19 cases by borough","Brooklyn","266","Number"
+"11/22/2025","COVID-19 cases by borough","Brooklyn","291","Number"
+"11/29/2025","COVID-19 cases by borough","Brooklyn","235","Number"
+"12/06/2025","COVID-19 cases by borough","Brooklyn","310","Number"
+"12/13/2025","COVID-19 cases by borough","Brooklyn","399","Number"
+"12/20/2025","COVID-19 cases by borough","Brooklyn","337","Number"
+"12/27/2025","COVID-19 cases by borough","Brooklyn","341","Number"
+"01/03/2026","COVID-19 cases by borough","Brooklyn","319","Number"
+"10/18/2025","COVID-19 cases by borough","Manhattan","176","Number"
+"10/25/2025","COVID-19 cases by borough","Manhattan","143","Number"
+"11/01/2025","COVID-19 cases by borough","Manhattan","165","Number"
+"11/08/2025","COVID-19 cases by borough","Manhattan","150","Number"
+"11/15/2025","COVID-19 cases by borough","Manhattan","142","Number"
+"11/22/2025","COVID-19 cases by borough","Manhattan","149","Number"
+"11/29/2025","COVID-19 cases by borough","Manhattan","131","Number"
+"12/06/2025","COVID-19 cases by borough","Manhattan","163","Number"
+"12/13/2025","COVID-19 cases by borough","Manhattan","220","Number"
+"12/20/2025","COVID-19 cases by borough","Manhattan","222","Number"
+"12/27/2025","COVID-19 cases by borough","Manhattan","156","Number"
+"01/03/2026","COVID-19 cases by borough","Manhattan","177","Number"
+"10/18/2025","COVID-19 cases by borough","Queens","306","Number"
+"10/25/2025","COVID-19 cases by borough","Queens","232","Number"
+"11/01/2025","COVID-19 cases by borough","Queens","211","Number"
+"11/08/2025","COVID-19 cases by borough","Queens","205","Number"
+"11/15/2025","COVID-19 cases by borough","Queens","197","Number"
+"11/22/2025","COVID-19 cases by borough","Queens","200","Number"
+"11/29/2025","COVID-19 cases by borough","Queens","208","Number"
+"12/06/2025","COVID-19 cases by borough","Queens","264","Number"
+"12/13/2025","COVID-19 cases by borough","Queens","270","Number"
+"12/20/2025","COVID-19 cases by borough","Queens","303","Number"
+"12/27/2025","COVID-19 cases by borough","Queens","249","Number"
+"01/03/2026","COVID-19 cases by borough","Queens","290","Number"
+"10/18/2025","COVID-19 cases by borough","Staten Island","71","Number"
+"10/25/2025","COVID-19 cases by borough","Staten Island","57","Number"
+"11/01/2025","COVID-19 cases by borough","Staten Island","51","Number"
+"11/08/2025","COVID-19 cases by borough","Staten Island","49","Number"
+"11/15/2025","COVID-19 cases by borough","Staten Island","59","Number"
+"11/22/2025","COVID-19 cases by borough","Staten Island","59","Number"
+"11/29/2025","COVID-19 cases by borough","Staten Island","65","Number"
+"12/06/2025","COVID-19 cases by borough","Staten Island","93","Number"
+"12/13/2025","COVID-19 cases by borough","Staten Island","87","Number"
+"12/20/2025","COVID-19 cases by borough","Staten Island","92","Number"
+"12/27/2025","COVID-19 cases by borough","Staten Island","100","Number"
+"01/03/2026","COVID-19 cases by borough","Staten Island","132","Number"
+"10/18/2025","COVID-19 cases by race and ethnicity","Asian/Pacific Islander","86","Number"
+"10/25/2025","COVID-19 cases by race and ethnicity","Asian/Pacific Islander","70","Number"
+"11/01/2025","COVID-19 cases by race and ethnicity","Asian/Pacific Islander","64","Number"
+"11/08/2025","COVID-19 cases by race and ethnicity","Asian/Pacific Islander","78","Number"
+"11/15/2025","COVID-19 cases by race and ethnicity","Asian/Pacific Islander","62","Number"
+"11/22/2025","COVID-19 cases by race and ethnicity","Asian/Pacific Islander","64","Number"
+"11/29/2025","COVID-19 cases by race and ethnicity","Asian/Pacific Islander","54","Number"
+"12/06/2025","COVID-19 cases by race and ethnicity","Asian/Pacific Islander","68","Number"
+"12/13/2025","COVID-19 cases by race and ethnicity","Asian/Pacific Islander","96","Number"
+"12/20/2025","COVID-19 cases by race and ethnicity","Asian/Pacific Islander","93","Number"
+"12/27/2025","COVID-19 cases by race and ethnicity","Asian/Pacific Islander","83","Number"
+"01/03/2026","COVID-19 cases by race and ethnicity","Asian/Pacific Islander","85","Number"
+"10/18/2025","COVID-19 cases by race and ethnicity","Black/African American","157","Number"
+"10/25/2025","COVID-19 cases by race and ethnicity","Black/African American","144","Number"
+"11/01/2025","COVID-19 cases by race and ethnicity","Black/African American","117","Number"
+"11/08/2025","COVID-19 cases by race and ethnicity","Black/African American","119","Number"
+"11/15/2025","COVID-19 cases by race and ethnicity","Black/African American","110","Number"
+"11/22/2025","COVID-19 cases by race and ethnicity","Black/African American","115","Number"
+"11/29/2025","COVID-19 cases by race and ethnicity","Black/African American","106","Number"
+"12/06/2025","COVID-19 cases by race and ethnicity","Black/African American","122","Number"
+"12/13/2025","COVID-19 cases by race and ethnicity","Black/African American","198","Number"
+"12/20/2025","COVID-19 cases by race and ethnicity","Black/African American","177","Number"
+"12/27/2025","COVID-19 cases by race and ethnicity","Black/African American","161","Number"
+"01/03/2026","COVID-19 cases by race and ethnicity","Black/African American","170","Number"
+"10/18/2025","COVID-19 cases by race and ethnicity","Hispanic/Latino","209","Number"
+"10/25/2025","COVID-19 cases by race and ethnicity","Hispanic/Latino","150","Number"
+"11/01/2025","COVID-19 cases by race and ethnicity","Hispanic/Latino","149","Number"
+"11/08/2025","COVID-19 cases by race and ethnicity","Hispanic/Latino","167","Number"
+"11/15/2025","COVID-19 cases by race and ethnicity","Hispanic/Latino","148","Number"
+"11/22/2025","COVID-19 cases by race and ethnicity","Hispanic/Latino","151","Number"
+"11/29/2025","COVID-19 cases by race and ethnicity","Hispanic/Latino","141","Number"
+"12/06/2025","COVID-19 cases by race and ethnicity","Hispanic/Latino","230","Number"
+"12/13/2025","COVID-19 cases by race and ethnicity","Hispanic/Latino","205","Number"
+"12/20/2025","COVID-19 cases by race and ethnicity","Hispanic/Latino","245","Number"
+"12/27/2025","COVID-19 cases by race and ethnicity","Hispanic/Latino","195","Number"
+"01/03/2026","COVID-19 cases by race and ethnicity","Hispanic/Latino","230","Number"
+"10/18/2025","COVID-19 cases by race and ethnicity","White","281","Number"
+"10/25/2025","COVID-19 cases by race and ethnicity","White","246","Number"
+"11/01/2025","COVID-19 cases by race and ethnicity","White","256","Number"
+"11/08/2025","COVID-19 cases by race and ethnicity","White","219","Number"
+"11/15/2025","COVID-19 cases by race and ethnicity","White","218","Number"
+"11/22/2025","COVID-19 cases by race and ethnicity","White","229","Number"
+"11/29/2025","COVID-19 cases by race and ethnicity","White","212","Number"
+"12/06/2025","COVID-19 cases by race and ethnicity","White","244","Number"
+"12/13/2025","COVID-19 cases by race and ethnicity","White","321","Number"
+"12/20/2025","COVID-19 cases by race and ethnicity","White","301","Number"
+"12/27/2025","COVID-19 cases by race and ethnicity","White","266","Number"
+"01/03/2026","COVID-19 cases by race and ethnicity","White","299","Number"
+"09/09/2023","Influenza cases","Total","215","Number"
+"09/16/2023","Influenza cases","Total","234","Number"
+"09/23/2023","Influenza cases","Total","330","Number"
+"09/30/2023","Influenza cases","Total","313","Number"
+"10/07/2023","Influenza cases","Total","464","Number"
+"10/14/2023","Influenza cases","Total","463","Number"
+"10/21/2023","Influenza cases","Total","554","Number"
+"10/28/2023","Influenza cases","Total","750","Number"
+"11/04/2023","Influenza cases","Total","823","Number"
+"11/11/2023","Influenza cases","Total","1326","Number"
+"11/18/2023","Influenza cases","Total","2067","Number"
+"11/25/2023","Influenza cases","Total","2543","Number"
+"12/02/2023","Influenza cases","Total","3918","Number"
+"12/09/2023","Influenza cases","Total","5811","Number"
+"12/16/2023","Influenza cases","Total","10547","Number"
+"12/23/2023","Influenza cases","Total","14438","Number"
+"12/30/2023","Influenza cases","Total","15063","Number"
+"01/06/2024","Influenza cases","Total","11134","Number"
+"01/13/2024","Influenza cases","Total","12272","Number"
+"01/20/2024","Influenza cases","Total","10404","Number"
+"01/27/2024","Influenza cases","Total","11241","Number"
+"02/03/2024","Influenza cases","Total","9932","Number"
+"02/10/2024","Influenza cases","Total","9435","Number"
+"02/17/2024","Influenza cases","Total","8383","Number"
+"02/24/2024","Influenza cases","Total","7426","Number"
+"03/02/2024","Influenza cases","Total","6806","Number"
+"03/09/2024","Influenza cases","Total","5735","Number"
+"03/16/2024","Influenza cases","Total","4351","Number"
+"03/23/2024","Influenza cases","Total","3861","Number"
+"03/30/2024","Influenza cases","Total","3813","Number"
+"04/06/2024","Influenza cases","Total","3338","Number"
+"04/13/2024","Influenza cases","Total","2676","Number"
+"04/20/2024","Influenza cases","Total","2149","Number"
+"04/27/2024","Influenza cases","Total","1516","Number"
+"05/04/2024","Influenza cases","Total","1432","Number"
+"05/11/2024","Influenza cases","Total","915","Number"
+"05/18/2024","Influenza cases","Total","762","Number"
+"05/25/2024","Influenza cases","Total","669","Number"
+"06/01/2024","Influenza cases","Total","405","Number"
+"06/08/2024","Influenza cases","Total","351","Number"
+"06/15/2024","Influenza cases","Total","319","Number"
+"06/22/2024","Influenza cases","Total","257","Number"
+"06/29/2024","Influenza cases","Total","339","Number"
+"07/06/2024","Influenza cases","Total","242","Number"
+"07/13/2024","Influenza cases","Total","274","Number"
+"07/20/2024","Influenza cases","Total","263","Number"
+"07/27/2024","Influenza cases","Total","268","Number"
+"08/03/2024","Influenza cases","Total","261","Number"
+"08/10/2024","Influenza cases","Total","217","Number"
+"08/17/2024","Influenza cases","Total","245","Number"
+"08/24/2024","Influenza cases","Total","254","Number"
+"08/31/2024","Influenza cases","Total","214","Number"
+"09/07/2024","Influenza cases","Total","278","Number"
+"09/14/2024","Influenza cases","Total","299","Number"
+"09/21/2024","Influenza cases","Total","302","Number"
+"09/28/2024","Influenza cases","Total","307","Number"
+"10/05/2024","Influenza cases","Total","267","Number"
+"10/12/2024","Influenza cases","Total","250","Number"
+"10/19/2024","Influenza cases","Total","294","Number"
+"10/26/2024","Influenza cases","Total","379","Number"
+"11/02/2024","Influenza cases","Total","455","Number"
+"11/09/2024","Influenza cases","Total","512","Number"
+"11/16/2024","Influenza cases","Total","623","Number"
+"11/23/2024","Influenza cases","Total","989","Number"
+"11/30/2024","Influenza cases","Total","1563","Number"
+"12/07/2024","Influenza cases","Total","2404","Number"
+"12/14/2024","Influenza cases","Total","4652","Number"
+"12/21/2024","Influenza cases","Total","8239","Number"
+"12/28/2024","Influenza cases","Total","11714","Number"
+"01/04/2025","Influenza cases","Total","13901","Number"
+"01/11/2025","Influenza cases","Total","15716","Number"
+"01/18/2025","Influenza cases","Total","22432","Number"
+"01/25/2025","Influenza cases","Total","23308","Number"
+"02/01/2025","Influenza cases","Total","22519","Number"
+"02/08/2025","Influenza cases","Total","19484","Number"
+"02/15/2025","Influenza cases","Total","15236","Number"
+"02/22/2025","Influenza cases","Total","10900","Number"
+"03/01/2025","Influenza cases","Total","8414","Number"
+"03/08/2025","Influenza cases","Total","7159","Number"
+"03/15/2025","Influenza cases","Total","6334","Number"
+"03/22/2025","Influenza cases","Total","5514","Number"
+"03/29/2025","Influenza cases","Total","4476","Number"
+"04/05/2025","Influenza cases","Total","3594","Number"
+"04/12/2025","Influenza cases","Total","2449","Number"
+"04/19/2025","Influenza cases","Total","1782","Number"
+"04/26/2025","Influenza cases","Total","1370","Number"
+"05/03/2025","Influenza cases","Total","986","Number"
+"05/10/2025","Influenza cases","Total","677","Number"
+"05/17/2025","Influenza cases","Total","517","Number"
+"05/24/2025","Influenza cases","Total","428","Number"
+"05/31/2025","Influenza cases","Total","348","Number"
+"06/07/2025","Influenza cases","Total","247","Number"
+"06/14/2025","Influenza cases","Total","234","Number"
+"06/21/2025","Influenza cases","Total","196","Number"
+"06/28/2025","Influenza cases","Total","182","Number"
+"07/05/2025","Influenza cases","Total","169","Number"
+"07/12/2025","Influenza cases","Total","150","Number"
+"07/19/2025","Influenza cases","Total","133","Number"
+"07/26/2025","Influenza cases","Total","154","Number"
+"08/02/2025","Influenza cases","Total","136","Number"
+"08/09/2025","Influenza cases","Total","137","Number"
+"08/16/2025","Influenza cases","Total","159","Number"
+"08/23/2025","Influenza cases","Total","175","Number"
+"08/30/2025","Influenza cases","Total","182","Number"
+"09/06/2025","Influenza cases","Total","217","Number"
+"09/13/2025","Influenza cases","Total","224","Number"
+"09/20/2025","Influenza cases","Total","245","Number"
+"09/27/2025","Influenza cases","Total","222","Number"
+"10/04/2025","Influenza cases","Total","254","Number"
+"10/11/2025","Influenza cases","Total","273","Number"
+"10/18/2025","Influenza cases","Total","348","Number"
+"10/25/2025","Influenza cases","Total","448","Number"
+"11/01/2025","Influenza cases","Total","744","Number"
+"11/08/2025","Influenza cases","Total","1705","Number"
+"11/15/2025","Influenza cases","Total","2475","Number"
+"11/22/2025","Influenza cases","Total","5379","Number"
+"11/29/2025","Influenza cases","Total","10637","Number"
+"12/06/2025","Influenza cases","Total","14223","Number"
+"12/13/2025","Influenza cases","Total","26074","Number"
+"12/20/2025","Influenza cases","Total","32663","Number"
+"12/27/2025","Influenza cases","Total","20220","Number"
+"01/03/2026","Influenza cases","Total","12872","Number"
+"10/18/2025","Influenza cases by subtype","Influenza A H1","7","Number"
+"10/25/2025","Influenza cases by subtype","Influenza A H1","20","Number"
+"11/01/2025","Influenza cases by subtype","Influenza A H1","18","Number"
+"11/08/2025","Influenza cases by subtype","Influenza A H1","27","Number"
+"11/15/2025","Influenza cases by subtype","Influenza A H1","32","Number"
+"11/22/2025","Influenza cases by subtype","Influenza A H1","41","Number"
+"11/29/2025","Influenza cases by subtype","Influenza A H1","46","Number"
+"12/06/2025","Influenza cases by subtype","Influenza A H1","60","Number"
+"12/13/2025","Influenza cases by subtype","Influenza A H1","93","Number"
+"12/20/2025","Influenza cases by subtype","Influenza A H1","140","Number"
+"12/27/2025","Influenza cases by subtype","Influenza A H1","109","Number"
+"01/03/2026","Influenza cases by subtype","Influenza A H1","100","Number"
+"10/18/2025","Influenza cases by subtype","Influenza A H3","35","Number"
+"10/25/2025","Influenza cases by subtype","Influenza A H3","65","Number"
+"11/01/2025","Influenza cases by subtype","Influenza A H3","127","Number"
+"11/08/2025","Influenza cases by subtype","Influenza A H3","317","Number"
+"11/15/2025","Influenza cases by subtype","Influenza A H3","476","Number"
+"11/22/2025","Influenza cases by subtype","Influenza A H3","1081","Number"
+"11/29/2025","Influenza cases by subtype","Influenza A H3","2085","Number"
+"12/06/2025","Influenza cases by subtype","Influenza A H3","3118","Number"
+"12/13/2025","Influenza cases by subtype","Influenza A H3","4470","Number"
+"12/20/2025","Influenza cases by subtype","Influenza A H3","5630","Number"
+"12/27/2025","Influenza cases by subtype","Influenza A H3","3715","Number"
+"01/03/2026","Influenza cases by subtype","Influenza A H3","2076","Number"
+"10/18/2025","Influenza cases by subtype","Influenza A not subtyped","256","Number"
+"10/25/2025","Influenza cases by subtype","Influenza A not subtyped","314","Number"
+"11/01/2025","Influenza cases by subtype","Influenza A not subtyped","547","Number"
+"11/08/2025","Influenza cases by subtype","Influenza A not subtyped","1274","Number"
+"11/15/2025","Influenza cases by subtype","Influenza A not subtyped","1888","Number"
+"11/22/2025","Influenza cases by subtype","Influenza A not subtyped","4128","Number"
+"11/29/2025","Influenza cases by subtype","Influenza A not subtyped","8326","Number"
+"12/06/2025","Influenza cases by subtype","Influenza A not subtyped","10771","Number"
+"12/13/2025","Influenza cases by subtype","Influenza A not subtyped","21115","Number"
+"12/20/2025","Influenza cases by subtype","Influenza A not subtyped","26484","Number"
+"12/27/2025","Influenza cases by subtype","Influenza A not subtyped","16017","Number"
+"01/03/2026","Influenza cases by subtype","Influenza A not subtyped","10343","Number"
+"10/18/2025","Influenza cases by subtype","Influenza B","41","Number"
+"10/25/2025","Influenza cases by subtype","Influenza B","36","Number"
+"11/01/2025","Influenza cases by subtype","Influenza B","41","Number"
+"11/08/2025","Influenza cases by subtype","Influenza B","66","Number"
+"11/15/2025","Influenza cases by subtype","Influenza B","58","Number"
+"11/22/2025","Influenza cases by subtype","Influenza B","73","Number"
+"11/29/2025","Influenza cases by subtype","Influenza B","88","Number"
+"12/06/2025","Influenza cases by subtype","Influenza B","160","Number"
+"12/13/2025","Influenza cases by subtype","Influenza B","189","Number"
+"12/20/2025","Influenza cases by subtype","Influenza B","213","Number"
+"12/27/2025","Influenza cases by subtype","Influenza B","225","Number"
+"01/03/2026","Influenza cases by subtype","Influenza B","291","Number"
+"10/18/2025","Influenza cases by age group","0-4","54","Number"
+"10/25/2025","Influenza cases by age group","0-4","72","Number"
+"11/01/2025","Influenza cases by age group","0-4","124","Number"
+"11/08/2025","Influenza cases by age group","0-4","269","Number"
+"11/15/2025","Influenza cases by age group","0-4","426","Number"
+"11/22/2025","Influenza cases by age group","0-4","864","Number"
+"11/29/2025","Influenza cases by age group","0-4","1825","Number"
+"12/06/2025","Influenza cases by age group","0-4","2654","Number"
+"12/13/2025","Influenza cases by age group","0-4","4207","Number"
+"12/20/2025","Influenza cases by age group","0-4","5269","Number"
+"12/27/2025","Influenza cases by age group","0-4","3890","Number"
+"01/03/2026","Influenza cases by age group","0-4","2196","Number"
+"10/18/2025","Influenza cases by age group","5-17","94","Number"
+"10/25/2025","Influenza cases by age group","5-17","127","Number"
+"11/01/2025","Influenza cases by age group","5-17","280","Number"
+"11/08/2025","Influenza cases by age group","5-17","710","Number"
+"11/15/2025","Influenza cases by age group","5-17","1095","Number"
+"11/22/2025","Influenza cases by age group","5-17","2600","Number"
+"11/29/2025","Influenza cases by age group","5-17","5119","Number"
+"12/06/2025","Influenza cases by age group","5-17","5653","Number"
+"12/13/2025","Influenza cases by age group","5-17","11656","Number"
+"12/20/2025","Influenza cases by age group","5-17","13218","Number"
+"12/27/2025","Influenza cases by age group","5-17","5108","Number"
+"01/03/2026","Influenza cases by age group","5-17","1661","Number"
+"10/18/2025","Influenza cases by age group","18-64","158","Number"
+"10/25/2025","Influenza cases by age group","18-64","191","Number"
+"11/01/2025","Influenza cases by age group","18-64","286","Number"
+"11/08/2025","Influenza cases by age group","18-64","617","Number"
+"11/15/2025","Influenza cases by age group","18-64","806","Number"
+"11/22/2025","Influenza cases by age group","18-64","1633","Number"
+"11/29/2025","Influenza cases by age group","18-64","3105","Number"
+"12/06/2025","Influenza cases by age group","18-64","4919","Number"
+"12/13/2025","Influenza cases by age group","18-64","8511","Number"
+"12/20/2025","Influenza cases by age group","18-64","11542","Number"
+"12/27/2025","Influenza cases by age group","18-64","8526","Number"
+"01/03/2026","Influenza cases by age group","18-64","6640","Number"
+"10/18/2025","Influenza cases by age group","65+","42","Number"
+"10/25/2025","Influenza cases by age group","65+","58","Number"
+"11/01/2025","Influenza cases by age group","65+","54","Number"
+"11/08/2025","Influenza cases by age group","65+","109","Number"
+"11/15/2025","Influenza cases by age group","65+","148","Number"
+"11/22/2025","Influenza cases by age group","65+","282","Number"
+"11/29/2025","Influenza cases by age group","65+","585","Number"
+"12/06/2025","Influenza cases by age group","65+","993","Number"
+"12/13/2025","Influenza cases by age group","65+","1700","Number"
+"12/20/2025","Influenza cases by age group","65+","2632","Number"
+"12/27/2025","Influenza cases by age group","65+","2694","Number"
+"01/03/2026","Influenza cases by age group","65+","2373","Number"
+"10/18/2025","Influenza cases by borough","Bronx","48","Number"
+"10/25/2025","Influenza cases by borough","Bronx","66","Number"
+"11/01/2025","Influenza cases by borough","Bronx","110","Number"
+"11/08/2025","Influenza cases by borough","Bronx","230","Number"
+"11/15/2025","Influenza cases by borough","Bronx","347","Number"
+"11/22/2025","Influenza cases by borough","Bronx","979","Number"
+"11/29/2025","Influenza cases by borough","Bronx","2022","Number"
+"12/06/2025","Influenza cases by borough","Bronx","2949","Number"
+"12/13/2025","Influenza cases by borough","Bronx","6187","Number"
+"12/20/2025","Influenza cases by borough","Bronx","7792","Number"
+"12/27/2025","Influenza cases by borough","Bronx","4226","Number"
+"01/03/2026","Influenza cases by borough","Bronx","2409","Number"
+"10/18/2025","Influenza cases by borough","Brooklyn","113","Number"
+"10/25/2025","Influenza cases by borough","Brooklyn","137","Number"
+"11/01/2025","Influenza cases by borough","Brooklyn","264","Number"
+"11/08/2025","Influenza cases by borough","Brooklyn","534","Number"
+"11/15/2025","Influenza cases by borough","Brooklyn","839","Number"
+"11/22/2025","Influenza cases by borough","Brooklyn","1743","Number"
+"11/29/2025","Influenza cases by borough","Brooklyn","3370","Number"
+"12/06/2025","Influenza cases by borough","Brooklyn","4642","Number"
+"12/13/2025","Influenza cases by borough","Brooklyn","7708","Number"
+"12/20/2025","Influenza cases by borough","Brooklyn","8728","Number"
+"12/27/2025","Influenza cases by borough","Brooklyn","5798","Number"
+"01/03/2026","Influenza cases by borough","Brooklyn","3626","Number"
+"10/18/2025","Influenza cases by borough","Manhattan","58","Number"
+"10/25/2025","Influenza cases by borough","Manhattan","75","Number"
+"11/01/2025","Influenza cases by borough","Manhattan","130","Number"
+"11/08/2025","Influenza cases by borough","Manhattan","270","Number"
+"11/15/2025","Influenza cases by borough","Manhattan","355","Number"
+"11/22/2025","Influenza cases by borough","Manhattan","630","Number"
+"11/29/2025","Influenza cases by borough","Manhattan","1158","Number"
+"12/06/2025","Influenza cases by borough","Manhattan","1474","Number"
+"12/13/2025","Influenza cases by borough","Manhattan","3276","Number"
+"12/20/2025","Influenza cases by borough","Manhattan","4595","Number"
+"12/27/2025","Influenza cases by borough","Manhattan","2757","Number"
+"01/03/2026","Influenza cases by borough","Manhattan","2051","Number"
+"10/18/2025","Influenza cases by borough","Queens","111","Number"
+"10/25/2025","Influenza cases by borough","Queens","148","Number"
+"11/01/2025","Influenza cases by borough","Queens","212","Number"
+"11/08/2025","Influenza cases by borough","Queens","598","Number"
+"11/15/2025","Influenza cases by borough","Queens","818","Number"
+"11/22/2025","Influenza cases by borough","Queens","1726","Number"
+"11/29/2025","Influenza cases by borough","Queens","3396","Number"
+"12/06/2025","Influenza cases by borough","Queens","4222","Number"
+"12/13/2025","Influenza cases by borough","Queens","7190","Number"
+"12/20/2025","Influenza cases by borough","Queens","9116","Number"
+"12/27/2025","Influenza cases by borough","Queens","6018","Number"
+"01/03/2026","Influenza cases by borough","Queens","3831","Number"
+"10/18/2025","Influenza cases by borough","Staten Island","18","Number"
+"10/25/2025","Influenza cases by borough","Staten Island","22","Number"
+"11/01/2025","Influenza cases by borough","Staten Island","28","Number"
+"11/08/2025","Influenza cases by borough","Staten Island","73","Number"
+"11/15/2025","Influenza cases by borough","Staten Island","116","Number"
+"11/22/2025","Influenza cases by borough","Staten Island","301","Number"
+"11/29/2025","Influenza cases by borough","Staten Island","691","Number"
+"12/06/2025","Influenza cases by borough","Staten Island","936","Number"
+"12/13/2025","Influenza cases by borough","Staten Island","1713","Number"
+"12/20/2025","Influenza cases by borough","Staten Island","2432","Number"
+"12/27/2025","Influenza cases by borough","Staten Island","1421","Number"
+"01/03/2026","Influenza cases by borough","Staten Island","955","Number"
+"09/09/2023","RSV cases","Total","136","Number"
+"09/16/2023","RSV cases","Total","167","Number"
+"09/23/2023","RSV cases","Total","340","Number"
+"09/30/2023","RSV cases","Total","421","Number"
+"10/07/2023","RSV cases","Total","644","Number"
+"10/14/2023","RSV cases","Total","894","Number"
+"10/21/2023","RSV cases","Total","1379","Number"
+"10/28/2023","RSV cases","Total","2259","Number"
+"11/04/2023","RSV cases","Total","2733","Number"
+"11/11/2023","RSV cases","Total","3673","Number"
+"11/18/2023","RSV cases","Total","4415","Number"
+"11/25/2023","RSV cases","Total","4073","Number"
+"12/02/2023","RSV cases","Total","4902","Number"
+"12/09/2023","RSV cases","Total","4483","Number"
+"12/16/2023","RSV cases","Total","3975","Number"
+"12/23/2023","RSV cases","Total","3662","Number"
+"12/30/2023","RSV cases","Total","3012","Number"
+"01/06/2024","RSV cases","Total","2567","Number"
+"01/13/2024","RSV cases","Total","2079","Number"
+"01/20/2024","RSV cases","Total","1421","Number"
+"01/27/2024","RSV cases","Total","1209","Number"
+"02/03/2024","RSV cases","Total","1021","Number"
+"02/10/2024","RSV cases","Total","905","Number"
+"02/17/2024","RSV cases","Total","667","Number"
+"02/24/2024","RSV cases","Total","557","Number"
+"03/02/2024","RSV cases","Total","582","Number"
+"03/09/2024","RSV cases","Total","423","Number"
+"03/16/2024","RSV cases","Total","324","Number"
+"03/23/2024","RSV cases","Total","319","Number"
+"03/30/2024","RSV cases","Total","271","Number"
+"04/06/2024","RSV cases","Total","233","Number"
+"04/13/2024","RSV cases","Total","172","Number"
+"04/20/2024","RSV cases","Total","193","Number"
+"04/27/2024","RSV cases","Total","115","Number"
+"05/04/2024","RSV cases","Total","113","Number"
+"05/11/2024","RSV cases","Total","90","Number"
+"05/18/2024","RSV cases","Total","106","Number"
+"05/25/2024","RSV cases","Total","103","Number"
+"06/01/2024","RSV cases","Total","92","Number"
+"06/08/2024","RSV cases","Total","95","Number"
+"06/15/2024","RSV cases","Total","97","Number"
+"06/22/2024","RSV cases","Total","90","Number"
+"06/29/2024","RSV cases","Total","89","Number"
+"07/06/2024","RSV cases","Total","110","Number"
+"07/13/2024","RSV cases","Total","106","Number"
+"07/20/2024","RSV cases","Total","116","Number"
+"07/27/2024","RSV cases","Total","110","Number"
+"08/03/2024","RSV cases","Total","103","Number"
+"08/10/2024","RSV cases","Total","111","Number"
+"08/17/2024","RSV cases","Total","104","Number"
+"08/24/2024","RSV cases","Total","142","Number"
+"08/31/2024","RSV cases","Total","186","Number"
+"09/07/2024","RSV cases","Total","165","Number"
+"09/14/2024","RSV cases","Total","174","Number"
+"09/21/2024","RSV cases","Total","244","Number"
+"09/28/2024","RSV cases","Total","320","Number"
+"10/05/2024","RSV cases","Total","347","Number"
+"10/12/2024","RSV cases","Total","517","Number"
+"10/19/2024","RSV cases","Total","588","Number"
+"10/26/2024","RSV cases","Total","748","Number"
+"11/02/2024","RSV cases","Total","1013","Number"
+"11/09/2024","RSV cases","Total","1559","Number"
+"11/16/2024","RSV cases","Total","2102","Number"
+"11/23/2024","RSV cases","Total","2825","Number"
+"11/30/2024","RSV cases","Total","3454","Number"
+"12/07/2024","RSV cases","Total","4511","Number"
+"12/14/2024","RSV cases","Total","4782","Number"
+"12/21/2024","RSV cases","Total","4699","Number"
+"12/28/2024","RSV cases","Total","3513","Number"
+"01/04/2025","RSV cases","Total","3199","Number"
+"01/11/2025","RSV cases","Total","2566","Number"
+"01/18/2025","RSV cases","Total","2145","Number"
+"01/25/2025","RSV cases","Total","1631","Number"
+"02/01/2025","RSV cases","Total","1375","Number"
+"02/08/2025","RSV cases","Total","1328","Number"
+"02/15/2025","RSV cases","Total","1038","Number"
+"02/22/2025","RSV cases","Total","873","Number"
+"03/01/2025","RSV cases","Total","732","Number"
+"03/08/2025","RSV cases","Total","642","Number"
+"03/15/2025","RSV cases","Total","548","Number"
+"03/22/2025","RSV cases","Total","468","Number"
+"03/29/2025","RSV cases","Total","412","Number"
+"04/05/2025","RSV cases","Total","338","Number"
+"04/12/2025","RSV cases","Total","243","Number"
+"04/19/2025","RSV cases","Total","190","Number"
+"04/26/2025","RSV cases","Total","157","Number"
+"05/03/2025","RSV cases","Total","125","Number"
+"05/10/2025","RSV cases","Total","103","Number"
+"05/17/2025","RSV cases","Total","107","Number"
+"05/24/2025","RSV cases","Total","75","Number"
+"05/31/2025","RSV cases","Total","87","Number"
+"06/07/2025","RSV cases","Total","64","Number"
+"06/14/2025","RSV cases","Total","71","Number"
+"06/21/2025","RSV cases","Total","80","Number"
+"06/28/2025","RSV cases","Total","68","Number"
+"07/05/2025","RSV cases","Total","83","Number"
+"07/12/2025","RSV cases","Total","72","Number"
+"07/19/2025","RSV cases","Total","75","Number"
+"07/26/2025","RSV cases","Total","84","Number"
+"08/02/2025","RSV cases","Total","111","Number"
+"08/09/2025","RSV cases","Total","115","Number"
+"08/16/2025","RSV cases","Total","100","Number"
+"08/23/2025","RSV cases","Total","104","Number"
+"08/30/2025","RSV cases","Total","124","Number"
+"09/06/2025","RSV cases","Total","122","Number"
+"09/13/2025","RSV cases","Total","142","Number"
+"09/20/2025","RSV cases","Total","203","Number"
+"09/27/2025","RSV cases","Total","219","Number"
+"10/04/2025","RSV cases","Total","271","Number"
+"10/11/2025","RSV cases","Total","237","Number"
+"10/18/2025","RSV cases","Total","241","Number"
+"10/25/2025","RSV cases","Total","321","Number"
+"11/01/2025","RSV cases","Total","379","Number"
+"11/08/2025","RSV cases","Total","591","Number"
+"11/15/2025","RSV cases","Total","696","Number"
+"11/22/2025","RSV cases","Total","1095","Number"
+"11/29/2025","RSV cases","Total","1284","Number"
+"12/06/2025","RSV cases","Total","1768","Number"
+"12/13/2025","RSV cases","Total","2050","Number"
+"12/20/2025","RSV cases","Total","2573","Number"
+"12/27/2025","RSV cases","Total","2245","Number"
+"01/03/2026","RSV cases","Total","2339","Number"
+"10/18/2025","RSV cases by age group","0-4","153","Number"
+"10/25/2025","RSV cases by age group","0-4","211","Number"
+"11/01/2025","RSV cases by age group","0-4","267","Number"
+"11/08/2025","RSV cases by age group","0-4","404","Number"
+"11/15/2025","RSV cases by age group","0-4","492","Number"
+"11/22/2025","RSV cases by age group","0-4","730","Number"
+"11/29/2025","RSV cases by age group","0-4","869","Number"
+"12/06/2025","RSV cases by age group","0-4","1076","Number"
+"12/13/2025","RSV cases by age group","0-4","1165","Number"
+"12/20/2025","RSV cases by age group","0-4","1384","Number"
+"12/27/2025","RSV cases by age group","0-4","1175","Number"
+"01/03/2026","RSV cases by age group","0-4","1071","Number"
+"10/18/2025","RSV cases by age group","5-17","23","Number"
+"10/25/2025","RSV cases by age group","5-17","24","Number"
+"11/01/2025","RSV cases by age group","5-17","33","Number"
+"11/08/2025","RSV cases by age group","5-17","69","Number"
+"11/15/2025","RSV cases by age group","5-17","53","Number"
+"11/22/2025","RSV cases by age group","5-17","145","Number"
+"11/29/2025","RSV cases by age group","5-17","150","Number"
+"12/06/2025","RSV cases by age group","5-17","250","Number"
+"12/13/2025","RSV cases by age group","5-17","330","Number"
+"12/20/2025","RSV cases by age group","5-17","452","Number"
+"12/27/2025","RSV cases by age group","5-17","305","Number"
+"01/03/2026","RSV cases by age group","5-17","273","Number"
+"10/18/2025","RSV cases by age group","18-64","41","Number"
+"10/25/2025","RSV cases by age group","18-64","59","Number"
+"11/01/2025","RSV cases by age group","18-64","48","Number"
+"11/08/2025","RSV cases by age group","18-64","81","Number"
+"11/15/2025","RSV cases by age group","18-64","116","Number"
+"11/22/2025","RSV cases by age group","18-64","165","Number"
+"11/29/2025","RSV cases by age group","18-64","188","Number"
+"12/06/2025","RSV cases by age group","18-64","318","Number"
+"12/13/2025","RSV cases by age group","18-64","381","Number"
+"12/20/2025","RSV cases by age group","18-64","519","Number"
+"12/27/2025","RSV cases by age group","18-64","527","Number"
+"01/03/2026","RSV cases by age group","18-64","635","Number"
+"10/18/2025","RSV cases by age group","65+","24","Number"
+"10/25/2025","RSV cases by age group","65+","27","Number"
+"11/01/2025","RSV cases by age group","65+","31","Number"
+"11/08/2025","RSV cases by age group","65+","37","Number"
+"11/15/2025","RSV cases by age group","65+","34","Number"
+"11/22/2025","RSV cases by age group","65+","54","Number"
+"11/29/2025","RSV cases by age group","65+","77","Number"
+"12/06/2025","RSV cases by age group","65+","123","Number"
+"12/13/2025","RSV cases by age group","65+","173","Number"
+"12/20/2025","RSV cases by age group","65+","218","Number"
+"12/27/2025","RSV cases by age group","65+","238","Number"
+"01/03/2026","RSV cases by age group","65+","360","Number"
+"10/18/2025","RSV cases by borough","Bronx","48","Number"
+"10/25/2025","RSV cases by borough","Bronx","66","Number"
+"11/01/2025","RSV cases by borough","Bronx","110","Number"
+"11/08/2025","RSV cases by borough","Bronx","230","Number"
+"11/15/2025","RSV cases by borough","Bronx","347","Number"
+"11/22/2025","RSV cases by borough","Bronx","979","Number"
+"11/29/2025","RSV cases by borough","Bronx","2022","Number"
+"12/06/2025","RSV cases by borough","Bronx","2949","Number"
+"12/13/2025","RSV cases by borough","Bronx","6187","Number"
+"12/20/2025","RSV cases by borough","Bronx","7792","Number"
+"12/27/2025","RSV cases by borough","Bronx","4226","Number"
+"01/03/2026","RSV cases by borough","Bronx","2409","Number"
+"10/18/2025","RSV cases by borough","Brooklyn","113","Number"
+"10/25/2025","RSV cases by borough","Brooklyn","137","Number"
+"11/01/2025","RSV cases by borough","Brooklyn","264","Number"
+"11/08/2025","RSV cases by borough","Brooklyn","534","Number"
+"11/15/2025","RSV cases by borough","Brooklyn","839","Number"
+"11/22/2025","RSV cases by borough","Brooklyn","1743","Number"
+"11/29/2025","RSV cases by borough","Brooklyn","3370","Number"
+"12/06/2025","RSV cases by borough","Brooklyn","4642","Number"
+"12/13/2025","RSV cases by borough","Brooklyn","7708","Number"
+"12/20/2025","RSV cases by borough","Brooklyn","8728","Number"
+"12/27/2025","RSV cases by borough","Brooklyn","5798","Number"
+"01/03/2026","RSV cases by borough","Brooklyn","3626","Number"
+"10/18/2025","RSV cases by borough","Manhattan","58","Number"
+"10/25/2025","RSV cases by borough","Manhattan","75","Number"
+"11/01/2025","RSV cases by borough","Manhattan","130","Number"
+"11/08/2025","RSV cases by borough","Manhattan","270","Number"
+"11/15/2025","RSV cases by borough","Manhattan","355","Number"
+"11/22/2025","RSV cases by borough","Manhattan","630","Number"
+"11/29/2025","RSV cases by borough","Manhattan","1158","Number"
+"12/06/2025","RSV cases by borough","Manhattan","1474","Number"
+"12/13/2025","RSV cases by borough","Manhattan","3276","Number"
+"12/20/2025","RSV cases by borough","Manhattan","4595","Number"
+"12/27/2025","RSV cases by borough","Manhattan","2757","Number"
+"01/03/2026","RSV cases by borough","Manhattan","2051","Number"
+"10/18/2025","RSV cases by borough","Queens","111","Number"
+"10/25/2025","RSV cases by borough","Queens","148","Number"
+"11/01/2025","RSV cases by borough","Queens","212","Number"
+"11/08/2025","RSV cases by borough","Queens","598","Number"
+"11/15/2025","RSV cases by borough","Queens","818","Number"
+"11/22/2025","RSV cases by borough","Queens","1726","Number"
+"11/29/2025","RSV cases by borough","Queens","3396","Number"
+"12/06/2025","RSV cases by borough","Queens","4222","Number"
+"12/13/2025","RSV cases by borough","Queens","7190","Number"
+"12/20/2025","RSV cases by borough","Queens","9116","Number"
+"12/27/2025","RSV cases by borough","Queens","6018","Number"
+"01/03/2026","RSV cases by borough","Queens","3831","Number"
+"10/18/2025","RSV cases by borough","Staten Island","18","Number"
+"10/25/2025","RSV cases by borough","Staten Island","22","Number"
+"11/01/2025","RSV cases by borough","Staten Island","28","Number"
+"11/08/2025","RSV cases by borough","Staten Island","73","Number"
+"11/15/2025","RSV cases by borough","Staten Island","116","Number"
+"11/22/2025","RSV cases by borough","Staten Island","301","Number"
+"11/29/2025","RSV cases by borough","Staten Island","691","Number"
+"12/06/2025","RSV cases by borough","Staten Island","936","Number"
+"12/13/2025","RSV cases by borough","Staten Island","1713","Number"
+"12/20/2025","RSV cases by borough","Staten Island","2432","Number"
+"12/27/2025","RSV cases by borough","Staten Island","1421","Number"
+"01/03/2026","RSV cases by borough","Staten Island","955","Number"
