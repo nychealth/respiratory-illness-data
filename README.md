@@ -107,17 +107,15 @@ Clinical laboratories that perform influenza testing on NYC residents may also i
 
 Citywide all-ages death data are currently only presented for COVID-19 because no national surveillance guidance has been established for influenza- or RSV-related deaths among adults. 
 
-As of April 3, 2023, deaths are counted as a COVID-19 death in NYC if the death certificate lists COVID-19 or an equivalent term as the underlying or a contributing cause of death. 
+As of April 3, 2023, deaths among NYC residents aged 18 and older are counted as a COVID-19 death if the death certificate lists COVID-19 or an equivalent term as the underlying or a contributing cause of death. 
 
-Pediatric (younger than 18 years of age at time of death) COVID-19 deaths are investigated by the NYC Health Department. These deaths are included in reported data after confirmation that the death is related to COVID-19.     
+The NYC Health Department's Bureau of Vital Statistics is responsible for the registration, analysis, and reporting of all deaths in NYC. More recent data on adult deaths presented here are provisional, which means that the numbers may change as the NYC Health Department continues to receive and process data. Publishing provisional data allows the NYC Health Department to share data faster, before it is finalized.   
 
-As of September 1, 2025, pediatric COVID-19 deaths also include children without COVID-19 on the death certificate but who have a positive COVID-19 laboratory test within 30 days of death and for whom investigation has confirmed the death is related to COVID-19.   
+### COVID-19-, Influenza-, and RSV-associated pediatric deaths
 
-The NYC Health Department's Bureau of Vital Statistics is responsible for the registration, analysis, and reporting of all deaths in NYC. More recent data on deaths presented here are provisional, which means that the numbers may change as the NYC Health Department continues to receive and process data. Publishing provisional data allows the NYC Health Department to share data faster, before it is finalized.   
-
-### Influenza-associated pediatric deaths
-
-Deaths among children (younger than 18 years of age) due to suspected or confirmed influenza must be reported to the NYC Health Department . An influenza-associated pediatric death is defined for surveillance purposes as a death resulting from an illness clinically compatible with influenza that is confirmed by an appropriate laboratory test. There should be no period of complete recovery between the illness and death.  Only deaths confirmed to be influenza-associated through investigation are included in reported data.
+Deaths among NYC residents younger than 18 years old associated with influenza or RSV are reported to the NYC Health Department as required by the [NYC Health Code](https://www.nyc.gov/site/doh/providers/reporting-and-services/notifiable-diseases-and-conditions-reporting-central.page). COVID-19- and influenza-associated pediatric deaths are reported to the Centers for Disease Control and Prevention. The NYC Health Department investigates decedents younger than 18 years old with 1) COVID-19, influenza, or RSV listed as a cause of death on the death certificate or 2) who had a positive COVID-19, influenza, or RSV laboratory test up to 30 days prior to the date of death or postmortem. These fatal cases are included in reported data if they meet surveillance criteria for a COVID-19-, influenza-, or RSV-associated pediatric death. A fatal case may meet the mortality surveillance criteria for more than one pathogen if investigators determine multiple pathogens may have been associated with the death. 
+- A COVID-19-, influenza-, or RSV-associated pediatric death is defined as a death resulting from an illness clinically compatible with each virus that is confirmed by an appropriate laboratory test. There should be no period of complete recovery between the illness and death.
+- Prior to September 1, 2025, COVID-19-associated pediatric deaths were defined as persons younger than 18 years old with COVID-19 on the death certificate. 
 
 ## Demographic characteristics
 
@@ -137,9 +135,7 @@ The NYC Health Department reports out data for the following age groups: 0-4, 5-
 
 The NYC Health Department classifies race and ethnicity into the following mutually exclusive categories: Asian/Pacific-Islander, Black/African-American, Hispanic/Latino, and White. Information on people identified as other categories, including Native American/Alaska Native or multi-racial, are not provided in files showing race and ethnicity data due to small counts. The Hispanic/Latino category includes people of any race, and all other categories of race and ethnicity exclude those who identified as Hispanic/Latino.
  
-Data received from emergency departments and electronic laboratory reports often lack information on demographic characteristics, such as race and ethnicity. Race and ethnicity information is most complete for COVID-19 cases and deaths, compared with that of case data for other pathogens, due to data augmentation efforts implemented during the COVID-19 pandemic response. 
-
-The NYC Health Department acknowledges this lack of representation in the data is inequitable, and we are committed to developing methods for ensuring more inclusive, equitable representation in the future.  
+Data received from emergency departments and electronic laboratory reports often lack information on demographic characteristics, such as race and ethnicity. Race and ethnicity information is most complete for COVID-19 cases, COVID-19 deaths, and influenza cases. The NYC Health Department acknowledges this lack of representation in the data is inequitable, and we are committed to developing methods for ensuring more inclusive, equitable representation in the future.  
 
 ## Health inequities
 
