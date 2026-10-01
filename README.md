@@ -1,3 +1,5 @@
+# NYC Respiratory Illness Data 
+
 This repository contains data on COVID-19 (Coronavirus Disease 2019), influenza, and RSV (respiratory syncytial virus) among New York City residents. 
 
 You can view visualizations of these data on the [NYC Health Department’s Respiratory Illness Data page](https://www.nyc.gov/assets/doh/respiratory-illness-data/index.html#/). These data will also be made available via NYC Open Data.
@@ -50,7 +52,7 @@ Trends in the proportion of emergency department visits and hospitalizations fro
 
 Trends in laboratory-reported case and death counts displayed on the webpage represent the relative percent change and are calculated by comparing data from the latest week with data from the previous week. Changes greater than or equal to 1% compared with the previous week indicate an increasing or decreasing trend for a given metric. Changes less than 1% are not considered to be increasing or decreasing.
 
-Access to care and other factors can influence the number of emergency department visits as well as laboratory-reported cases received by the NYC Health Department, so these data may not accurately reflect the true amount of illness among NYC residents.
+Many people who have a respiratory infection do not seek medical care. This may be because their symptoms are mild, they do not have access to care, they prefer to use at-home test kits, or other reasons. As a result, these data do not reflect all NYC residents with respiratory infections.
 
 ### Differences between City and State values 
 
@@ -61,9 +63,9 @@ Generally, the NYC Health Department and the New York State Department of Health
 
 ## Emergency department visits and hospitalizations from the emergency department 
 
-The NYC Health Department receives near real-time data from all 52 emergency departments in NYC. The emergency departments share diagnosis codes which can be used to identify general respiratory complaints such as cough or illnesses such as pneumonia. This information helps us see trends in illness and care-seeking among NYC residents.
+The NYC Health Department receives near real-time data from all 52 emergency departments in NYC. The emergency departments share diagnosis codes which can be used to identify people with general respiratory complaints such as cough or illnesses such as pneumonia. This information helps us see trends in illness and care-seeking among NYC residents.
 
-Visits and hospitalizations are mutually exclusive and presented as the percentage of all visits or hospitalizations, respectively, for each week identified with a respiratory illness or a COVID-19, influenza, or RSV diagnosis. For demographic break downs, data are presented as a percent of all emergency department visits or hospitalizations among each group.     
+Visits and hospitalizations are mutually exclusive and presented as the percentage of all visits or hospitalizations, respectively, for each week identified with a respiratory illness or a COVID-19, influenza, or RSV diagnosis. For demographic breakdowns, data are presented as a percent of all emergency department visits or hospitalizations among each group.     
 
 Hospitalizations from the emergency department do not include direct admissions from a doctor's office or outpatient clinic. These hospitalizations differ from hospitalizations previously presented on the COVID-19 data webpage, which identified information on hospitalization status from a number of sources, including Regional Health Information Organizations, NYC public hospitals, non-public hospital systems, remote access to electronic health record systems, the NYC Health Department’s electronic death registry system, and the NYC Health Department's emergency department surveillance system. 
 
@@ -86,7 +88,7 @@ The NYC Health Department receives electronic laboratory reports for a number of
 
 Differences across respiratory seasons in the volume of positive laboratory reports reflect changes not only in the burden of illness, but also in patient care seeking, testing availability, and laboratory reporting practices. Point-of-care and at-home tests may be conducted in a setting outside of a clinical laboratory; these settings often do not meet the requirements for electronically reporting directly to the NYC Health Department.   
 
-## COVID-19 case definitions
+### COVID-19 case definitions
 
 Surveillance case definitions for all notifiable conditions are developed at the national level by the Council of State and Territorial Epidemiologists (CSTE). These standard definitions support public health officials in classifying and counting infections consistently across different states and local jurisdictions. The criteria for reporting a person with COVID-19 infection (“case”) are based on laboratory test results, and include two classifications:
 
@@ -95,7 +97,7 @@ Surveillance case definitions for all notifiable conditions are developed at the
 
 People who meet the definition of a confirmed or probable COVID-19 case >90 days after a previous positive test (date of first positive test) will be counted as a new case.
 
-## Influenza and RSV case definitions 
+### Influenza and RSV case definitions 
 
 The criteria for reporting a person with influenza or RSV infection (“case”) are based on laboratory test results. To be considered a new case of influenza or RSV, an individual would need two positive laboratory test results >90 days apart for influenza or >180 days apart for RSV.  
 
@@ -117,19 +119,39 @@ Deaths among NYC residents younger than 18 years old associated with influenza o
 - A COVID-19-, influenza-, or RSV-associated pediatric death is defined as a death resulting from an illness clinically compatible with each virus that is confirmed by an appropriate laboratory test. There should be no period of complete recovery between the illness and death.
 - Prior to September 1, 2025, COVID-19-associated pediatric deaths were defined as persons younger than 18 years old with COVID-19 on the death certificate. 
 
+## Wastewater
+
+The [NYC wastewater treatment system](https://www.nyc.gov/site/dep/water/wastewater-treatment-system.page) is made up of 14 wastewater drainage areas, known as sewersheds. Wastewater from these areas is treated at 14 wastewater resource recovery facilities (WRRFs) located throughout the city. Twice a week (on Tuesdays and Sundays) the Department of Environmental Protection collects wastewater from these WRRFs and shares the samples with the NYC Health Department to analyze and quantify biological markers of specific pathogens. 
+
+Wastewater viral load data are normalized by multiplying viral load (in copies per liter) by the average daily flow (transformed to liters per day) and dividing by the approximate population served. Values shown reflect the citywide weekly average of the normalized copies (with missing values excluded). Values below the limit of detection indicate very low or no concentration of viral copies in wastewater and are reflected as <LOD in the data tables. 
+
+Data in these tables are only presented at the community level, and contributions to wastewater may not include all residents or be limited to residents within a sewershed. Some buildings, such as hospitals, universities, homes with septic tanks, or corrections facilities are not connected to community wastewater systems. Sources that regularly feed into wastewater can include human, animal, or industrial waste. 
+
+While this data can provide some information on how much a virus is circulating in our community, it may not include or represent all NYC residents infected with a specific pathogen or those who feel sick or seek medical care. 
+
 ## Demographic characteristics
 
 The sum of counts by demographic characteristics may not match citywide values due to missing information or cells with counts <5 that are suppressed to protect confidentiality. 
 
-## Residence
+## Geography
 
-Data by borough reflect people's residence at the time of reporting, which is not necessarily the location of diagnosis, hospitalization, or death. 
+Data by borough and neighborhood reflect people's residence at the time of reporting, which is not necessarily the location of diagnosis, hospitalization, or death. 
+
+The United Hospital Fund classifies New York City into 42 neighborhoods, comprised of contiguous ZIP codes. For emergency department and case data, these areas are combined into 34 neighborhoods. You can read more about this neighborhood boundary scheme [here] (https://a816-dohbesp.nyc.gov/IndicatorPublic/data-stories/geographies/).
+
+Geographic data for emergency department visits and hospitalizations from the emergency department are presented as a proportion of all visits and hospitalizations, respectively, for each neighborhood.
+
+We report age-adjusted case rates by neighborhood to provide clear comparisons between areas with different population sizes and age structures. For example, we may report that the COVID-19 case rate for a given neighborhood is 100 per 100,000 population. That means for every 100,000 people living in that neighborhood, there are 100 people diagnosed with COVID-19.
+
+Rates are calculated using interpolated intercensal population estimates produced by the NYC Health Department based on estimates from the U.S. Census Bureau and NYC Department of City Planning. Rates are adjusted using direct standardization for age at diagnosis and weighting by the US 2000 standard population.
+
+The rate of cases per 100,000 people is suppressed for a specific neighborhood when the case count is less than 5 due to imprecise and unreliable estimates and also to protect confidentiality.
 
 The data in this repository include patients who reside in congregate facilities, such as correctional facilities and long-term care facilities. While data reported from these facilities may sometimes influence local trends, cases reported from these facilities do not necessarily represent community-based transmission.  
 
 ## Age groups
 
-The NYC Health Department reports out data for the following age groups: 0-4, 5-17, 18-44, 45-64, and 65+ years. For data on deaths, age groups 0-4 and 5-17 are collapsed into 0-17 years due to low death counts in this population and to protect confidentiality.
+The NYC Health Department reports data for the following age groups: 0-4, 5-17, 18-44, 45-64, and 65+ years. For data on deaths, age groups 0-4 and 5-17 are collapsed into 0-17 years due to low death counts in this population and to protect confidentiality.
 
 ## Race and ethnicity
 
@@ -140,5 +162,4 @@ Data received from emergency departments and electronic laboratory reports often
 ## Health inequities
 
 Differences in health outcomes among racial and ethnic groups are due to long-term institutional and personal biases against people of color. There is no evidence that these health inequities are due to personal traits. Lasting racism and an inequitable distribution of resources needed for wellness cause these health inequities. These include quality jobs, housing, health care, and food, among others. 
-
 Structural racism — centuries of racist policies and discriminatory practices across institutions, including government agencies, and society — prevents communities of color from accessing vital resources (such as health care, housing, and food) and opportunities (such as employment and education), and negatively affects overall health and well-being.
