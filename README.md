@@ -121,7 +121,7 @@ Deaths among NYC residents younger than 18 years old associated with influenza o
 
 ## Wastewater
 
-The [NYC wastewater treatment system](https://www.nyc.gov/site/dep/water/wastewater-treatment-system.page) is made up of 14 wastewater drainage areas, known as sewersheds. Wastewater from these areas is treated at 14 wastewater resource recovery facilities (WRRFs) located throughout the city. Twice a week (on Tuesdays and Sundays) the Department of Environmental Protection collects wastewater from these WRRFs and shares the samples with the NYC Health Department to analyze and quantify biological markers of specific pathogens. 
+The [NYC wastewater treatment system](https://www.nyc.gov/site/dep/water/wastewater-treatment-system.page) is made up of 14 wastewater drainage areas, known as sewersheds. Wastewater from these areas is treated at 14 wastewater resource recovery facilities (WRRFs) located throughout the city. Twice a week (on Tuesdays and Sundays) the Department of Environmental Protection collects wastewater from these WRRFs prior to treatment and shares the samples with the NYC Health Department to analyze and quantify biological markers of specific pathogens. 
 
 Wastewater viral load data are normalized by multiplying viral load (in copies per liter) by the average daily flow (transformed to liters per day) and dividing by the approximate population served. Values shown reflect the citywide weekly average of the normalized copies (with missing values excluded). Values below the limit of detection indicate very low or no concentration of viral copies in wastewater and are reflected as <LOD in the data tables. 
 
